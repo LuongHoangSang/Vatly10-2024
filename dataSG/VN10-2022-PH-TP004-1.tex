@@ -1,0 +1,132 @@
+\let\lesson\undefined
+\newcommand{\lesson}{\phantomlesson{Bài 4: Chuyển động thẳng}}
+\chapter[Tốc độ]{Tốc độ}
+\setcounter{section}{0}
+\section{Lý thuyết}
+\subsection{Tốc độ trung bình}
+Tốc độ trung bình $v_{\text{tb}}$ là đại lượng đặc trưng cho mức độ nhanh hay chậm của chuyển động; được đo bằng thương số giữa quãng đường đi được $s$ và khoảng thời gian $t$ để đi hết quãng đường đó:
+\begin{equation}
+	v_{\text{tb}}=\dfrac{s}{t}.
+\end{equation}
+Trong hệ SI, đơn vị của tốc độ trung bình là m/s. Các đơn vị khác cũng thường được sử dụng là km/h, cm/s...
+\subsection{Tốc độ tức thời}
+Tốc độ trung bình tính trong khoảng thời gian rất nhỏ là tốc độ tức thời (kí hiệu $v$) diễn tả sự nhanh, chậm của chuyển động tại thời điểm đó.
+\luuy{\begin{itemize}
+		\item Khi một vật chuyển động với tốc độ tức thời không đổi, ta nói chuyển động của vật là chuyển động đều. Ngược lại, ta nói chuyển động của vật là không đều.
+		\item Trên thực tế, tốc độ tức thời được hiển thị bởi tốc kế trên nhiều phương tiện giao thông.
+	\end{itemize}
+}
+\section{Mục tiêu bài học - Ví dụ minh họa}
+\begin{dang}{Xác định quãng đường, tốc độ \\trong chuyển động thẳng đều}
+	\viduii{3}{Một ô tô đi trên con đường bằng phẳng với tốc độ trung bình $v = \SI{60}{km/h}$, trong thời gian 5 phút, sau đó lên dốc 3 phút với tốc độ trung bình $v = \SI{40}{km/h}$. Tính quãng đường ô tô đã đi trong cả giai đoạn.
+	}
+	{	\begin{center}
+			\textbf{Hướng dẫn giải}
+		\end{center}
+		
+		Quãng đường ô tô đi được trên đoạn đường phẳng
+		$$s_1 =v_1t_1 =\xsi{60}{\kilo\meter/\hour}\cdot\xsi{5}{\minute}=\dfrac{\xsi{60}{\kilo\meter}}{\xsi{1}{\hour}}\cdot\xsi{5}{\minute}=\dfrac{\xsi{60}{\kilo\meter}}{\xsi{60}{\minute}}\cdot\xsi{5}{\minute}=\SI{5}{km}.$$
+		
+		Quãng đường ô tô lên dốc
+		$$s_2 = v_2t_2=\xsi{40}{\kilo\meter/\hour}\cdot\xsi{3}{\minute}=\dfrac{\xsi{40}{\kilo\meter}}{\xsi{1}{\hour}}\cdot\xsi{3}{\minute}=\dfrac{\xsi{40}{\kilo\meter}}{\xsi{60}{\minute}}\cdot\xsi{3}{\minute} = \SI{2}{km}.$$
+		
+		Quãng đường ô tô đã đi trong cả giai đoạn
+		$$s = s_1+s_2 = \SI{7}{km}.$$
+		
+	}
+	\viduii{3}{Hai xe cùng chuyển động đều trên đường thẳng. Nếu chúng đi ngược chiều thì cứ 30 phút khoảng cách của chúng giảm $\SI{40}{km}$. Nếu chúng đi cùng chiều thì cứ sau 20 phút khoảng cách giữa chúng giảm $\SI{8}{km}$. Tính tốc độ của mỗi xe.
+	}
+	{	\begin{center}
+			\textbf{Hướng dẫn giải}
+		\end{center}
+		
+		Nếu đi ngược chiều thì 
+		\begin{align}
+			s_1+s_2 =(v_1+v_2)t_1 &=\xsi{40}{\kilo\meter}\nonumber\\
+			\Rightarrow\qquad v_1+v_2&=\dfrac{\xsi{40}{\kilo\meter}}{\xsi{0.5}{\hour}}=\xsi{80}{\kilo\meter/\hour}\label{eq:tongv}
+		\end{align}
+		Nếu đi cùng chiều thì	
+		\begin{align}
+			s'_1-s'_2 =(v_1-v_2)t_2 &=\xsi{8}{\kilo\meter}\nonumber\\
+			\Rightarrow\qquad v_1-v_2&=\dfrac{\xsi{8}{\kilo\meter}}{\xsi{\frac{1}{3}}{\hour}}=\xsi{24}{\kilo\meter/\hour}\label{eq:hieuv}
+		\end{align}
+		
+		Giải hệ gồm 2 phương trình \eqref{eq:tongv} và \eqref{eq:hieuv}, ta tìm được:
+		$$v_1 = \SI{52}{km/h};\quad v_2 =\SI{28}{km/h}.$$
+		
+		\luuy{Khi làm bài, ta cần phải đổi các đại lượng cùng loại về cùng một đơn vị.\\Ví dụ, trong bài này, ta phải đổi tất cả thời gian về cùng một đơn vị là giờ (h).}
+		
+		
+	}
+\end{dang}
+\begin{dang}{Phân biệt chuyển động đều và không đều}
+	\viduii{1}{Chuyển động thẳng đều không có đặc điểm nào dưới đây 
+		\begin{mcq}
+			\item Vật đi được quãng đường như nhau trong những khoảng thời gian bằng nhau bất kì.
+			\item Tốc độ không đổi từ lúc xuất phát đến lúc dừng lại.
+			\item Tốc độ trung bình trên mọi quãng đường là như nhau.
+			\item Quỹ đạo là một đường thẳng.
+		\end{mcq}
+	}
+	{	\begin{center}
+			\textbf{Hướng dẫn giải}
+		\end{center}
+		
+		Vật chuyển động thẳng đều sẽ giữ nguyên trạng thái chuyển động (quỹ đạo thẳng và tốc độ không thay đổi), nên sẽ không ``dừng lại''. 
+		
+		\textbf{Đáp án: B}.
+	}
+\end{dang}
+
+\begin{dang}{Xác định tốc độ trung bình\\ của chuyển động thẳng khi biết \\tốc độ trung bình trên từng giai đoạn}
+	\viduii{3}{Một xe chạy trong $\SI{5}{\hour}$, $\SI{2}{\hour}$ đầu xe chạy với tốc độ trung bình $\SI{60}{\km/\hour}$, $\SI{3}{\hour}$ sau xe chạy với tốc độ trung bình $\SI{40}{\km/\hour}$. Tính tốc độ trung bình của xe trong suốt thời gian chuyển động.
+	}
+	{	\begin{center}
+			\textbf{Hướng dẫn giải}
+		\end{center}
+		
+		Quãng đường xe đi được trong $\SI{2}{\hour}$ đầu 
+		\begin{equation*}
+			s_1 = v_1t_1 =\SI{60}{\kilo\meter/\hour}\cdot\SI{2}{\hour} = \SI{120}{km}.
+		\end{equation*}
+		
+		Quãng đường xe đi được trong $\SI{3}{\hour}$ sau 
+		\begin{equation*}
+			s_2 = v_2t_2 =\SI{40}{\kilo\meter/\hour}\cdot\SI{3}{\hour}= \SI{120}{km}.
+		\end{equation*}
+		
+		Tốc độ trung bình của xe trong suốt thời gian chuyển động 
+		\begin{equation*}
+			v_{\text{tb}}=\dfrac{s}{t}=\dfrac{s_1+s_2}{t_1+t_2}=\dfrac{\SI{120}{\kilo\meter}+\SI{120}{\kilo\meter}}{\SI{2}{\hour}+\SI{3}{\hour}}=\dfrac{\SI{240}{\kilo\meter}}{\SI{5}{\hour}}=\SI{48}{\km/\hour}.
+		\end{equation*}
+		
+	}
+	\viduii{1}{	Một ô tô đi từ A đến B. Đầu chặng ô tô đi 1/4 tổng thời gian với tốc độ $v_1=\SI{50}{\km/\hour}$. Giữa chặng ô tô đi 1/2 tổng thời gian với tốc độ  $v_2=\SI{40}{\km/\hour}$. Cuối chặng ô tô đi 1/4 tổng thời gian với tốc độ $v_3=\SI{20}{\km/\hour}$. Tính tốc độ trung bình của ô tô?
+	}
+	{	\begin{center}
+			\textbf{Hướng dẫn giải}
+		\end{center}
+		
+		Quãng đường ô tô đi đầu chặng 
+		\begin{equation*}
+			s_1=v_1t_1=v_1\cdot\dfrac{t}{4}.
+		\end{equation*}
+		
+		Quãng đường ô tô đi giữa chặng 
+		\begin{equation*}
+			s_2=v_2t_2=v_2\cdot\dfrac{t}{2}.
+		\end{equation*}
+		
+		Quãng đường ô tô đi cuối chặng 
+		\begin{equation*}
+			s_3=v_3t_3=v_3\cdot\dfrac{t}{4}.
+		\end{equation*}
+		
+		Tốc độ trung bình của ô tô trên cả hành trình 
+		\begin{equation*}
+			v_{\text{tb}}=\dfrac{s_1+s_2+s_3}{t}=\dfrac{v_1\cdot\dfrac{t}{4}+v_2\cdot\dfrac{t}{2}+v_3\cdot\dfrac{t}{4}}{t}=\dfrac{v_1}{4}+\dfrac{v_2}{2}+\dfrac{v_3}{4}=\SI{37,5}{\km/\hour}.
+		\end{equation*}
+	}
+\end{dang}
+
+

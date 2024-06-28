@@ -1,0 +1,89 @@
+%	==================================================
+% 						PACKAGES REQUIRED 
+% 	==================================================
+
+% *****************************************
+%  *** control, combine and redefine command in deep level -  - very important 
+	\usepackage{xparse}	
+		% --- redefine commands
+	\usepackage{environ} 
+		% --- define and redefine environments
+
+
+% *****************************************	
+% 	*** format the document
+	\usepackage{lipsum}	
+		% blind test for sample doc
+%	\usepackage{showframe}
+		% show frame for formating doc
+	\usepackage{layouts}
+		% get value of layouts
+	\usepackage{multicol}	
+	\usepackage{multirow}
+		% make multicolumns environment
+%	\usepackage{multicolrule}	
+		% make and decorate the rule between columns  
+	\usepackage[explicit]{titlesec}
+		% format the sections' titles - may affect the ToC
+	\usepackage{titletoc}
+		%  format the ToC 
+	
+		
+% *****************************************
+%  *** ngôn ngữ
+	\usepackage[utf8]{vietnam}	
+	
+% *****************************************
+%  *** fonts 
+	\usepackage{helvet}
+	
+% *****************************************
+%  *** decoration 
+	\usepackage[most]{tcolorbox} 
+	\usepackage[locale=DE,separate-uncertainty=true,multi-part-units=single]{siunitx}
+	\usepackage{tasks}	
+	\usepackage{xparse} % hỗ trợ định nghĩa options cho lệnh
+	\usepackage{xcolor,color,colortbl}  % các gói trộn màu 
+	\usepackage{xpatch}
+	\usepackage{makecell} % hỗ trợ định dạng ô trong bảng 
+	\usepackage{array} % hỗ trợ định dạng array
+	\usepackage{amsmath,amssymb,amsthm} % công thức và ký hiệu toán học 
+	%\usepackage{mathabx} % ký hiệu toán học bổ sung (+ thiên văn)  
+	\usepackage{enumitem}
+	\setlist[itemize,enumerate,description]{noitemsep, nosep}
+	\usepackage{tikz} % gói TikZ vẽ hình 
+	\usetikzlibrary{decorations.shapes,shapes.geometric,calc,shapes.misc,positioning,math,intersections,arrows.meta}
+	\usepackage{multicol} % môi trường nhiều cột
+	\usepackage{environ} % hỗ trợ định nghĩa môi trường
+	\usepackage{tasks} % hỗ trợ list dạng task 
+	\usepackage{calc} % hỗ trợ tính toán & đo văn bản 
+	\usepackage{multido} % thực hiện lệnh lặp lại 
+	\usepackage{pgf} % hỗ trợ phép tính toán học và vẽ hình	
+	\usepackage{setspace} % hỗ trợ định dạng khoảng cách văn bản. 
+	%\usepackage{showframe}	% hiển thị khung lề 
+	\usepackage{tabularx} % hỗ trợ bảng 
+	\usepackage{needspace} % hỗ trợ định dạng khối dòng văn bản 
+	\usepackage{hyperref}
+	%
+	\hypersetup{hidelinks,colorlinks=false,breaklinks=true,bookmarksopen=true}
+	\usepackage{tkz-tab} % xử lý hình với tikz 
+	\usepackage{fancybox} % tạo các hộp 
+	\usepackage[most]{tcolorbox} % định dạng các hộp, khung 
+	\tcbuselibrary{skins,xparse} % thư viện bổ sung cho tcolorbox
+	\usepackage{graphicx} % Chèn hình, vẽ hình đơn giản 
+	\usepackage{changepage}
+%	\usepackage[sfdefault]{roboto}
+%	\usepackage[T1,T5]{fontenc}
+%	\usepackage{showframe}
+\usepackage{longtable} % bảng dài nhiều trang 
+
+\usepackage{subcaption} % nhiều hình với chú thích riêng trong 1 hình lớn. (vd hình 1 có a,b,c,...)
+\usepackage{pgfplots}
+\usepackage[prefix=]{xcolor-material}
+
+\usepackage{pgfkeys}
+\usepackage[margin=1cm,font=small,labelfont=bf]{caption}		% định dạng cho caption hình & bảng 
+\usepackage{rotating}
+\usepackage{tikz,pgfplots}
+\usepackage{tkz-euclide}
+\usetikzlibrary{calc,patterns,angles,quotes}

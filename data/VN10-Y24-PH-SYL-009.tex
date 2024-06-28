@@ -1,0 +1,302 @@
+\let\lesson\undefined
+\newcommand{\lesson}{\phantomlesson{Bài 7: Gia tốc. Chuyển động thẳng biến đổi đều}}
+\chapter[Phương trình toạ độ của vật chuyển động thẳng biến đổi đều (đọc thêm)]{Phương trình toạ độ của vật chuyển động thẳng biến đổi đều (đọc thêm)}
+\setcounter{section}{0}
+\section{Lý thuyết}
+\subsection{Phương trình toạ độ của chất điểm chuyển động thẳng biến đổi đều}
+Phương trình chuyển động của vật là phương trình mô tả sự thay đổi tọa độ của vật theo thời gian. \\
+Để lập phương trình toạ độ của vật chuyển động thẳng biến đổi đều, ta thực hiện các bước như sau:
+\begin{itemize}
+	\item Chọn hệ quy chiếu gồm:
+	\begin{itemize}
+		\item Gốc tọa độ (thường là vị trí xuất phát của một vật);
+		\item Mốc thời gian (thường là thời điểm bắt đầu chuyển động của một vật);
+		\item Chiều dương (thường là chiều chuyển động của một vật).
+	\end{itemize}
+	\item Xét một điểm chuyển động thẳng biến đổi đều trên đường thẳng O$x$. Ở thời điểm ban đầu ($t_0$), chất điểm ở vị trí A có tọa độ $x_{0}$  với vận tốc ban đầu $v_0$ và gia tốc $a$. Mốc thời gian được chọn lúc bắt đầu chuyển động. Ở thời điểm $t$, chất điểm ở vị trí B có tọa độ $x$ như hình vẽ.  	
+	\begin{center}
+		\begin{tikzpicture}
+			\coordinate (laxis) at (-0.5,0);
+			\coordinate (O) at (0,0);
+			\coordinate (A) at (2,0);
+			\coordinate (va) at ($(A)+(1,0)$);
+			\coordinate (raxis) at (8,0);
+			\coordinate (ldaxis) at (-0.5,-1);
+			\coordinate (Od) at (0,-1);
+			\coordinate (Ad) at (2,0);
+			\coordinate (B) at (5,-1);
+			\coordinate (vb) at ($(B)+(2,0)$);
+			\coordinate (rdaxis) at (8,-1);
+			\draw[->] (laxis) -- (raxis);
+			\draw[->] (ldaxis) -- (rdaxis);
+			
+			
+			\draw[->,ultra thick,blue] (A) -- (va);
+			\draw[->,ultra thick,green!60!black] (B) -- (vb);
+			\node[above=2mm] at (A) {A};
+			\node[below left=1mm and 0.5mm] at (A) {$x_0$};
+			\node[above=2mm] at (B) {B};
+			\node[below left=1mm and 0.5mm] at (B) {$x$};
+			\node[above=2mm] at (O) {O};
+			
+			%		\node[above=2mm] at (Od) {O};
+			%		\node[below=2mm] at (C) {C};
+			\node[right] at (raxis) {$x$};
+			\node[above=1mm] at (va) {$\vec{v}_{0}$};
+			\node[above=1mm] at (vb) {$\vec{v}$};
+			
+			\node[left=3cm,anchor=west] at (laxis) {thời điểm $t_0$};
+			\node[left=3cm,anchor=west] at (ldaxis) {thời điểm $t> t_0$};
+			\foreach \i in {O,Od,B,A}
+			{
+				\filldraw (\i) circle (2pt);
+			}
+			
+			%		\coordinate (odd) at ($(O)-(0,2)$);
+			\coordinate (add) at ($(A)-(0,2)$);
+			\coordinate (bdd) at ($(B)-(0,1)$);
+			%		\draw[<->,thick] (odd) -- (add);
+			\draw[<->] (add) -- (bdd) node[midway,fill=pagecol] {$d$};
+			\draw[dashed] (O)--(Od);
+			\draw[dashed] (A)--(add);
+			\draw[dashed] (B)--(bdd);
+			
+		\end{tikzpicture}
+	\end{center}
+	Phương trình chuyển động của vật có dạng tổng quát như sau:
+	\begin{equation*}
+		x=x_0+d=x_0+v_0\cdot(t-t_0)+\dfrac{1}{2}a\cdot(t-t_0)^2\qquad\textrm{ với }(t\geq t_0),
+	\end{equation*}
+	Thông thường, để thuận tiện trong tính toán, ta chọn thời điểm $t_0=0$, khi đó phương trình chuyển động của chất điểm trở thành 
+	\begin{equation*}
+		x=x_0+v_0t+\dfrac{1}{2}at^{2}.
+	\end{equation*}
+\end{itemize}	
+\subsection{Điều kiện để hai vật gặp nhau}
+Hai vật gặp nhau khi chúng có cùng tọa độ:
+\begin{equation*}
+	x_1=x_2.
+\end{equation*}
+\subsection{Khoảng cách giữa hai vật trong quá trình chuyển động}
+Khoảng cách giữa hai vật tại thời điểm $t$ bất kì là:
+\begin{equation*}
+	\Delta x=\left|x_1-x_2\right|.
+\end{equation*}
+\section{Mục tiêu bài học - Ví dụ minh họa}
+\begin{dang}{Xác định quãng đường, vận tốc, gia tốc, thời gian \\thông qua phương trình chuyển động }
+	\viduii{2}{Một vật chuyển động có phương trình toạ độ theo thời gian: $x = 6t^2 - 18t + 12 \ (\text{cm, s})$. Hãy xác định:
+		\begin{enumerate}[label=\alph*.]
+			\item Vận tốc đầu, gia tốc của chuyển động và cho biết tính chất của chuyển động.
+			\item Vận tốc của vật ở thời điểm $t = \SI{2}{\second}$.
+		\end{enumerate}
+	}
+	{\hide{
+		\begin{enumerate}[label=\alph*.]
+			\item Đối chiếu phương trình 
+			$$x = 6t^2 - 18t + 12 \ \text{cm}$$
+			với phương trình chuyển động
+			$$x=x_0+v_0t+\dfrac{1}{2}at^{2}$$
+			ta suy ra
+			$$v_0 = \SI{-18}{\centi\meter/\second};\qquad a =\SI{12}{\centi\meter/\second^{2}}.$$
+			
+			Vật chuyển động chậm dần đều do gia tốc và vận tốc trái dấu với nhau.
+			\item Thay các giá trị vận tốc và gia tốc đã tìm được vào phương trình vận tốc, ta suy ra vận tốc của vật ở thời điểm $t=\SI{2}{\second}$
+			$$v =v_0 +at =\SI{-18}{\centi\meter/\second}+\SI{12}{\centi\meter/\second^{2}}\cdot\SI{2}{\second}=\SI{6}{\centi\meter/\second}.$$
+		\end{enumerate}
+	}}
+	
+	\viduii{3}{Một vật chuyển động thẳng có phương trình toạ độ theo thời gian: $x = 4t^2 + 20t\ (\text{m})$. Xác định độ dịch chuyển của vật từ thời điểm $t_1 = \SI{2}{s}$ đến thời điểm $t_2 = \SI{5}{s}$.
+	}
+	{\hide{
+		Vị trí của vật ở thời điểm  $\SI{2}{\second}$  
+		
+		$$x_1 = 4t_1^2 + 20t_1 =\SI{56}{\meter}.$$
+		
+		Vị trí của vật ở thời điểm  $\SI{5}{\second}$ 
+		
+		$$x_2 = 4t_2^2 + 20t_2 =\SI{200}{\meter}.$$
+		
+		Độ dịch chuyển của vật trong thời gian từ $\SI{2}{\second}$  đến $\SI{5}{\second}$ là:
+		$$d = x_2 - x_1 = \SI{144}{\meter}.$$
+		
+	}}
+
+	\viduii{3}{Vật chuyển động thẳng có phương trình: $x = 2t^2 - 4t + 10$ (đơn vị của $x$ và $t$ lần lượt là mét và giây). Vật sẽ dừng lại tại vị trí
+		\begin{mcq}(4)
+			\item $\SI{6}{m}.$
+			\item $\SI{4}{m}.$
+			\item $\SI{10}{m}.$
+			\item $\SI{8}{m}.$
+		\end{mcq}
+	}
+	{\hide{
+		Vật sẽ dừng lại khi vận tốc $v = 0$.
+		
+		Từ phương trình chuyển động ta suy ra các giá trị vận tốc ban đầu và gia tốc 
+		$$v_0=\SI{-4}{\meter/\second},	\qquad a=\SI{4}{\meter/\second^{2}}.$$
+		
+		Sử dụng phương trình vận tốc, ta suy ra thời điểm vật dừng lại
+		\begin{align*}
+			v=v_0+at=0 \quad\Rightarrow\quad t=-\dfrac{v_0}{a}=-\dfrac{\SI{-4}{\meter/	\second}}{\SI{4}{\meter/\second^{2}}}=\SI{1}{\second}.
+		\end{align*}		
+		Thay $t =\SI{1}{\second}$ vào phương trình chuyển động ta được vị trí dừng lại của vật 
+		$$x = 2t^2 - 4t + 10=\SI{8}{\meter}.$$
+		
+		\textbf{Đáp án: D}.
+	}}
+\end{dang}
+\begin{dang}{Xây dựng phương trình\\ chuyển động thẳng biến đổi đều}
+	\viduii{2}{Một vật chuyển động thẳng chậm dần đều với tốc độ ban đầu $\SI{3}{\meter/\second}$ và gia tốc có độ lớn $\SI{2}{\meter/\second^2}$. Biết thời điểm ban đầu vật ở gốc tọa độ và chuyển động ngược chiều dương của trục tọa độ. Viết phương trình chuyển động của vật.
+	}
+	{\hide{
+		Chọn gốc thời gian là khi vật bắt đầu chuyển động.
+		
+		Vì vật chuyển động chậm dần đều ngược chiều dương nên
+		\begin{equation*}
+			\left\{
+			\begin{array}{rcl}
+				a\cdot v &<&0\\
+				v &<& 0
+			\end{array}
+			\right.
+			\quad
+			\Rightarrow 
+			\left\{
+			\begin{array}{rcl}
+				a &>& 0\\
+				v &<& 0.
+			\end{array}
+			\right.
+		\end{equation*}
+		
+		Kết hợp với các dữ kiện của đề bài, ta suy ra
+			\begin{align*}
+				\begin{cases}
+					a=\SI{2}{\meter/\second^2}\\
+					v=\SI{-3}{\meter/\second}\\
+					x_0=\SI{0}{\meter} \qquad\text{(vì ban đầu vật ở gốc toạ độ.)}
+				\end{cases}
+			\end{align*}
+		Do đó, phương trình chuyển động của vật có dạng
+		$x=-3t+t^2$ (m, s).
+	}}
+
+	\viduii{3}{Một đoạn dốc thẳng dài $\SI{62,5}{m}$, Nam đi xe đạp và khởi hành từ chân dốc đi lên với $v_0 =\SI{18}{km/h}$ chuyển động chậm dần đều với gia tốc có độ lớn $\SI{0,2}{m/s}^2$.
+		\begin{enumerate}[label=\alph*.]
+			\item Viết phương trình chuyển động của Nam.
+			\item Nam đi hết đoạn dốc trong bao lâu?
+		\end{enumerate}
+	}
+	{\hide{
+		Đổi đơn vị $$\SI{18}{km/h} = \dfrac{\SI{18e3}{\meter}}{\SI{3600}{\second}}=\SI{5}{m/s}.$$
+		
+		Chọn gốc toạ độ tại chân dốc, chiều dương từ chân dốc đến đỉnh dốc, gốc thời gian là khi Nam bắt đầu lên dốc.
+		\begin{enumerate}[label=\alph*.]
+			\item Khi nam lên dốc, Nam đi theo chiều dương nên $v>0$.
+			
+			Chuyển động chậm dần đều: 
+			$$a\cdot v<0 \Rightarrow a<0.$$
+			
+			Phương trình chuyển động:
+			$$x =x_0 +v_0t+\dfrac{1}{2}at^2 = 5t - \text{0,1}t^2.$$
+			\item Thời gian đi hết đoạn dốc
+			$$\text{62,5} =5t - \text{0,1}t^2 \Rightarrow t = \SI{25}{s}.$$
+		\end{enumerate}
+	}}
+\end{dang}
+
+\begin{dang}{Xác định vị trí, thời điểm hai vật gặp nhau}
+	\viduii{3}{Một xe ô tô bắt đầu chuyển động thẳng nhanh dần đều với gia tốc $\SI{0,5}{\meter/\second^{2}}$ đúng lúc một xe máy chuyển động thẳng đều với tốc độ $\SI{36}{\kilo\meter/\hour}$ vượt qua nó.
+		Xác định thời điểm và vị trí hai xe gặp nhau lần nữa và vận tốc xe ô tô khi đó?
+		Xác định thời điểm để hai xe cách nhau một quãng đường là $\SI{100}{\meter}$.
+		
+	}
+	{\hide{
+		Chọn chiều dương là chiều chuyển động của ô tô, gốc tọa độ tại vị trí xuất phát, gốc thời gian là lúc xe ô tô khởi hành.
+		
+		Xe ô tô có các điều kiện đầu: 
+		$$x_{10} = \SI{0}{\meter};\qquad  v_{10} = \SI{0}{\meter/\second};\qquad a_1 = \SI{0.5}{\meter
+			/\second^{2}}$$	
+		nên có phương trình chuyển động 
+		$$x_1 = x_{10}+v_{10}t+\dfrac{1}{2}a_{1}t^{2}=0,25t^2\quad \left(\si{\meter}, \si{\second}\right).$$
+		
+		Xe máy có các điều kiện đầu
+		$$x_{20} = 0;\qquad v_{20} =\SI{36}{\kilo\meter/\hour}=\SI{10}{\meter/\second};\qquad a_{2} = \SI{0}{\meter/\second^{2}}$$	
+		nên có phương trình chuyển động 
+		$$x_2 =x_{20}+v_{20}t+\dfrac{1}{2}a_2t^2=10t\quad \left(\si{\meter}, \si{\second}\right).$$
+		
+		Khi hai xe gặp nhau thì toạ độ của chúng bằng nhau
+			$$x_1=x_2$$
+			$$\Rightarrow0,25t^2=10t$$
+		\begin{align*}
+		\Rightarrow t=\SI{0}{\second}\quad \text{hoặc} \quad	t=\SI{40}{\second}
+		\end{align*}
+		trong đó nghiệm $t=0$ ứng với thời điểm hai xe gặp nhau lúc đầu, còn nghiệm $t=\SI{40}{\second}$ là nghiệm ta cần tìm. 
+		
+		Vị trí 2 xe gặp nhau 
+		$$x_1=x_2=v_{20}t =\left(\SI{10}{\meter/\second}\right)\cdot\left(\SI{40}{\second}\right)= \SI{400}{m}.$$
+		
+		Vận tốc ô tô khi đó 
+		$$v_1 = v_{10}+ a_1t = \SI{0}{\meter/\second}+\left(\SI{0.5}{\meter/\second^{2}}\right)\cdot\left(\SI{40}{\second}\right)=\SI{20}{m/s}.$$  
+	}}
+
+	\viduii{3}{
+		Trong một chuyến từ thiện của trung tâm A thì mọi người dừng lại bên đường uống nước. Sau đó, ngay thời điểm ô tô bắt đầu chuyển động nhanh dần đều với gia tốc $\SI{0,5}{m/s}^2$ thì có một xe khách vượt qua xe với tốc độ $\SI{18}{km/h}$ và gia tốc $\SI{0,3}{m/s}^2$. Hỏi ô tô đuổi kịp xe khách sau khi đi quãng đường bao xa, và tính vận tốc của ô tô lúc đó.
+	}
+	{\hide{
+		Chọn chiều dương là chiều chuyển động của ô tô, gốc tọa độ tại vị trí uống nước, gốc thời gian là lúc xe ô tô khởi hành.
+		
+		Từ các điều kiện ban đầu của ô tô
+		$$x_{10} = 0,\quad v_{10} = 0,\quad a_{1} = \SI{0,5}{m/s}^2,$$	
+		ta suy ra phương trình chuyển động của ô tô
+		$$x_1 = \text{0,25}t^2.$$
+		
+		Từ các điều kiện ban đầu của xe khách, ta suy ra được phương trình chuyển động của xe khách
+		\begin{equation*}
+			\begin{gathered}
+				x_{20} = 0,\quad v_{20} =\SI{18}{km/h}=\SI{5}{m/s},\quad a_{2} = \SI{0,3}{m/s}^2\\
+				\Rightarrow\quad x_2 =5t+\text{0,15}t^2.
+			\end{gathered}
+		\end{equation*}
+		
+		Thời điểm hai xe gặp nhau được xác định từ phương trình 
+		$$x_1=x_2 \quad\Rightarrow\quad \text{0,25}t^2=5t+\text{0,15}t^2 \quad\Rightarrow\quad t=\SI{0}{\second}\quad\vee\quad t =\SI{50}{s}.$$
+		Ta chọn nghiệm $t =\SI{50}{s}$ là thời điểm gặp nhau sau khi ô tô đã xuất phát. 
+		
+		Vận tốc của ô tô khi đó
+		$$v_1 = v_{10}+ a_1t = \SI{0}{\meter/\second}+\SI{0.5}{\meter/\second^{2}}\cdot\SI{50}{\second}=\SI{25}{m/s}.$$  
+		
+		Quãng đường ô tô đã đi được cho đến khi gặp nhau 
+		$$s=x-x_0 =\text{0,25}t^2 = \SI{625}{\meter}.$$	
+	}}
+\end{dang}
+\begin{dang}{Xác định vận tốc, khoảng cách giữa hai vật\\ chuyển động thẳng biến đổi đều}
+	\viduii{3}{Một xe ô tô bắt đầu chuyển động thẳng nhanh dần đều với gia tốc $\SI{0,5}{m/s}^2$ đúng lúc một xe máy chuyển động thẳng đều với vận tốc $\SI{36}{km/h}$ vượt qua nó. Xác định thời điểm để hai xe cách nhau một quãng đường là $\SI{100}{m}$.
+	}
+	{\hide{
+		Chọn chiều dương là chiều chuyển động của ô tô, gốc tọa độ tại vị trí xuất phát, gốc thời gian là lúc xe ô tô khởi hành.
+		
+		Xe ô tô có các điều kiện ban đầu
+		$$x_{10} = \SI{0}{\meter};\qquad  v_{10} = \SI{0}{\meter/\second};\qquad a_1 = \SI{0.5}{\meter
+			/\second^{2}}$$	
+		nên có phương trình chuyển động 
+		$$x_1 = x_{10}+v_{10}t+\dfrac{1}{2}a_{1}t^{2}=\dfrac{1}{2}a_1t^2=\SI{0.25}{}t^{2}.$$
+		
+		Xe máy có các điều kiện ban đầu
+		$$x_{20} = 0;\qquad v_{20} =\SI{36}{\kilo\meter/\hour}=\SI{10}{\meter/\second};\qquad a_{2} = \SI{0}{\meter/\second^{2}}$$	
+		nên có phương trình chuyển động 
+		$$x_2 =x_{20}+v_{20}t+\dfrac{1}{2}a_2t^2=v_{20}t=\SI{10}{}t.$$
+		
+		Để 2 xe cách nhau $\SI{40}{m}$ thì 
+		$$|x_1-x_2| = 100.$$
+		$$\Rightarrow \left[\begin{array}{ll}{x_1-x_2 =100}&\\{x_2-x_1 =100.}&\end{array}\right.$$
+		
+		$$\Rightarrow 
+		\left[\begin{array}{ll}{\text{0,25}t^2 -10t=100 \Rightarrow t\approx\SI{48,28}{s}}&\\{10t-\text{0,25}t^2=100\Rightarrow t =\SI{20}{s}.}&\end{array}\right.$$
+		
+		\luuy{Đôi khi các phương trình cho ta nhiều nghiệm $t$, ta cần phân tích ý nghĩa của nghiệm và lựa chọn nghiệm phù hợp với thời điểm ta quan tâm. 
+			
+			Chẳng hạn trong  bài toán này, các phương trình cho ba nghiệm: $t_1\approx\SI{-8.28}{\second}, t_2=\SI{20}{\second},t_3\approx\SI{48.28}{\second}$. Nghiệm $t_1$ tương ứng với thời điểm trước khi xe hai xe gặp nhau lần đầu, lúc đó xe máy đang ở phía sau của ô tô và chuẩn bị vượt qua ô tô. Nghiệm $t_2$ ứng với thời điểm ô tô đang đuổi theo xe máy, và còn cách xe máy \SI{100}{\meter}. Nghiệm $t_3$ ứng với thời điểm ô tô đã vượt qua xe máy và đã bỏ xa xe máy \SI{100}{\meter}. Do đề bài chỉ cho ta biết về chuyển động hai xe kể từ thời điểm xe máy vượt qua ô tô, nên ta chỉ quan tâm các nghiệm $t>0$. 
+		}
+	}}
+\end{dang}

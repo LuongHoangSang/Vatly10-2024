@@ -1,0 +1,154 @@
+\let\lesson\undefined
+\newcommand{\lesson}{\phantomlesson{Bài 16: Công suất}}
+\chapter[Công suất]{Công suất}
+\setcounter{section}{0}
+\section{Lý thuyết}
+\subsection{Khái niệm công suất}
+Công suất là đại lượng đặc trưng cho tốc độ sinh công, được tính bằng công sinh ra trong một đơn vị thời gian.
+\begin{equation*}
+	\calP=\dfrac{A}{t}.
+\end{equation*}
+
+Nếu vật sinh công không đều, thì công suất tính theo công thức trên gọi là công suất trung bình. 
+\subsection{Đơn vị của công suất}
+
+Trong hệ SI, công suất có đơn vị oát (watt), kí hiệu W.
+\begin{equation*}
+	1\ \text{W}=\dfrac{1\ \text{J}}{1\ \text{s}}.
+\end{equation*}
+
+1 watt là công suất của một thiết bị thực hiện công bằng 1 joule  trong thời gian 1 giây.
+
+Một đơn vị khác thường được sử dụng của công suất là mã lực (CV, HP).
+\begin{eqnarray*}
+	1\ \text{CV}\ (\text{Pháp}) &=& 736\ \text{W}\\
+	1\ \text{HP}\ (\text{Anh}) &=& 746\ \text{W}		
+\end{eqnarray*}
+\begin{center}
+	\textbf{Công suất một số hoạt động và thiết bị }
+\end{center}
+\begin{center}
+	
+	\begin{tabular}{|l|r|}
+		\hline
+		\multicolumn{1}{|c|}{\textbf{Tên thiết bị}} & \multicolumn{1}{c|}{\textbf{Công suất trung bình}} \\ \hline
+		Tổ máy phát điện                            & $\SI{240}{MW}$                                     \\ \hline
+		Tàu biển                                    & $\SI{50}{MW}$                                      \\ \hline
+		Vận động viên nâng tạ $\SI{150}{kg}$        & $\SI{3.3}{kW}$                                     \\ \hline
+		Máy phát thanh                              & $\SI{3}{kW}$                                       \\ \hline
+		Lò nướng                                    & $\SI{2}{kW}$                                       \\ \hline
+		Bóng đèn điện                               & $\SI{100}{W}$                                      \\ \hline
+		Trái tim đập 60 nhịp/phút                   & $\SI{30}{W}$                                       \\ \hline
+		Máy tính bỏ túi                             & $\SI{e-3}{W}$                                    \\ \hline
+	\end{tabular}
+	
+\end{center}
+\subsection{Mối liên hệ giữa công suất với lực và vận tốc}
+Trường hợp vật chuyển động thẳng đều với vận tốc $v$ theo phương của lực, biểu thức liên hệ giữa công suất với lực và vận tốc là
+$$\calP = \dfrac{A}{t} = \dfrac{Fs}{t}= Fv$$
+
+\section{Mục tiêu bài học - Ví dụ minh họa}
+\begin{dang}{Tính công suất trung bình trong trường hợp tổng quát}
+	\viduii{2}{Một hành khách kéo đều một vali đi trong nhà ga trên sân bay trên quãng đường dài $\SI{150}{m}$ với lực kéo có độ lớn $\SI{40}{N}$ theo hướng hợp với phương ngang một góc $60^\circ$. Hãy xác định công suất của lực kéo của người này trong khoảng thời gian 5 phút.
+	}
+	{	\begin{center}
+			\textbf{Hướng dẫn giải}
+		\end{center}
+		Công suất của lực kéo của người:
+		$$\calP = \dfrac{A}{t} = \dfrac{Fs\cos \alpha}{t}=\dfrac{\SI{40}{\newton}\cdot\SI{150}{\meter
+			}\cdot\cos\SI{60}{\degree}}{5\cdot\SI{60}{\second}}= \SI{10}{\watt}.$$
+		
+		\begin{center}
+			\textbf{Câu hỏi tương tự}
+		\end{center}
+		
+		Một người kéo đều một vật trên quãng đường dài $\SI{15}{m}$ theo phương ngang với lực kéo có độ lớn $\SI{20}{N}$, hướng của lực cũng theo phương nằm ngang. Hãy xác định công suất của lực kéo của người này trong khoảng thời gian 5 phút.
+		
+		\textbf{Đáp án:} $\SI{1}{W}$.
+	}
+	\viduii{2}{Một động cơ điện cung cấp công suất 15 kW cho một cần cẩu nâng 1000 kg lên cao 30 m. Lấy $g=10\ \text{m/s}^2$. Tính thời gian tối thiểu để thực hiện công việc đó.
+	}
+	{	\begin{center}
+			\textbf{Hướng dẫn giải}
+		\end{center}
+		Để nâng được vật lên, cần cẩu phải tác dụng lực $F$ hướng lên trên, có độ lớn tối thiểu bằng trọng lực ($F\geq P=mg$). Lực và phương chuyển động của vật đều hướng lên nên góc giữa lực và phương chuyển động là \SI{0}{\degree}.
+		
+		Công mà cần cẩu đã thực hiện để nâng vật lên cao 30 m:
+		\begin{equation*}
+			A=Fs \cos \alpha \geq mg s\cos \alpha =\SI{1000}{\kilogram}\cdot\SI{10}{\meter/\second^2}\cdot\SI{30}{\meter}\cdot\cos\SI{0}{\degree}= \SI{300000}{\joule}=\SI{300}{\kilo\joule}.
+		\end{equation*}
+		Thời gian tối thiểu để thực hiện công việc đó
+		\begin{equation*}
+			\calP=\dfrac{A_{\min}}{t} \Rightarrow t =\dfrac{A_{\min}}{\calP}=\dfrac{\SI{300}{\kilo\joule}}{\SI{15}{\kilo\watt}}= 20\ \text{s}.
+		\end{equation*}
+		
+		
+		\begin{center}
+			\textbf{Câu hỏi tương tự}
+		\end{center}
+		
+		Một động cơ điện cung cấp công suất $\SI{0.05}{MW}$ cho một cần cẩu nâng 10 tấn lên cao 30 m. Lấy $g=10\ \text{m/s}^2$. Tính thời gian tối thiểu để thực hiện công việc đó?
+		
+		\textbf{Đáp án:} $\SI{60}{s}$.
+		
+		
+	}
+\end{dang}
+
+\begin{dang}{Nêu được mối liên hệ giữa công suất với lực và vận tốc}
+	\viduii{2}{Một gàu nước có khối lượng 10 kg được kéo cho chuyển động thẳng đều lên độ cao 5 m trong khoảng thời gian 1 phút 40 s. Tính công suất trung bình của lực kéo. Lấy $g=10\ \text{m/s}^2$.
+	}
+	{	\begin{center}
+			\textbf{Hướng dẫn giải}
+		\end{center}
+		
+		Thời gian $t=1\ \text{phút}\ 40\ \text{s} = 1\cdot\SI{60}{\second} +\SI{40}{\second}= \SI{100}{\second}$.
+		
+		Gàu nước chuyển động thẳng đều nên lực kéo có chiều hướng lên trên và có độ lớn đúng bằng trọng lực 
+		\begin{align*}
+			F=P=mg.
+		\end{align*}
+		Công để kéo gàu nước thẳng đều 
+		\begin{equation*}
+			A=Fh=mgh.
+		\end{equation*}
+		
+		Công suất trung bình của lực kéo
+		\begin{equation*}
+			\calP=\dfrac{A}{t} =\dfrac{mgh}{t}=\dfrac{\SI{10}{\kilogram}\cdot\SI{10}{\meter/\second^2}\cdot\SI{5}{\meter}}{\SI{100}{\second}} =\SI{5}{\watt}.
+		\end{equation*}
+		
+		
+		\begin{center}
+			\textbf{Câu hỏi tương tự}
+		\end{center}
+		
+		Một vật có khối lượng 1,5 tấn được cần cẩu nâng đều lên độ cao $\SI{20}{m}$ trong khoảng thời gian $\SI{20}{s}$. Lấy $g=\SI{10}{m/s^2}$. Tính công suất trung bình của lực nâng của cần cẩu.
+		
+		\textbf{Đáp án:} $\SI{15}{\kilo\watt}$.
+	}
+	\viduii{2}{
+		Một ô tô chuyển động thẳng đều trên đường nằm ngang với vận tốc $\SI{72}{km/h}$, công suất của động cơ là $\SI{75}{kW}$. Tính lực phát động của động cơ.
+	}
+	{\begin{center}
+			\textbf{Hướng dẫn giải}
+		\end{center}
+		
+		Công suất của vật chuyển động thẳng đều:
+		$$\calP = Fv \Rightarrow F = \dfrac{\calP}{v} =\dfrac{\SI{75}{\kilo\watt}}{\SI{20}{\meter/\second}}= \SI{3750}{\newton}.$$
+		
+		\begin{center}
+			\textbf{Câu hỏi tương tự}
+		\end{center}
+		
+		Một vật khối lượng $m=\SI{10}{\kilogram}$ được kéo chuyển động thẳng nhanh dần dều trên sàn nhẵn không ma sát bằng một lực $F=\SI{5}{\newton}$ theo phương ngang từ trạng thái nghỉ. Trong thời gian 4 giây tính từ lúc bắt đầu chuyển động công suất trung bình của lực $F$ bằng
+		\begin{mcq}(4)
+			\item $\SI{10}{\watt}$.
+			\item $\SI{8}{\watt}$.
+			\item $\SI{5}{\watt}$.
+			\item $\SI{4}{\watt}$.
+		\end{mcq}
+		
+		\textbf{Đáp án: C}.
+	}
+\end{dang}

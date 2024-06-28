@@ -1,0 +1,69 @@
+\newcommand{\chapter}[2][]{
+	\newcommand{\chapname}{#2}
+	\begin{flushleft}
+		\begin{minipage}[t]{\linewidth}
+			\includegraphics[height=1cm]{hdht-logo.png}
+			\hspace{0pt}	
+			\sffamily\bfseries\large Bài  14.
+			\begin{flushleft}
+				\huge\bfseries #1
+			\end{flushleft}
+		\end{minipage}
+	\end{flushleft}
+	\vspace{1cm}
+	\normalfont\normalsize
+}
+\chapter[Lực và gia tốc]{Lực và gia tốc}
+\section{Lý thuyết}
+
+Gia tốc của một vật cùng hướng với lực tác dụng lên vật. Độ lớn của gia tốc tỉ lệ thuận với độ lớn của lực và tỉ lệ nghịch với khối lượng của vật.
+\begin{equation*}
+	\vec{a}=\dfrac{\vec F}{m},
+\end{equation*}
+trong đó:
+\begin{itemize}
+	\item $\vec F$ là lực tác dụng lên vật (N);
+	\item m là khối lượng của vật (kg);
+	\item $\vec a$ là gia tốc của vật ($\text{m/s}^2$).
+\end{itemize}
+\section{Mục tiêu bài học - Ví dụ minh họa}
+\begin{dang}{Áp dụng mối liên hệ giữa lực và gia tốc của một vật chuyển động thẳng biến đổi đều}
+	\viduii{2}{Một ô tô có khối lượng 3 tấn, sau khi khởi hành 10 giây thì đi được quãng đường 25 m. Bỏ qua ma sát, tìm:
+			\begin{enumerate}[label=\alph*.]
+				\item Lực phát động của động cơ xe.  	
+				\item Vận tốc và quãng đường xe đi được sau 20 s.  
+			\end{enumerate}
+		}
+		{	\begin{center}
+				\textbf{Hướng dẫn giải}
+			\end{center}
+			
+			\begin{enumerate}[label=\alph*.]
+				\item Sau 10 giây xe đi được quãng đường 25 m nên $a=\dfrac{2s}{t^2}= 0,5 \,\text{m/s}^2.$
+				
+				Ta có: $F=ma$= 1500 N.
+				
+				Vậy lực phát động của động cơ xe bằng 1500 N.
+				\item Vận tốc của xe sau 20 s là:
+				$v=v_0+at=10\, \text{m/s}.$
+				
+				Quãng đường xe đi được sau 20 s là: $s=\dfrac{1}{2}at^2=100\,\text{m}.$  
+			\end{enumerate}	
+			
+		}
+		\viduii{2}{Một vật có khối lượng 2 kg đang chuyển động với tốc độ 1 m/s thì chịu tác dụng bởi một lực cùng hướng chuyển động và có độ lớn $F$. Biết rằng sau đi được 1 m, vật đạt tốc độ 2 m/s. Tìm độ lớn lực $F$.
+			
+		}
+		{	\begin{center}
+				\textbf{Hướng dẫn giải}
+			\end{center}
+			Công thức liên hệ giữa quãng đường, vận tốc, gia tốc: $$v^2-v_0^2=2as.$$
+			
+			Ta thay $s= \SI{1}{\meter}$, $v= \SI{2}{\meter/\second}$, $v_0=\SI{1}{\meter/\second}$ vào công thức trên, ta tìm được $a= \text{1,5} \,\text{m/s}^2.$
+			
+			Ta có: $$F=ma=\SI{3}{\newton}.$$
+			
+			Vậy độ lớn lực $F$ bằng 3 N. 
+			
+		}
+	\end{dang}
