@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  28 JUN 2024 21:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.8)  28 AUG 2024 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1696,26 +1696,27 @@ LaTeX Font Info:    Overwriting math alphabet `\bdx' in version `bold'
 \c@thrPh=\count414
 \saveparindent=\skip95
 \mytext=\box154
-) (../extra/blank-text.tex
-\rulegoal=\skip96
-\drule=\skip97
-\myblanklength=\skip98
 )
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 15.
 LaTeX Font Info:    Trying to load font information for T5+ptm on input line 15
 .
-
-(c:/texlive/2022/texmf-dist/tex/latex/vntex/t5ptm.fd
+ (c:/texlive/2022/texmf-dist/tex/latex/vntex/t5ptm.fd
 File: t5utm.fd 2005/08/24 Fontinst v1.929 font definitions for T5/ptm.
-) (./Workbook-10-sem1.aux)
+) (./Workbook-10-sem1.aux
+
+LaTeX Warning: Label `eq:1' multiply defined.
+
+
+LaTeX Warning: Label `eq:2' multiply defined.
+
+)
 \openout1 = `Workbook-10-sem1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 15.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
 15.
-
-(c:/texlive/2022/texmf-dist/tex/latex/txfonts/omltxmi.fd
+ (c:/texlive/2022/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    ... okay on input line 15.
@@ -1950,21 +1951,18 @@ LaTeX Font Info:    Trying to load font information for T5+phv on input line 14
 (c:/texlive/2022/texmf-dist/tex/latex/vntex/t5phv.fd
 File: t5uhv.fd 2005/08/24 Fontinst v1.929 font definitions for T5/phv.
 ) [7 <../figs/G10-2-1.png>]
-<../figs/VN10-2023-PH-TP002-2.png, id=684, 293.898pt x 230.0595pt>
+<../figs/VN10-2023-PH-TP002-2.png, id=685, 293.898pt x 230.0595pt>
 File: ../figs/VN10-2023-PH-TP002-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP002-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP002-2.png  used on input line 1
 93.
 (pdftex.def)             Requested size: 144.21053pt x 112.8881pt.
-
-Underfull \vbox (badness 3439) has occurred while \output is active []
-
- [8]
+[8 <../figs/VN10-2023-PH-TP002-2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 207--207
 
  []
 
-[9 <../figs/VN10-2023-PH-TP002-2.png>]) (../data/VN10-Y24-PH-SYL-001-P.tex
+[9]) (../data/VN10-Y24-PH-SYL-001-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 15.
 (tasks)                Please set it at least to 9.72pt.
@@ -2055,7 +2053,6 @@ Overfull \hbox (0.17003pt too wide) in paragraph at lines 42--42
 \T5/ptm/b/n/10 B.
  []
 
-[10]
 
 Package tasks Warning: The width of `label-width' is too small on line 42.
 (tasks)                Please set it at least to 9.72pt.
@@ -2092,6 +2089,7 @@ Overfull \hbox (0.17003pt too wide) in paragraph at lines 56--56
 \T5/ptm/b/n/10 B.
  []
 
+[10]
 
 Package tasks Warning: The width of `label-width' is too small on line 56.
 (tasks)                Please set it at least to 9.72pt.
@@ -2200,41 +2198,40 @@ Overfull \hbox (0.17003pt too wide) in paragraph at lines 86--86
 \T5/ptm/b/n/10 E.
  []
 
-<../figs/VN10-2022-PH-TP003-3.jpg, id=731, 188.50426pt x 164.41425pt>
+<../figs/VN10-2022-PH-TP003-3.jpg, id=744, 188.50426pt x 164.41425pt>
 File: ../figs/VN10-2022-PH-TP003-3.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP003-3.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP003-3.jpg  used on input line 1
 03.
 (pdftex.def)             Requested size: 113.10341pt x 98.64929pt.
-[11]
-<../figs/VN10-2022-PH-TP003-4.jpg, id=760, 251.13824pt x 125.268pt>
+[11 <../figs/VN10-2022-PH-TP003-3.jpg>]
+<../figs/VN10-2022-PH-TP003-4.jpg, id=767, 251.13824pt x 125.268pt>
 File: ../figs/VN10-2022-PH-TP003-4.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP003-4.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP003-4.jpg  used on input line 1
 35.
 (pdftex.def)             Requested size: 150.68411pt x 75.16136pt.
-<../figs/VN10-2022-PH-TP003-5.jpg, id=761, 473.3685pt x 205.9695pt>
+<../figs/VN10-2022-PH-TP003-5.jpg, id=768, 473.3685pt x 205.9695pt>
 File: ../figs/VN10-2022-PH-TP003-5.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP003-5.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP003-5.jpg  used on input line 1
 57.
 (pdftex.def)             Requested size: 284.02328pt x 123.58264pt.
- [12 <../figs/VN10-2022-PH-TP003-3.jpg> <../figs/VN10-2022-PH-TP003-4.jpg> <../
-figs/VN10-2022-PH-TP003-5.jpg>]
-<../figs/VN10-2022-PH-TP003-7.jpg, id=769, 485.4135pt x 163.20975pt>
+ [12 <../figs/VN10-2022-PH-TP003-4.jpg> <../figs/VN10-2022-PH-TP003-5.jpg>]
+<../figs/VN10-2022-PH-TP003-7.jpg, id=781, 485.4135pt x 163.20975pt>
 File: ../figs/VN10-2022-PH-TP003-7.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP003-7.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP003-7.jpg  used on input line 1
 85.
 (pdftex.def)             Requested size: 291.25034pt x 97.92659pt.
- [13 <../figs/VN10-2022-PH-TP003-7.jpg>]
-<../figs/VN10-2022-PH-TP002-P-1.png, id=788, 464.937pt x 214.401pt>
+<../figs/VN10-2022-PH-TP002-P-1.png, id=783, 464.937pt x 214.401pt>
 File: ../figs/VN10-2022-PH-TP002-P-1.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP002-P-1.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP002-P-1.png  used on input line
  243.
 (pdftex.def)             Requested size: 281.68513pt x 129.90437pt.
-<../figs/VN10-2022-PH-TP002-P-3.jpg, id=790, 1047.915pt x 589.20125pt>
+ [13 <../figs/VN10-2022-PH-TP003-7.jpg>]
+<../figs/VN10-2022-PH-TP002-P-3.jpg, id=799, 1047.915pt x 589.20125pt>
 File: ../figs/VN10-2022-PH-TP002-P-3.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP002-P-3.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP002-P-3.jpg  used on input line
@@ -2245,15 +2242,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 275--275
 
  []
 
-[14 <../figs/VN10-2022-PH-TP002-P-1.png> <../figs/VN10-2022-PH-TP002-P-3.jpg>])
-[15] (./Workbook-10-sem1.ptc) (../data/VN10-Y24-PH-SYL-002.tex [16
+) [14 <../figs/VN10-2022-PH-TP002-P-1.png> <../figs/VN10-2022-PH-TP002-P-3.jpg>
+] (./Workbook-10-sem1.ptc) (../data/VN10-Y24-PH-SYL-002.tex [15
 
 ]
 Ch\uhorn \ohorn ng 2.
 
 Underfull \vbox (badness 1178) has occurred while \output is active []
 
- [17
+ [16
 
 ]
 Overfull \hbox (3.25pt too wide) in paragraph at lines 111--111
@@ -2265,24 +2262,24 @@ Overfull \hbox (3.56999pt too wide) in paragraph at lines 113--113
 []|[]| 
  []
 
-[18]
-<../figs/VN10-2023-PH-TP003-1.jpg, id=842, 882.29625pt x 241.50224pt>
+[17]
+<../figs/VN10-2023-PH-TP003-1.jpg, id=844, 882.29625pt x 241.50224pt>
 File: ../figs/VN10-2023-PH-TP003-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP003-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP003-1.jpg  used on input line 1
 73.
 (pdftex.def)             Requested size: 336.48634pt x 92.10344pt.
- [19]
-Underfull \vbox (badness 1852) has occurred while \output is active []
+ [18]
+Underfull \vbox (badness 2020) has occurred while \output is active []
 
- [20 <../figs/VN10-2023-PH-TP003-1.jpg>]
+ [19 <../figs/VN10-2023-PH-TP003-1.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21])
+ [20])
 (../data/VN10-Y24-PH-SYL-002-P.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22]
+ [21]
 
 Package tasks Warning: The width of `label-width' is too small on line 28.
 (tasks)                Please set it at least to 9.72pt.
@@ -2463,7 +2460,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 91--91
 \T5/ptm/b/n/10 D.
  []
 
-[23]
+[22]
 
 Package tasks Warning: The width of `label-width' is too small on line 104.
 (tasks)                Please set it at least to 9.72pt.
@@ -2659,28 +2656,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 169--169
 
  []
 
-[24]
-<../figs/VN10-2022-PH-TP003-P-1.png, id=938, 349.305pt x 87.9285pt>
+[23]
+<../figs/VN10-2022-PH-TP003-P-1.png, id=943, 349.305pt x 87.9285pt>
 File: ../figs/VN10-2022-PH-TP003-P-1.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP003-P-1.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP003-P-1.png  used on input line
  218.
 (pdftex.def)             Requested size: 187.78532pt x 47.27002pt.
- [25 <../figs/VN10-2022-PH-TP003-P-1.png>]
-<../figs/VN10-2022-PH-TP003-6.jpg, id=957, 199.34476pt x 248.127pt>
+ [24 <../figs/VN10-2022-PH-TP003-P-1.png>]
+<../figs/VN10-2022-PH-TP003-6.jpg, id=961, 199.34476pt x 248.127pt>
 File: ../figs/VN10-2022-PH-TP003-6.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP003-6.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP003-6.jpg  used on input line 2
 70.
 (pdftex.def)             Requested size: 119.60776pt x 148.87733pt.
- [26 <../figs/VN10-2022-PH-TP003-6.jpg>]
-<../figs/VN10-2022-PH-TP003-P-2.png, id=971, 360.1455pt x 239.6955pt>
+ [25 <../figs/VN10-2022-PH-TP003-6.jpg>]
+<../figs/VN10-2022-PH-TP003-P-2.png, id=976, 360.1455pt x 239.6955pt>
 File: ../figs/VN10-2022-PH-TP003-P-2.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP003-P-2.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP003-P-2.png  used on input line
  291.
 (pdftex.def)             Requested size: 281.68513pt x 187.48474pt.
-<../figs/VN10-2022-PH-TP003-1.jpg, id=972, 274.626pt x 71.0655pt>
+<../figs/VN10-2022-PH-TP003-1.jpg, id=977, 274.626pt x 71.0655pt>
 File: ../figs/VN10-2022-PH-TP003-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP003-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP003-1.jpg  used on input line 3
@@ -2689,7 +2686,7 @@ Package pdftex.def Info: ../figs/VN10-2022-PH-TP003-1.jpg  used on input line 3
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27 <../figs/VN10-2022-PH-TP003-P-2.png>]
+ [26 <../figs/VN10-2022-PH-TP003-P-2.png>]
 Overfull \hbox (1.07999pt too wide) in paragraph at lines 391--391
  [] 
  []
@@ -2699,61 +2696,61 @@ Overfull \hbox (1.07999pt too wide) in paragraph at lines 424--424
  [] 
  []
 
-[28 <../figs/VN10-2022-PH-TP003-1.jpg>]
-<../figs/VN10-2022-PH-TP003-8.jpg, id=991, 230.0595pt x 203.5605pt>
+[27 <../figs/VN10-2022-PH-TP003-1.jpg>]
+<../figs/VN10-2022-PH-TP003-8.jpg, id=996, 230.0595pt x 203.5605pt>
 File: ../figs/VN10-2022-PH-TP003-8.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP003-8.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP003-8.jpg  used on input line 4
 34.
 (pdftex.def)             Requested size: 230.05893pt x 203.56pt.
-<../figs/VN10-2022-PH-TP003-9.jpg, id=992, 227.6505pt x 196.3335pt>
+<../figs/VN10-2022-PH-TP003-9.jpg, id=997, 227.6505pt x 196.3335pt>
 File: ../figs/VN10-2022-PH-TP003-9.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP003-9.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP003-9.jpg  used on input line 4
 83.
 (pdftex.def)             Requested size: 227.64993pt x 196.33301pt.
- [29 <../figs/VN10-2022-PH-TP003-8.jpg> <../figs/VN10-2022-PH-TP003-9.jpg>]) [3
-0] (./Workbook-10-sem1.ptc)
+ [28 <../figs/VN10-2022-PH-TP003-8.jpg> <../figs/VN10-2022-PH-TP003-9.jpg>]) [2
+9] (./Workbook-10-sem1.ptc)
 (../data/VN10-2023-PH-TP0001.tex
-<../figs/VN10-2022-PH-TP002-P-2.jpg, id=1003, 854.19125pt x 568.1225pt>
+<../figs/VN10-2022-PH-TP002-P-2.jpg, id=1008, 854.19125pt x 568.1225pt>
 File: ../figs/VN10-2022-PH-TP002-P-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP002-P-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP002-P-2.jpg  used on input line
  27.
 (pdftex.def)             Requested size: 140.84256pt x 93.66681pt.
- [31
+ [30
 
  <../figs/VN10-2022-PH-TP002-P-2.jpg>]
-<../figs/VN10-2023-PH-TP0001-1.png, id=1022, 233.07076pt x 196.93575pt>
+<../figs/VN10-2023-PH-TP0001-1.png, id=1026, 233.07076pt x 196.93575pt>
 File: ../figs/VN10-2023-PH-TP0001-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0001-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0001-1.png  used on input line 
 71.
 (pdftex.def)             Requested size: 140.84256pt x 119.00975pt.
 
-[32 <../figs/VN10-2023-PH-TP0001-1.png>] [33]) [34] (./Workbook-10-sem1.ptc)
-[35
+[31 <../figs/VN10-2023-PH-TP0001-1.png>] [32]) [33] (./Workbook-10-sem1.ptc)
+[34
 
-] (./Workbook-10-sem1.ptc) (../data/VN10-Y24-PH-SYL-003.tex [36
+] (./Workbook-10-sem1.ptc) (../data/VN10-Y24-PH-SYL-003.tex [35
 
 ]
 Ch\uhorn \ohorn ng 3.
-<../figs/VN10-PH-02-L-001-1-V2-01.jpg, id=1072, 434.8245pt x 528.17325pt>
+<../figs/VN10-PH-02-L-001-1-V2-01.jpg, id=1077, 434.8245pt x 528.17325pt>
 File: ../figs/VN10-PH-02-L-001-1-V2-01.jpg Graphic file (type jpg)
 <use ../figs/VN10-PH-02-L-001-1-V2-01.jpg>
 Package pdftex.def Info: ../figs/VN10-PH-02-L-001-1-V2-01.jpg  used on input li
 ne 19.
 (pdftex.def)             Requested size: 130.44835pt x 158.45319pt.
-<../figs/VN10-PH-02-L-001-1-V2-02.jpg, id=1073, 795.57225pt x 501.67426pt>
+<../figs/VN10-PH-02-L-001-1-V2-02.jpg, id=1078, 795.57225pt x 501.67426pt>
 File: ../figs/VN10-PH-02-L-001-1-V2-02.jpg Graphic file (type jpg)
 <use ../figs/VN10-PH-02-L-001-1-V2-02.jpg>
 Package pdftex.def Info: ../figs/VN10-PH-02-L-001-1-V2-02.jpg  used on input li
 ne 24.
 (pdftex.def)             Requested size: 135.35474pt x 85.35826pt.
-[37
+[36
 
  <../figs/VN10-PH-02-L-001-1-V2-01.JPG> <../figs/VN10-PH-02-L-001-1-V2-02.JPG>]
-<../figs/VN10-2023-PH-TP004-1.png, id=1088, 903.375pt x 268.6035pt>
+<../figs/VN10-2023-PH-TP004-1.png, id=1092, 903.375pt x 268.6035pt>
 File: ../figs/VN10-2023-PH-TP004-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP004-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP004-1.png  used on input line 4
@@ -2791,24 +2788,24 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 84--84
 \T5/ptm/b/n/10 D.
  []
 
-[38 <../figs/VN10-2023-PH-TP004-1.png>]
-Underfull \vbox (badness 4686) has occurred while \output is active []
-
- [39]
-<../figs/VN10-2023-PH-TP004-2.png, id=1116, 884.103pt x 221.02576pt>
+[37 <../figs/VN10-2023-PH-TP004-1.png>]
+<../figs/VN10-2023-PH-TP004-2.png, id=1109, 884.103pt x 221.02576pt>
 File: ../figs/VN10-2023-PH-TP004-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP004-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP004-2.png  used on input line 1
 34.
 (pdftex.def)             Requested size: 288.42105pt x 72.10568pt.
-<../figs/VN10-2023-PH-TP004-3.png, id=1117, 479.391pt x 320.99925pt>
+ [38]
+<../figs/VN10-2023-PH-TP004-3.png, id=1125, 479.391pt x 320.99925pt>
 File: ../figs/VN10-2023-PH-TP004-3.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP004-3.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP004-3.png  used on input line 1
 49.
 (pdftex.def)             Requested size: 240.34843pt x 160.94005pt.
 
-[40 <../figs/VN10-2023-PH-TP004-2.png> <../figs/VN10-2023-PH-TP004-3.png>])
+Underfull \vbox (badness 4072) has occurred while \output is active []
+
+ [39 <../figs/VN10-2023-PH-TP004-2.png> <../figs/VN10-2023-PH-TP004-3.png>])
 (../data/VN10-Y24-PH-SYL-003-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 15.
@@ -2882,7 +2879,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 28--28
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP004-P-2.png, id=1129, 268.6035pt x 81.30376pt>
+<../figs/VN10-2022-PH-TP004-P-2.png, id=1139, 268.6035pt x 81.30376pt>
 File: ../figs/VN10-2022-PH-TP004-P-2.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP004-P-2.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP004-P-2.png  used on input line
@@ -2978,7 +2975,6 @@ Overfull \hbox (0.17003pt too wide) in paragraph at lines 69--69
 \T5/ptm/b/n/10 B.
  []
 
-[41 <../figs/VN10-2022-PH-TP004-P-2.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 69.
 (tasks)                Please set it at least to 9.72pt.
@@ -2997,6 +2993,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 69--69
 \T5/ptm/b/n/10 D.
  []
 
+[40 <../figs/VN10-2022-PH-TP004-P-2.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 82.
 (tasks)                Please set it at least to 9.72pt.
@@ -3100,7 +3097,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 128--128
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP004-P-3.png, id=1155, 398.6895pt x 372.1905pt>
+<../figs/VN10-2022-PH-TP004-P-3.png, id=1166, 398.6895pt x 372.1905pt>
 File: ../figs/VN10-2022-PH-TP004-P-3.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP004-P-3.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP004-P-3.png  used on input line
@@ -3147,7 +3144,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 148--148
 \T5/ptm/b/n/10 D.
  []
 
-[42 <../figs/VN10-2022-PH-TP004-P-3.png>]
+[41 <../figs/VN10-2022-PH-TP004-P-3.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 160.
 (tasks)                Please set it at least to 9.72pt.
@@ -3184,63 +3181,57 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 160--160
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP004-6.jpg, id=1182, 407.72325pt x 118.64325pt>
+<../figs/VN10-2022-PH-TP004-6.jpg, id=1196, 407.72325pt x 118.64325pt>
 File: ../figs/VN10-2022-PH-TP004-6.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP004-6.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP004-6.jpg  used on input line 1
 87.
 (pdftex.def)             Requested size: 244.63583pt x 71.18648pt.
-<../figs/VN10-2022-PH-TP004-2.jpg, id=1183, 173.448pt x 106.59825pt>
+<../figs/VN10-2022-PH-TP004-2.jpg, id=1197, 173.448pt x 106.59825pt>
 File: ../figs/VN10-2022-PH-TP004-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP004-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP004-2.jpg  used on input line 2
 14.
 (pdftex.def)             Requested size: 173.44757pt x 106.59798pt.
-[43 <../figs/VN10-2022-PH-TP004-6.jpg> <../figs/VN10-2022-PH-TP004-2.jpg>]
-<../figs/VN10-2022-PH-TP004-1.jpg, id=1201, 203.5605pt x 64.44075pt>
+[42 <../figs/VN10-2022-PH-TP004-6.jpg> <../figs/VN10-2022-PH-TP004-2.jpg>]
+<../figs/VN10-2022-PH-TP004-1.jpg, id=1211, 203.5605pt x 64.44075pt>
 File: ../figs/VN10-2022-PH-TP004-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP004-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP004-1.jpg  used on input line 2
 58.
 (pdftex.def)             Requested size: 203.56pt x 64.44058pt.
-<../figs/VN10-2022-PH-TP004-4.jpg, id=1202, 425.79076pt x 122.25674pt>
+<../figs/VN10-2022-PH-TP004-4.jpg, id=1212, 425.79076pt x 122.25674pt>
 File: ../figs/VN10-2022-PH-TP004-4.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP004-4.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP004-4.jpg  used on input line 2
 81.
 (pdftex.def)             Requested size: 425.78972pt x 122.25644pt.
 
-[44 <../figs/VN10-2022-PH-TP004-1.jpg> <../figs/VN10-2022-PH-TP004-4.jpg>]
-<../figs/VN10-2022-PH-TP004-3.jpg, id=1211, 384.2355pt x 374.5995pt>
+[43 <../figs/VN10-2022-PH-TP004-1.jpg> <../figs/VN10-2022-PH-TP004-4.jpg>]
+<../figs/VN10-2022-PH-TP004-3.jpg, id=1222, 384.2355pt x 374.5995pt>
 File: ../figs/VN10-2022-PH-TP004-3.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP004-3.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP004-3.jpg  used on input line 3
 25.
 (pdftex.def)             Requested size: 307.38881pt x 299.68001pt.
 
-[45 <../figs/VN10-2022-PH-TP004-3.jpg>]
-<../figs/VN10-2022-PH-TP004-P-1.png, id=1222, 425.79076pt x 218.0145pt>
+[44 <../figs/VN10-2022-PH-TP004-3.jpg>]
+<../figs/VN10-2022-PH-TP004-P-1.png, id=1232, 425.79076pt x 218.0145pt>
 File: ../figs/VN10-2022-PH-TP004-P-1.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP004-P-1.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP004-P-1.png  used on input line
  356.
 (pdftex.def)             Requested size: 187.78532pt x 96.14955pt.
-<../figs/VN10-2022-PH-TP0001-2.jpg, id=1223, 235.47975pt x 163.20975pt>
+<../figs/VN10-2022-PH-TP0001-2.jpg, id=1233, 235.47975pt x 163.20975pt>
 File: ../figs/VN10-2022-PH-TP0001-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP0001-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP0001-2.jpg  used on input line 
 379.
 (pdftex.def)             Requested size: 141.28893pt x 97.92659pt.
 ) (../data/VN10-Y24-PH-SYL-004.tex
-[46 <../figs/VN10-2022-PH-TP004-P-1.png> <../figs/VN10-2022-PH-TP0001-2.jpg>]
+[45 <../figs/VN10-2022-PH-TP004-P-1.png> <../figs/VN10-2022-PH-TP0001-2.jpg>]
 Ch\uhorn \ohorn ng 4.
-
-LaTeX Warning: Reference `eq:tongv' on page 47 undefined on input line 55.
-
-
-LaTeX Warning: Reference `eq:hieuv' on page 47 undefined on input line 55.
-
-[47
+[46
 
 ]
 
@@ -3274,10 +3265,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 70--70
 \T5/ptm/b/n/10 D.
  []
 
-[48]) (../data/VN10-Y24-PH-SYL-004-P.tex
-Underfull \vbox (badness 7631) has occurred while \output is active []
-
- [49]
+[47]) (../data/VN10-Y24-PH-SYL-004-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 15.
 (tasks)                Please set it at least to 9.72pt.
@@ -3314,6 +3302,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 15--15
 \T5/ptm/b/n/10 D.
  []
 
+[48]
 
 Package tasks Warning: The width of `label-width' is too small on line 27.
 (tasks)                Please set it at least to 9.72pt.
@@ -3494,8 +3483,8 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 82--82
 \T5/ptm/b/n/10 D.
  []
 
-[50]
-<../figs/VN10-2022-PH-TP004-1-P-1.jpg, id=1289, 375.20175pt x 65.043pt>
+[49]
+<../figs/VN10-2022-PH-TP004-1-P-1.jpg, id=1307, 375.20175pt x 65.043pt>
 File: ../figs/VN10-2022-PH-TP004-1-P-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP004-1-P-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP004-1-P-1.jpg  used on input li
@@ -3651,37 +3640,37 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 140--140
 \T5/ptm/b/n/10 D.
  []
 
-[51 <../figs/VN10-2022-PH-TP004-1-P-1.jpg>]
-<../figs/VN10-2022-PH-TP005-5.jpg, id=1318, 184.2885pt x 205.9695pt>
+[50 <../figs/VN10-2022-PH-TP004-1-P-1.jpg>]
+<../figs/VN10-2022-PH-TP005-5.jpg, id=1333, 184.2885pt x 205.9695pt>
 File: ../figs/VN10-2022-PH-TP005-5.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP005-5.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP005-5.jpg  used on input line 1
 53.
 (pdftex.def)             Requested size: 140.84256pt x 157.41528pt.
-<../figs/VN10-2022-PH-TP005-1.jpg, id=1319, 157.7895pt x 272.81924pt>
+<../figs/VN10-2022-PH-TP005-1.jpg, id=1334, 157.7895pt x 272.81924pt>
 File: ../figs/VN10-2022-PH-TP005-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP005-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP005-1.jpg  used on input line 1
 71.
 (pdftex.def)             Requested size: 117.36761pt x 202.92795pt.
- [52 <../figs/VN10-2022-PH-TP005-5.jpg> <../figs/VN10-2022-PH-TP005-1.jpg>] [53
-] [54] [55])
-(../data/VN10-Y24-PH-SYL-005.tex [56]
+ [51 <../figs/VN10-2022-PH-TP005-5.jpg> <../figs/VN10-2022-PH-TP005-1.jpg>] [52
+] [53] [54])
+(../data/VN10-Y24-PH-SYL-005.tex [55]
 Ch\uhorn \ohorn ng 5.
-<../figs/VN10-2023-PH-TP005-1.jpg, id=1361, 802.6788pt x 370.986pt>
+<../figs/VN10-2023-PH-TP005-1.jpg, id=1377, 802.6788pt x 370.986pt>
 File: ../figs/VN10-2023-PH-TP005-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP005-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP005-1.jpg  used on input line 5
 4.
 (pdftex.def)             Requested size: 307.29288pt x 142.02904pt.
-[57
+[56
 
  <../figs/VN10-2023-PH-TP005-1.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 64--66
 
  []
 
-<../figs/VN10-2023-PH-TP005-2.jpg, id=1373, 860.4948pt x 329.5512pt>
+<../figs/VN10-2023-PH-TP005-2.jpg, id=1389, 860.4948pt x 329.5512pt>
 File: ../figs/VN10-2023-PH-TP005-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP005-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP005-2.jpg  used on input line 6
@@ -3718,7 +3707,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 133--133
 \T5/ptm/b/n/10 D.
  []
 
-[58 <../figs/VN10-2023-PH-TP005-2.jpg>]
+[57 <../figs/VN10-2023-PH-TP005-2.jpg>]
 
 Package tasks Warning: The width of `label-width' is too small on line 159.
 (tasks)                Please set it at least to 9.72pt.
@@ -3750,7 +3739,13 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 159--159
 \T5/ptm/b/n/10 D.
  []
 
-[59] [60]
+
+Underfull \vbox (badness 1107) has occurred while \output is active []
+
+ [58]
+Underfull \vbox (badness 3815) has occurred while \output is active []
+
+ [59]
 
 Package tasks Warning: The width of `label-width' is too small on line 263.
 (tasks)                Please set it at least to 9.72pt.
@@ -3782,21 +3777,27 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 263--263
 \T5/ptm/b/n/10 D.
  []
 
-[61] [62]
-<../figs/VN10-2023-PH-TP005-3.png, id=1425, 317.988pt x 239.09325pt>
+[60]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61]
+<../figs/VN10-2023-PH-TP005-3.png, id=1443, 317.988pt x 239.09325pt>
 File: ../figs/VN10-2023-PH-TP005-3.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP005-3.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP005-3.png  used on input line 3
 50.
 (pdftex.def)             Requested size: 168.24684pt x 126.50356pt.
-<../figs/VN10-2023-PH-TP005-4.png, id=1427, 497.4585pt x 353.52075pt>
+<../figs/VN10-2023-PH-TP005-4.png, id=1445, 497.4585pt x 353.52075pt>
 File: ../figs/VN10-2023-PH-TP005-4.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP005-4.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP005-4.png  used on input line 3
 97.
 (pdftex.def)             Requested size: 240.34843pt x 170.80464pt.
- [63 <../figs/VN10-2023-PH-TP005-3.png> <../figs/VN10-2023-PH-TP005-4.png>]
-<../figs/VN10-PH-03-L-002-4-V2-01.jpg, id=1440, 168.63pt x 142.131pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62 <../figs/VN10-2023-PH-TP005-3.png>]
+<../figs/VN10-PH-03-L-002-4-V2-01.jpg, id=1456, 168.63pt x 142.131pt>
 File: ../figs/VN10-PH-03-L-002-4-V2-01.jpg Graphic file (type jpg)
 <use ../figs/VN10-PH-03-L-002-4-V2-01.jpg>
 Package pdftex.def Info: ../figs/VN10-PH-03-L-002-4-V2-01.jpg  used on input li
@@ -3834,17 +3835,18 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 423--423
 \T5/ptm/b/n/10 D.
  []
 
-[64 <../figs/VN10-PH-03-L-002-4-V2-01.jpg>]
-<../figs/VN10-PH-03-L-002-4-V2-02.jpg, id=1454, 191.5155pt x 166.82326pt>
+[63 <../figs/VN10-2023-PH-TP005-4.png>]
+<../figs/VN10-PH-03-L-002-4-V2-02.jpg, id=1472, 191.5155pt x 166.82326pt>
 File: ../figs/VN10-PH-03-L-002-4-V2-02.jpg Graphic file (type jpg)
 <use ../figs/VN10-PH-03-L-002-4-V2-02.jpg>
 Package pdftex.def Info: ../figs/VN10-PH-03-L-002-4-V2-02.jpg  used on input li
 ne 457.
 (pdftex.def)             Requested size: 153.21259pt x 133.45877pt.
-) (../data/VN10-Y24-PH-SYL-005-P.tex
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65]
+ [64 <../figs/VN10-PH-03-L-002-4-V2-01.jpg>]) (../data/VN10-Y24-PH-SYL-005-P.te
+x
 
 Package tasks Warning: The width of `label-width' is too small on line 13.
 (tasks)                Please set it at least to 9.72pt.
@@ -3912,7 +3914,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 26--26
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP005-P-1.png, id=1462, 207.77625pt x 148.1535pt>
+<../figs/VN10-2023-PH-TP005-P-1.png, id=1486, 207.77625pt x 148.1535pt>
 File: ../figs/VN10-2023-PH-TP005-P-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP005-P-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP005-P-1.png  used on input line
@@ -3959,7 +3961,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 46--46
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP005-P-2.png, id=1463, 278.2395pt x 205.36725pt>
+<../figs/VN10-2023-PH-TP005-P-2.png, id=1487, 278.2395pt x 205.36725pt>
 File: ../figs/VN10-2023-PH-TP005-P-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP005-P-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP005-P-2.png  used on input line
@@ -3975,12 +3977,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--56
 
  []
 
-<../figs/VN10-2023-PH-TP005-P-3.png, id=1464, 400.49625pt x 278.2395pt>
+<../figs/VN10-2023-PH-TP005-P-3.png, id=1488, 400.49625pt x 278.2395pt>
 File: ../figs/VN10-2023-PH-TP005-P-3.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP005-P-3.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP005-P-3.png  used on input line
  62.
 (pdftex.def)             Requested size: 234.73523pt x 163.0815pt.
+[65 <../figs/VN10-PH-03-L-002-4-V2-02.jpg> <../figs/VN10-2023-PH-TP005-P-1.png>
+ <../figs/VN10-2023-PH-TP005-P-2.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 69.
 (tasks)                Please set it at least to 9.72pt.
@@ -4017,8 +4021,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 69--69
 \T5/ptm/b/n/10 D.
  []
 
-[66 <../figs/VN10-2023-PH-TP005-P-1.png> <../figs/VN10-2023-PH-TP005-P-2.png> <
-../figs/VN10-2023-PH-TP005-P-3.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 84.
 (tasks)                Please set it at least to 9.72pt.
@@ -4050,7 +4052,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 84--84
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP005-P-4.png, id=1490, 223.43475pt x 172.2435pt>
+<../figs/VN10-2023-PH-TP005-P-4.png, id=1511, 223.43475pt x 172.2435pt>
 File: ../figs/VN10-2023-PH-TP005-P-4.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP005-P-4.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP005-P-4.png  used on input line
@@ -4138,6 +4140,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 117--117
 \T5/ptm/b/n/10 D.
  []
 
+[66 <../figs/VN10-2023-PH-TP005-P-3.png> <../figs/VN10-2023-PH-TP005-P-4.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 130.
 (tasks)                Please set it at least to 9.72pt.
@@ -4205,7 +4208,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 148--148
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP005-P-5.png, id=1491, 203.5605pt x 212.59425pt>
+<../figs/VN10-2023-PH-TP005-P-5.png, id=1537, 203.5605pt x 212.59425pt>
 File: ../figs/VN10-2023-PH-TP005-P-5.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP005-P-5.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP005-P-5.png  used on input line
@@ -4221,7 +4224,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--160
 
  []
 
-[67 <../figs/VN10-2023-PH-TP005-P-4.png> <../figs/VN10-2023-PH-TP005-P-5.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 171.
 (tasks)                Please set it at least to 9.72pt.
@@ -4253,7 +4255,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 171--171
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP005-P-6.png, id=1526, 208.3785pt x 199.947pt>
+<../figs/VN10-2023-PH-TP005-P-6.png, id=1538, 208.3785pt x 199.947pt>
 File: ../figs/VN10-2023-PH-TP005-P-6.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP005-P-6.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP005-P-6.png  used on input line
@@ -4300,7 +4302,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 193--193
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP005-P-7.png, id=1527, 215.00325pt x 177.66376pt>
+<../figs/VN10-2023-PH-TP005-P-7.png, id=1539, 215.00325pt x 177.66376pt>
 File: ../figs/VN10-2023-PH-TP005-P-7.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP005-P-7.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP005-P-7.png  used on input line
@@ -4316,6 +4318,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--205
 
  []
 
+[67 <../figs/VN10-2023-PH-TP005-P-5.png> <../figs/VN10-2023-PH-TP005-P-6.png> <
+../figs/VN10-2023-PH-TP005-P-7.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 214.
 (tasks)                Please set it at least to 9.72pt.
@@ -4352,7 +4356,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 214--214
 \T5/ptm/b/n/10 D.
  []
 
-[68 <../figs/VN10-2023-PH-TP005-P-6.png> <../figs/VN10-2023-PH-TP005-P-7.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 231.
 (tasks)                Please set it at least to 9.72pt.
@@ -4523,6 +4526,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 267--267
 \T5/ptm/b/n/10 D.
  []
 
+[68]
 
 Package tasks Warning: The width of `label-width' is too small on line 296.
 (tasks)                Please set it at least to 9.72pt.
@@ -4559,7 +4563,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 296--296
 \T5/ptm/b/n/10 D.
  []
 
-[69]
 
 Package tasks Warning: The width of `label-width' is too small on line 323.
 (tasks)                Please set it at least to 9.72pt.
@@ -4632,6 +4635,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 339--339
 \T5/ptm/b/n/10 D.
  []
 
+[69]
 
 Package tasks Warning: The width of `label-width' is too small on line 361.
 (tasks)                Please set it at least to 9.72pt.
@@ -4668,7 +4672,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 361--361
 \T5/ptm/b/n/10 D.
  []
 
-[70]
 
 Package tasks Warning: The width of `label-width' is too small on line 383.
 (tasks)                Please set it at least to 9.72pt.
@@ -4736,7 +4739,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 407--407
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP005-P-8.png, id=1599, 113.223pt x 112.62074pt>
+<../figs/VN10-2023-PH-TP005-P-8.png, id=1618, 113.223pt x 112.62074pt>
 File: ../figs/VN10-2023-PH-TP005-P-8.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP005-P-8.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP005-P-8.png  used on input line
@@ -4757,70 +4760,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 418--418
 
  []
 
-<../figs/VN10-2022-PH-TP006-1.jpg, id=1600, 489.027pt x 118.64325pt>
+[70 <../figs/VN10-2023-PH-TP005-P-8.png>]
+<../figs/VN10-2022-PH-TP006-1.jpg, id=1639, 489.027pt x 118.64325pt>
 File: ../figs/VN10-2022-PH-TP006-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP006-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP006-1.jpg  used on input line 4
 28.
 (pdftex.def)             Requested size: 440.12021pt x 106.77792pt.
-[71 <../figs/VN10-2023-PH-TP005-P-8.png> <../figs/VN10-2022-PH-TP006-1.jpg>]
-<../figs/VN10-2022-PH-TP005-2.jpg, id=1617, 187.29974pt x 157.18726pt>
+<../figs/VN10-2022-PH-TP005-2.jpg, id=1640, 187.29974pt x 157.18726pt>
 File: ../figs/VN10-2022-PH-TP005-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP005-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP005-2.jpg  used on input line 4
 48.
 (pdftex.def)             Requested size: 187.29927pt x 157.18686pt.
-<../figs/VN10-2022-PH-TP006-5.jpg, id=1618, 272.217pt x 84.91725pt>
+ [71 <../figs/VN10-2022-PH-TP006-1.jpg> <../figs/VN10-2022-PH-TP005-2.jpg>]
+<../figs/VN10-2022-PH-TP006-5.jpg, id=1647, 272.217pt x 84.91725pt>
 File: ../figs/VN10-2022-PH-TP006-5.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP006-5.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP006-5.jpg  used on input line 4
 72.
 (pdftex.def)             Requested size: 272.21631pt x 84.91704pt.
-<../figs/VN10-2022-PH-TP006-6.jpg, id=1619, 358.33875pt x 295.1025pt>
+<../figs/VN10-2022-PH-TP006-6.jpg, id=1648, 358.33875pt x 295.1025pt>
 File: ../figs/VN10-2022-PH-TP006-6.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP006-6.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP006-6.jpg  used on input line 4
 85.
 (pdftex.def)             Requested size: 215.0049pt x 177.06285pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [72 <../figs/VN10-2022-PH-TP005-2.jpg> <../figs/VN10-2022-PH-TP006-5.jpg>]
-<../figs/VN10-2022-PH-TP006-2.jpg, id=1626, 216.81pt x 172.2435pt>
+<../figs/VN10-2022-PH-TP006-2.jpg, id=1649, 216.81pt x 172.2435pt>
 File: ../figs/VN10-2022-PH-TP006-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP006-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP006-2.jpg  used on input line 4
 93.
 (pdftex.def)             Requested size: 216.80946pt x 172.24307pt.
- [73 <../figs/VN10-2022-PH-TP006-6.jpg> <../figs/VN10-2022-PH-TP006-2.jpg>]
-<../figs/VN10-2022-PH-TP006-3.jpg, id=1638, 266.1945pt x 57.816pt>
+ [72 <../figs/VN10-2022-PH-TP006-5.jpg> <../figs/VN10-2022-PH-TP006-6.jpg> <../
+figs/VN10-2022-PH-TP006-2.jpg>]
+<../figs/VN10-2022-PH-TP006-3.jpg, id=1659, 266.1945pt x 57.816pt>
 File: ../figs/VN10-2022-PH-TP006-3.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP006-3.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP006-3.jpg  used on input line 5
 36.
 (pdftex.def)             Requested size: 266.19385pt x 57.81584pt.
-<../figs/VN10-2022-PH-TP006-7.jpg, id=1639, 408.3255pt x 334.24875pt>
+<../figs/VN10-2022-PH-TP006-7.jpg, id=1660, 408.3255pt x 334.24875pt>
 File: ../figs/VN10-2022-PH-TP006-7.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP006-7.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP006-7.jpg  used on input line 5
 73.
 (pdftex.def)             Requested size: 244.99718pt x 200.55078pt.
-<../figs/VN10-2022-PH-TP006-4.jpg, id=1640, 244.5135pt x 147.55125pt>
+ [73 <../figs/VN10-2022-PH-TP006-3.jpg> <../figs/VN10-2022-PH-TP006-7.jpg>]
+<../figs/VN10-2022-PH-TP006-4.jpg, id=1673, 244.5135pt x 147.55125pt>
 File: ../figs/VN10-2022-PH-TP006-4.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP006-4.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP006-4.jpg  used on input line 5
 79.
 (pdftex.def)             Requested size: 244.5129pt x 147.55087pt.
-
-Underfull \vbox (badness 3635) has occurred while \output is active []
-
- [74 <../figs/VN10-2022-PH-TP006-3.jpg> <../figs/VN10-2022-PH-TP006-7.jpg>]) [7
-5 <../figs/VN10-2022-PH-TP006-4.jpg>] (./Workbook-10-sem1.ptc)
+ [74 <../figs/VN10-2022-PH-TP006-4.jpg>]) [75] (./Workbook-10-sem1.ptc)
 (../data/VN10-Y24-PH-SYL-006.tex [76
 
 ]
 Ch\uhorn \ohorn ng 6.
-<../figs/VN10-2023-PH-TP006-1.jpg, id=1671, 856.6404pt x 277.5168pt>
+<../figs/VN10-2023-PH-TP006-1.jpg, id=1700, 856.6404pt x 277.5168pt>
 File: ../figs/VN10-2023-PH-TP006-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP006-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP006-1.jpg  used on input line 2
@@ -4894,11 +4892,11 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 171--171
 \T5/ptm/b/n/10 D.
  []
 
-[79]
-Underfull \vbox (badness 5417) has occurred while \output is active []
+[79] [80]
+Underfull \vbox (badness 2469) has occurred while \output is active []
 
- [80]
-[81]) (../data/VN10-Y24-PH-SYL-006-P.tex
+ [81])
+(../data/VN10-Y24-PH-SYL-006-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 13.
 (tasks)                Please set it at least to 9.72pt.
@@ -4998,7 +4996,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 40--40
 \T5/ptm/b/n/10 C.
  []
 
-[82]
 
 Package tasks Warning: The width of `label-width' is too small on line 40.
 (tasks)                Please set it at least to 9.72pt.
@@ -5008,6 +5005,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 40--40
 \T5/ptm/b/n/10 D.
  []
 
+[82]
 
 Package tasks Warning: The width of `label-width' is too small on line 53.
 (tasks)                Please set it at least to 9.72pt.
@@ -5298,34 +5296,34 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 165--165
  []
 
 [84]
-<../figs/VN10-2022-PH-TP005-3.jpg, id=1788, 198.7425pt x 109.6095pt>
+<../figs/VN10-2022-PH-TP005-3.jpg, id=1821, 198.7425pt x 109.6095pt>
 File: ../figs/VN10-2022-PH-TP005-3.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP005-3.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP005-3.jpg  used on input line 2
 49.
 (pdftex.def)             Requested size: 198.742pt x 109.6092pt.
  [85 <../figs/VN10-2022-PH-TP005-3.jpg>] [86]
-<../figs/VN10-2022-PH-TP005-4.jpg, id=1812, 93.951pt x 164.41425pt>
+<../figs/VN10-2022-PH-TP005-4.jpg, id=1842, 93.951pt x 164.41425pt>
 File: ../figs/VN10-2022-PH-TP005-4.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP005-4.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP005-4.jpg  used on input line 3
 83.
 (pdftex.def)             Requested size: 93.95078pt x 164.41383pt.
  [87 <../figs/VN10-2022-PH-TP005-4.jpg>]
-<../figs/VN10-2023-PH-TP0002-6.png, id=1819, 99.9735pt x 129.48375pt>
+<../figs/VN10-2023-PH-TP0002-6.png, id=1849, 99.9735pt x 129.48375pt>
 File: ../figs/VN10-2023-PH-TP0002-6.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-6.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-6.png  used on input line 
 428.
 (pdftex.def)             Requested size: 70.4177pt x 91.207pt.
-<../figs/VN10-2023-PH-TP0002-7.png, id=1820, 199.34476pt x 112.0185pt>
+<../figs/VN10-2023-PH-TP0002-7.png, id=1850, 199.34476pt x 112.0185pt>
 File: ../figs/VN10-2023-PH-TP0002-7.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-7.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-7.png  used on input line 
 433.
 (pdftex.def)             Requested size: 164.31752pt x 92.33434pt.
- [88 <../figs/VN10-2023-PH-TP0002-6.png> <../figs/VN10-2023-PH-TP0002-7.png>]) 
-[89] (./Workbook-10-sem1.ptc) (../data/VN10-2023-PH-TP0002.tex
+) [88 <../figs/VN10-2023-PH-TP0002-6.png> <../figs/VN10-2023-PH-TP0002-7.png>] 
+(./Workbook-10-sem1.ptc) (../data/VN10-2023-PH-TP0002.tex
 pdfTeX warning (ext4): destination with the same identifier (name{section.6.1})
  has been already used, duplicate ignored
 <to be read again> 
@@ -5476,7 +5474,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 60--60
 \T5/ptm/b/n/10 D.
  []
 
-[90
+[89
 
 ]
 
@@ -5597,7 +5595,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 103--103
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP0002-1.png, id=1862, 257.763pt x 172.84575pt>
+<../figs/VN10-2023-PH-TP0002-1.png, id=1888, 257.763pt x 172.84575pt>
 File: ../figs/VN10-2023-PH-TP0002-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-1.png  used on input line 
@@ -5639,13 +5637,13 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 122--122
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP0002-9.png, id=1863, 459.51675pt x 96.36pt>
+<../figs/VN10-2023-PH-TP0002-9.png, id=1889, 459.51675pt x 96.36pt>
 File: ../figs/VN10-2023-PH-TP0002-9.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-9.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-9.png  used on input line 
 132.
 (pdftex.def)             Requested size: 328.6279pt x 68.9145pt.
-[91 <../figs/VN10-2023-PH-TP0002-1.png>]
+[90 <../figs/VN10-2023-PH-TP0002-1.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 139.
 (tasks)                Please set it at least to 9.72pt.
@@ -5682,7 +5680,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 139--139
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP0002-11.png, id=1891, 208.3785pt x 112.62074pt>
+<../figs/VN10-2023-PH-TP0002-11.png, id=1917, 208.3785pt x 112.62074pt>
 File: ../figs/VN10-2023-PH-TP0002-11.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-11.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-11.png  used on input line
@@ -5832,8 +5830,8 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 208--208
 \T5/ptm/b/n/10 D.
  []
 
-[92 <../figs/VN10-2023-PH-TP0002-9.png> <../figs/VN10-2023-PH-TP0002-11.png>]
-<../figs/VN10-2023-PH-TP0002-2.png, id=1921, 184.89075pt x 145.14224pt>
+[91 <../figs/VN10-2023-PH-TP0002-9.png> <../figs/VN10-2023-PH-TP0002-11.png>]
+<../figs/VN10-2023-PH-TP0002-2.png, id=1947, 184.89075pt x 145.14224pt>
 File: ../figs/VN10-2023-PH-TP0002-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-2.png  used on input line 
@@ -5876,7 +5874,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 236--236
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP0002-10.png, id=1922, 187.902pt x 151.767pt>
+<../figs/VN10-2023-PH-TP0002-10.png, id=1948, 187.902pt x 151.767pt>
 File: ../figs/VN10-2023-PH-TP0002-10.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-10.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-10.png  used on input line
@@ -5918,7 +5916,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 258--258
 \T5/ptm/b/n/10 D.
  []
 
-[93 <../figs/VN10-2023-PH-TP0002-2.png> <../figs/VN10-2023-PH-TP0002-10.png>]
+[92 <../figs/VN10-2023-PH-TP0002-2.png> <../figs/VN10-2023-PH-TP0002-10.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 285.
 (tasks)                Please set it at least to 9.72pt.
@@ -6027,7 +6025,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 330--330
 \T5/ptm/b/n/10 D.
  []
 
-[94]
+[93]
 
 Package tasks Warning: The width of `label-width' is too small on line 386.
 (tasks)                Please set it at least to 9.72pt.
@@ -6107,43 +6105,43 @@ pdfTeX warning (ext4): destination with the same identifier (name{section.6.2})
                    \relax 
 l.414 \section{Bài tập tự luận}
                                       
-<../figs/VN10-2023-PH-TP0002-3.png, id=1964, 202.95825pt x 167.4255pt>
+<../figs/VN10-2023-PH-TP0002-3.png, id=1990, 202.95825pt x 167.4255pt>
 File: ../figs/VN10-2023-PH-TP0002-3.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-3.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-3.png  used on input line 
 419.
 (pdftex.def)             Requested size: 140.84256pt x 116.18538pt.
- [95 <../figs/VN10-2023-PH-TP0002-3.png>]
-<../figs/VN10-2023-PH-TP0002-4.png, id=1983, 190.91325pt x 148.75575pt>
+ [94 <../figs/VN10-2023-PH-TP0002-3.png>]
+<../figs/VN10-2023-PH-TP0002-4.png, id=2009, 190.91325pt x 148.75575pt>
 File: ../figs/VN10-2023-PH-TP0002-4.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-4.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-4.png  used on input line 
 440.
 (pdftex.def)             Requested size: 117.36761pt x 91.45358pt.
-<../figs/VN10-2023-PH-TP0002-5.png, id=1985, 320.397pt x 46.37325pt>
+<../figs/VN10-2023-PH-TP0002-5.png, id=2011, 320.397pt x 46.37325pt>
 File: ../figs/VN10-2023-PH-TP0002-5.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-5.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-5.png  used on input line 
 453.
 (pdftex.def)             Requested size: 187.78532pt x 27.17953pt.
-[96 <../figs/VN10-2023-PH-TP0002-4.png> <../figs/VN10-2023-PH-TP0002-5.png>]
-<../figs/VN10-2023-PH-TP0002-12.png, id=2000, 422.17725pt x 301.125pt>
+[95 <../figs/VN10-2023-PH-TP0002-4.png> <../figs/VN10-2023-PH-TP0002-5.png>]
+<../figs/VN10-2023-PH-TP0002-12.png, id=2026, 422.17725pt x 301.125pt>
 File: ../figs/VN10-2023-PH-TP0002-12.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-12.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-12.png  used on input line
  525.
 (pdftex.def)             Requested size: 187.78532pt x 133.93816pt.
 
-[97 <../figs/VN10-2023-PH-TP0002-12.png>]
+[96 <../figs/VN10-2023-PH-TP0002-12.png>]
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-<../figs/VN10-2023-PH-TP0002-8.png, id=2020, 211.992pt x 103.587pt>
+<../figs/VN10-2023-PH-TP0002-8.png, id=2046, 211.992pt x 103.587pt>
 File: ../figs/VN10-2023-PH-TP0002-8.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-8.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-8.png  used on input line 
 572.
 (pdftex.def)             Requested size: 164.31752pt x 80.29332pt.
-<../figs/VN10-2023-PH-TP0002-13.png, id=2021, 182.48175pt x 130.68825pt>
+<../figs/VN10-2023-PH-TP0002-13.png, id=2047, 182.48175pt x 130.68825pt>
 File: ../figs/VN10-2023-PH-TP0002-13.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-13.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-13.png  used on input line
@@ -6154,41 +6152,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 605--605
 
  []
 
-[98 <../figs/VN10-2023-PH-TP0002-8.png> <../figs/VN10-2023-PH-TP0002-13.png>]
-<../figs/VN10-2023-PH-TP0002-14.png, id=2033, 157.7895pt x 121.6545pt>
+[97 <../figs/VN10-2023-PH-TP0002-8.png> <../figs/VN10-2023-PH-TP0002-13.png>]
+<../figs/VN10-2023-PH-TP0002-14.png, id=2060, 157.7895pt x 121.6545pt>
 File: ../figs/VN10-2023-PH-TP0002-14.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-14.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-14.png  used on input line
  605.
 (pdftex.def)             Requested size: 134.2425pt x 103.50333pt.
-<../figs/VN10-2023-PH-TP0002-15.png, id=2034, 175.857pt x 127.677pt>
+<../figs/VN10-2023-PH-TP0002-15.png, id=2061, 175.857pt x 127.677pt>
 File: ../figs/VN10-2023-PH-TP0002-15.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0002-15.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0002-15.png  used on input line
  619.
 (pdftex.def)             Requested size: 140.84256pt x 102.26251pt.
 )
-[99 <../figs/VN10-2023-PH-TP0002-14.png> <../figs/VN10-2023-PH-TP0002-15.png>]
-(./Workbook-10-sem1.ptc) [100
+[98 <../figs/VN10-2023-PH-TP0002-14.png> <../figs/VN10-2023-PH-TP0002-15.png>]
+(./Workbook-10-sem1.ptc) [99
 
 ] (./Workbook-10-sem1.ptc)
-(../data/VN10-Y24-PH-SYL-007.tex [101
+(../data/VN10-Y24-PH-SYL-007.tex [100
 
 ]
 Ch\uhorn \ohorn ng 7.
-<../figs/VN10-2023-PH-TP008-1.png, id=2068, 419.166pt x 320.397pt>
+<../figs/VN10-2023-PH-TP008-1.png, id=2094, 419.166pt x 320.397pt>
 File: ../figs/VN10-2023-PH-TP008-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP008-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP008-1.png  used on input line 2
 1.
 (pdftex.def)             Requested size: 153.64644pt x 117.44014pt.
-<../figs/VN10-2023-PH-TP008-3.jpg, id=2069, 270.7716pt x 204.765pt>
+<../figs/VN10-2023-PH-TP008-3.jpg, id=2095, 270.7716pt x 204.765pt>
 File: ../figs/VN10-2023-PH-TP008-3.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP008-3.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP008-3.jpg  used on input line 2
 8.
 (pdftex.def)             Requested size: 102.42834pt x 77.45844pt.
-<../figs/VN10-2023-PH-TP008-2.png, id=2070, 391.4625pt x 305.34074pt>
+<../figs/VN10-2023-PH-TP008-2.png, id=2096, 391.4625pt x 305.34074pt>
 File: ../figs/VN10-2023-PH-TP008-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP008-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP008-2.png  used on input line 3
@@ -6197,37 +6195,40 @@ Package pdftex.def Info: ../figs/VN10-2023-PH-TP008-2.png  used on input line 3
 
 Underfull \vbox (badness 2326) has occurred while \output is active []
 
- [102
+ [101
 
  <../figs/VN10-2023-PH-TP008-1.png> <../figs/VN10-2023-PH-TP008-3.jpg>]
-<../figs/VN10-2023-PH-TP008-4.png, id=2082, 320.397pt x 253.54726pt>
+<../figs/VN10-2023-PH-TP008-4.png, id=2108, 320.397pt x 253.54726pt>
 File: ../figs/VN10-2023-PH-TP008-4.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP008-4.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP008-4.png  used on input line 6
 5.
 (pdftex.def)             Requested size: 153.64644pt x 121.5891pt.
- [103 <../figs/VN10-2023-PH-TP008-2.png> <../figs/VN10-2023-PH-TP008-4.png>]
-<../figs/VN10-2023-PH-TP008-8.png, id=2098, 802.79926pt x 419.166pt>
+ [102 <../figs/VN10-2023-PH-TP008-2.png> <../figs/VN10-2023-PH-TP008-4.png>]
+<../figs/VN10-2023-PH-TP008-8.png, id=2122, 802.79926pt x 419.166pt>
 File: ../figs/VN10-2023-PH-TP008-8.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP008-8.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP008-8.png  used on input line 1
 05.
 (pdftex.def)             Requested size: 192.27582pt x 100.39082pt.
-<../figs/VN10-2023-PH-TP008-5.png, id=2099, 257.16075pt x 145.7445pt>
+<../figs/VN10-2023-PH-TP008-5.png, id=2123, 257.16075pt x 145.7445pt>
 File: ../figs/VN10-2023-PH-TP008-5.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP008-5.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP008-5.png  used on input line 1
 21.
 (pdftex.def)             Requested size: 144.21053pt x 81.72977pt.
- [104 <../figs/VN10-2023-PH-TP008-8.png>]
-<../figs/VN10-2023-PH-TP008-6.png, id=2113, 486.618pt x 228.25275pt>
+
+Underfull \vbox (badness 2012) has occurred while \output is active []
+
+ [103 <../figs/VN10-2023-PH-TP008-8.png>]
+<../figs/VN10-2023-PH-TP008-6.png, id=2141, 486.618pt x 228.25275pt>
 File: ../figs/VN10-2023-PH-TP008-6.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP008-6.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP008-6.png  used on input line 1
 48.
 (pdftex.def)             Requested size: 384.55896pt x 180.38734pt.
- [105]
-<../figs/VN10-2023-PH-TP008-7.png, id=2120, 308.352pt x 168.63pt>
+ [104 <../figs/VN10-2023-PH-TP008-5.png> <../figs/VN10-2023-PH-TP008-6.png>]
+<../figs/VN10-2023-PH-TP008-7.png, id=2152, 308.352pt x 168.63pt>
 File: ../figs/VN10-2023-PH-TP008-7.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP008-7.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP008-7.png  used on input line 1
@@ -6243,7 +6244,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 13--13
 \T5/ptm/b/n/10 A.
  []
 
-[106 <../figs/VN10-2023-PH-TP008-7.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 13.
 (tasks)                Please set it at least to 9.17pt.
@@ -6262,6 +6262,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 13--13
 \T5/ptm/b/n/10 C.
  []
 
+[105 <../figs/VN10-2023-PH-TP008-7.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 13.
 (tasks)                Please set it at least to 9.72pt.
@@ -6410,7 +6411,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 68--68
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP008-P-1.png, id=2132, 215.00325pt x 171.64125pt>
+<../figs/VN10-2022-PH-TP008-P-1.png, id=2168, 215.00325pt x 171.64125pt>
 File: ../figs/VN10-2022-PH-TP008-P-1.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP008-P-1.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP008-P-1.png  used on input line
@@ -6462,7 +6463,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 89--89
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP008-P-2.png, id=2133, 129.48375pt x 75.28125pt>
+<../figs/VN10-2022-PH-TP008-P-2.png, id=2169, 129.48375pt x 75.28125pt>
 File: ../figs/VN10-2022-PH-TP008-P-2.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP008-P-2.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP008-P-2.png  used on input line
@@ -6478,12 +6479,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--100
 
  []
 
-[107 <../figs/VN10-2022-PH-TP008-P-1.png>]
+[106 <../figs/VN10-2022-PH-TP008-P-1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 100--100
 
  []
 
-<../figs/VN10-2022-PH-TP008-P-5.png, id=2163, 166.82326pt x 125.268pt>
+<../figs/VN10-2022-PH-TP008-P-5.png, id=2198, 166.82326pt x 125.268pt>
 File: ../figs/VN10-2022-PH-TP008-P-5.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP008-P-5.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP008-P-5.png  used on input line
@@ -6612,7 +6613,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 151--151
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP008-P-4.png, id=2164, 132.495pt x 118.041pt>
+<../figs/VN10-2022-PH-TP008-P-4.png, id=2199, 132.495pt x 118.041pt>
 File: ../figs/VN10-2022-PH-TP008-P-4.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP008-P-4.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP008-P-4.png  used on input line
@@ -6628,7 +6629,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--162
 
  []
 
-[108 <../figs/VN10-2022-PH-TP008-P-2.png> <../figs/VN10-2022-PH-TP008-P-5.png>]
+[107 <../figs/VN10-2022-PH-TP008-P-2.png> <../figs/VN10-2022-PH-TP008-P-5.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 172.
 (tasks)                Please set it at least to 9.72pt.
@@ -6660,7 +6661,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 172--172
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP008-P-7.png, id=2187, 159.59625pt x 105.996pt>
+<../figs/VN10-2022-PH-TP008-P-7.png, id=2221, 159.59625pt x 105.996pt>
 File: ../figs/VN10-2022-PH-TP008-P-7.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP008-P-7.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP008-P-7.png  used on input line
@@ -6681,21 +6682,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--183
 
  []
 
-[109 <../figs/VN10-2022-PH-TP008-P-4.png> <../figs/VN10-2022-PH-TP008-P-7.png>]
-<../figs/VN10-2022-PH-TP007-1.jpg, id=2208, 314.97675pt x 126.4725pt>
+[108 <../figs/VN10-2022-PH-TP008-P-4.png> <../figs/VN10-2022-PH-TP008-P-7.png>]
+<../figs/VN10-2022-PH-TP007-1.jpg, id=2241, 314.97675pt x 126.4725pt>
 File: ../figs/VN10-2022-PH-TP007-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP007-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP007-1.jpg  used on input line 2
 25.
 (pdftex.def)             Requested size: 314.97597pt x 126.47218pt.
-<../figs/VN10-2022-PH-TP007-3.jpg, id=2209, 225.84375pt x 117.43875pt>
+<../figs/VN10-2022-PH-TP007-3.jpg, id=2242, 225.84375pt x 117.43875pt>
 File: ../figs/VN10-2022-PH-TP007-3.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP007-3.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP007-3.jpg  used on input line 2
 64.
 (pdftex.def)             Requested size: 225.84319pt x 117.43845pt.
-[110 <../figs/VN10-2022-PH-TP007-1.jpg> <../figs/VN10-2022-PH-TP007-3.jpg>]
-<../figs/VN10-2022-PH-TP008-P-12.jpg, id=2221, 352.9185pt x 229.45724pt>
+[109 <../figs/VN10-2022-PH-TP007-1.jpg> <../figs/VN10-2022-PH-TP007-3.jpg>]
+<../figs/VN10-2022-PH-TP008-P-12.jpg, id=2255, 352.9185pt x 229.45724pt>
 File: ../figs/VN10-2022-PH-TP008-P-12.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP008-P-12.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP008-P-12.jpg  used on input lin
@@ -6704,57 +6705,57 @@ e 320.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [111]
-<../figs/VN10-2022-PH-TP008-P-11.jpg, id=2244, 296.307pt x 224.63925pt>
+ [110]
+<../figs/VN10-2022-PH-TP008-P-11.jpg, id=2278, 296.307pt x 224.63925pt>
 File: ../figs/VN10-2022-PH-TP008-P-11.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP008-P-11.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP008-P-11.jpg  used on input lin
 e 334.
 (pdftex.def)             Requested size: 164.31752pt x 124.57684pt.
 
-[112 <../figs/VN10-2022-PH-TP008-P-12.jpg> <../figs/VN10-2022-PH-TP008-P-11.jpg
+[111 <../figs/VN10-2022-PH-TP008-P-12.jpg> <../figs/VN10-2022-PH-TP008-P-11.jpg
 >]
-<../figs/VN10-2022-PH-TP008-P-9.png, id=2256, 351.11176pt x 193.32225pt>
+<../figs/VN10-2022-PH-TP008-P-9.png, id=2290, 351.11176pt x 193.32225pt>
 File: ../figs/VN10-2022-PH-TP008-P-9.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP008-P-9.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP008-P-9.png  used on input line
  367.
 (pdftex.def)             Requested size: 178.98546pt x 98.54878pt.
-<../figs/VN10-2022-PH-TP012-4.jpg, id=2257, 269.808pt x 154.77824pt>
+<../figs/VN10-2022-PH-TP012-4.jpg, id=2291, 269.808pt x 154.77824pt>
 File: ../figs/VN10-2022-PH-TP012-4.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP012-4.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP012-4.jpg  used on input line 3
 75.
 (pdftex.def)             Requested size: 269.80734pt x 154.77786pt.
- [113 <../figs/VN10-2022-PH-TP008-P-9.png> <../figs/VN10-2022-PH-TP012-4.jpg>]
-<../figs/VN10-2022-PH-TP008-P-8.png, id=2274, 146.34676pt x 127.07475pt>
+ [112 <../figs/VN10-2022-PH-TP008-P-9.png> <../figs/VN10-2022-PH-TP012-4.jpg>]
+<../figs/VN10-2022-PH-TP008-P-8.png, id=2309, 146.34676pt x 127.07475pt>
 File: ../figs/VN10-2022-PH-TP008-P-8.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP008-P-8.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP008-P-8.png  used on input line
  425.
 (pdftex.def)             Requested size: 164.31752pt x 142.68146pt.
-<../figs/VN10-2022-PH-TP008-P-10.png, id=2275, 322.806pt x 254.1495pt>
+<../figs/VN10-2022-PH-TP008-P-10.png, id=2310, 322.806pt x 254.1495pt>
 File: ../figs/VN10-2022-PH-TP008-P-10.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP008-P-10.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP008-P-10.png  used on input lin
 e 437.
 (pdftex.def)             Requested size: 187.78532pt x 147.8489pt.
-) (../data/VN10-Y24-PH-SYL-008.tex [114 <../figs/VN10-2022-PH-TP008-P-8.png> <.
+) (../data/VN10-Y24-PH-SYL-008.tex [113 <../figs/VN10-2022-PH-TP008-P-8.png> <.
 ./figs/VN10-2022-PH-TP008-P-10.png>]
 Ch\uhorn \ohorn ng 8.
-<../figs/VN10-2023-PH-TP009-1.png, id=2286, 1003.3485pt x 237.88875pt>
+<../figs/VN10-2023-PH-TP009-1.png, id=2321, 1003.3485pt x 237.88875pt>
 File: ../figs/VN10-2023-PH-TP009-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP009-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP009-1.png  used on input line 1
 4.
 (pdftex.def)             Requested size: 384.1122pt x 91.07018pt.
-<../figs/VN10-2023-PH-TP009-2.png, id=2287, 814.242pt x 293.29575pt>
+<../figs/VN10-2023-PH-TP009-2.png, id=2322, 814.242pt x 293.29575pt>
 File: ../figs/VN10-2023-PH-TP009-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP009-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP009-2.png  used on input line 4
 2.
 (pdftex.def)             Requested size: 307.29288pt x 110.68825pt.
-[115
+[114
 
  <../figs/VN10-2023-PH-TP009-1.png> <../figs/VN10-2023-PH-TP009-2.png>]
 Overfull \hbox (58.80553pt too wide) in paragraph at lines 46--101
@@ -6766,13 +6767,13 @@ File: ../figs/VN10-2023-PH-TP008-4.png Graphic file (type png)
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP008-4.png  used on input line 1
 03.
 (pdftex.def)             Requested size: 153.64644pt x 121.5891pt.
-<../figs/VN10-2023-PH-TP009-4.png, id=2304, 328.8285pt x 283.0575pt>
+<../figs/VN10-2023-PH-TP009-4.png, id=2337, 328.8285pt x 283.0575pt>
 File: ../figs/VN10-2023-PH-TP009-4.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP009-4.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP009-4.png  used on input line 1
 14.
 (pdftex.def)             Requested size: 153.64644pt x 132.26392pt.
-[116 <../figs/VN10-2023-PH-TP009-4.png>]
+[115 <../figs/VN10-2023-PH-TP009-4.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 144.
 (tasks)                Please set it at least to 9.72pt.
@@ -6804,13 +6805,13 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 144--144
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP009-5.png, id=2316, 878.0805pt x 225.84375pt>
+<../figs/VN10-2023-PH-TP009-5.png, id=2350, 878.0805pt x 225.84375pt>
 File: ../figs/VN10-2023-PH-TP009-5.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP009-5.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP009-5.png  used on input line 1
 55.
 (pdftex.def)             Requested size: 288.42105pt x 74.1806pt.
-[117 <../figs/VN10-2023-PH-TP009-5.png>] [118]
+[116 <../figs/VN10-2023-PH-TP009-5.png>] [117]
 
 Package tasks Warning: The width of `label-width' is too small on line 236.
 (tasks)                Please set it at least to 9.72pt.
@@ -6843,13 +6844,10 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 236--236
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 6001) has occurred while \output is active []
 
- [119])
+ [118])
 (../data/VN10-Y24-PH-SYL-008-P.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [120]
 
 Package tasks Warning: The width of `label-width' is too small on line 15.
 (tasks)                Please set it at least to 9.72pt.
@@ -6886,6 +6884,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 15--15
 \T5/ptm/b/n/10 D.
  []
 
+[119]
 
 Package tasks Warning: The width of `label-width' is too small on line 29.
 (tasks)                Please set it at least to 9.72pt.
@@ -7061,7 +7060,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 83--83
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP009-P-1.png, id=2357, 127.07475pt x 120.45pt>
+<../figs/VN10-2023-PH-TP009-P-1.png, id=2400, 127.07475pt x 120.45pt>
 File: ../figs/VN10-2023-PH-TP009-P-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP009-P-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP009-P-1.png  used on input line
@@ -7072,7 +7071,6 @@ Overfull \hbox (44.57912pt too wide) in paragraph at lines 74--96
 []$ $[]$
  []
 
-[121]
 
 Package tasks Warning: The width of `label-width' is too small on line 96.
 (tasks)                Please set it at least to 9.72pt.
@@ -7145,6 +7143,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 103--103
 \T5/ptm/b/n/10 D.
  []
 
+[120 <../figs/VN10-2023-PH-TP009-P-1.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 123.
 (tasks)                Please set it at least to 9.72pt.
@@ -7253,7 +7252,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 153--153
 \T5/ptm/b/n/10 D.
  []
 
-[122 <../figs/VN10-2023-PH-TP009-P-1.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 169.
 (tasks)                Please set it at least to 9.72pt.
@@ -7290,6 +7288,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 169--169
 \T5/ptm/b/n/10 D.
  []
 
+[121]
 
 Package tasks Warning: The width of `label-width' is too small on line 186.
 (tasks)                Please set it at least to 9.72pt.
@@ -7357,7 +7356,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 203--203
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP008-P-3.png, id=2422, 139.11975pt x 136.1085pt>
+<../figs/VN10-2022-PH-TP008-P-3.png, id=2465, 139.11975pt x 136.1085pt>
 File: ../figs/VN10-2022-PH-TP008-P-3.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP008-P-3.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP008-P-3.png  used on input line
@@ -7404,7 +7403,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 228--228
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP009-P-2.png, id=2423, 121.05225pt x 87.9285pt>
+<../figs/VN10-2023-PH-TP009-P-2.png, id=2466, 121.05225pt x 87.9285pt>
 File: ../figs/VN10-2023-PH-TP009-P-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP009-P-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP009-P-2.png  used on input line
@@ -7420,7 +7419,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 220--244
 
  []
 
-[123 <../figs/VN10-2022-PH-TP008-P-3.png>]
+[122 <../figs/VN10-2022-PH-TP008-P-3.png> <../figs/VN10-2023-PH-TP009-P-2.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 254.
 (tasks)                Please set it at least to 9.72pt.
@@ -7452,7 +7451,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 254--254
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP009-P-3.png, id=2444, 163.812pt x 92.14426pt>
+<../figs/VN10-2023-PH-TP009-P-3.png, id=2488, 163.812pt x 92.14426pt>
 File: ../figs/VN10-2023-PH-TP009-P-3.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP009-P-3.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP009-P-3.png  used on input line
@@ -7545,39 +7544,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 295--295
 
  []
 
-[124 <../figs/VN10-2023-PH-TP009-P-2.png> <../figs/VN10-2023-PH-TP009-P-3.png>]
-<../figs/VN10-2022-PH-TP012-1.jpg, id=2470, 308.95425pt x 121.05225pt>
+<../figs/VN10-2022-PH-TP012-1.jpg, id=2489, 308.95425pt x 121.05225pt>
 File: ../figs/VN10-2022-PH-TP012-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP012-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP012-1.jpg  used on input line 3
 03.
 (pdftex.def)             Requested size: 308.95349pt x 121.05194pt.
-[125 <../figs/VN10-2022-PH-TP012-1.jpg>]
-Underfull \vbox (badness 6725) has occurred while \output is active []
-
- [126]
-<../figs/VN10-2022-PH-TP012-5.jpg, id=2496, 275.8305pt x 134.30174pt>
+[123 <../figs/VN10-2023-PH-TP009-P-3.png> <../figs/VN10-2022-PH-TP012-1.jpg>]
+[124]
+<../figs/VN10-2022-PH-TP012-5.jpg, id=2528, 275.8305pt x 134.30174pt>
 File: ../figs/VN10-2022-PH-TP012-5.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP012-5.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP012-5.jpg  used on input line 4
 34.
 (pdftex.def)             Requested size: 275.82982pt x 134.3014pt.
+ [125 <../figs/VN10-2022-PH-TP012-5.jpg>]
 
-
-LaTeX Warning: Reference `fig:TP009-P-1' on page 127 undefined on input line 48
+LaTeX Warning: Reference `fig:TP009-P-1' on page 126 undefined on input line 48
 9.
 
-[127 <../figs/VN10-2022-PH-TP012-5.jpg>]
-<../figs/VN10-2023-PH-TP009-P-4.jpg, id=2508, 244.5135pt x 141.52875pt>
+<../figs/VN10-2023-PH-TP009-P-4.jpg, id=2538, 244.5135pt x 141.52875pt>
 File: ../figs/VN10-2023-PH-TP009-P-4.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP009-P-4.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP009-P-4.jpg  used on input line
  491.
 (pdftex.def)             Requested size: 164.31752pt x 95.11314pt.
-) (../data/VN10-Y24-PH-SYL-009.tex
-[128 <../figs/VN10-2023-PH-TP009-P-4.jpg>]
+[126 <../figs/VN10-2023-PH-TP009-P-4.jpg>]) (../data/VN10-Y24-PH-SYL-009.tex
+[127]
 Ch\uhorn \ohorn ng 9.
-[129
+[128
 
 ]
 
@@ -7611,15 +7606,11 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 146--146
 \T5/ptm/b/n/10 D.
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[129]
+Underfull \vbox (badness 1221) has occurred while \output is active []
 
  [130]
-[131] [132]
-Underfull \vbox (badness 1024) has occurred while \output is active []
-
- [133])
-(../data/VN10-Y24-PH-SYL-009-P.tex
+[131] [132]) (../data/VN10-Y24-PH-SYL-009-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 16.
 (tasks)                Please set it at least to 9.72pt.
@@ -7656,7 +7647,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 16--16
 \T5/ptm/b/n/10 D.
  []
 
-[134]
+[133]
 
 Package tasks Warning: The width of `label-width' is too small on line 44.
 (tasks)                Please set it at least to 9.72pt.
@@ -7770,7 +7761,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--95
 
  []
 
-[135]
 
 Package tasks Warning: The width of `label-width' is too small on line 104.
 (tasks)                Please set it at least to 9.72pt.
@@ -7807,6 +7797,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 104--104
 \T5/ptm/b/n/10 D.
  []
 
+[134]
 
 Package tasks Warning: The width of `label-width' is too small on line 119.
 (tasks)                Please set it at least to 9.72pt.
@@ -7987,7 +7978,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 170--170
 \T5/ptm/b/n/10 D.
  []
 
-[136]
 
 Package tasks Warning: The width of `label-width' is too small on line 184.
 (tasks)                Please set it at least to 9.72pt.
@@ -8084,24 +8074,25 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 191--191
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP010-P-1.jpg, id=2627, 133.6995pt x 121.6545pt>
+[135]
+<../figs/VN10-2023-PH-TP010-P-1.jpg, id=2679, 133.6995pt x 121.6545pt>
 File: ../figs/VN10-2023-PH-TP010-P-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP010-P-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP010-P-1.jpg  used on input line
  220.
 (pdftex.def)             Requested size: 117.36761pt x 106.79639pt.
-[137 <../figs/VN10-2023-PH-TP010-P-1.jpg>] [138] [139]) [140]
-(./Workbook-10-sem1.ptc) (../data/VN10-Y24-PH-SYL-010.tex [141
+ [136 <../figs/VN10-2023-PH-TP010-P-1.jpg>] [137] [138]) [139]
+(./Workbook-10-sem1.ptc) (../data/VN10-Y24-PH-SYL-010.tex [140
 
 ]
 Ch\uhorn \ohorn ng 10.
-<../figs/VN10-2023-PH-TP011-1.png, id=2691, 383.63326pt x 444.4605pt>
+<../figs/VN10-2023-PH-TP011-1.png, id=2733, 383.63326pt x 444.4605pt>
 File: ../figs/VN10-2023-PH-TP011-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP011-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP011-1.png  used on input line 1
 4.
 (pdftex.def)             Requested size: 128.0374pt x 148.34076pt.
-[142
+[141
 
  <../figs/VN10-2023-PH-TP011-1.png>]
 
@@ -8166,7 +8157,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 98--98
 \T5/ptm/b/n/10 D.
  []
 
-[143]
+[142]
 
 Package tasks Warning: The width of `label-width' is too small on line 112.
 (tasks)                Please set it at least to 9.72pt.
@@ -8198,7 +8189,14 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 112--112
 \T5/ptm/b/n/10 D.
  []
 
-[144] [145] [146] [147] [148]) (../data/VN10-Y24-PH-SYL-010-P.tex
+[143] [144] [145]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [146]
+Underfull \vbox (badness 5954) has occurred while \output is active []
+
+ [147])
+(../data/VN10-Y24-PH-SYL-010-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 16.
 (tasks)                Please set it at least to 9.72pt.
@@ -8271,7 +8269,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 32--32
 \T5/ptm/b/n/10 D.
  []
 
-[149]
 
 Package tasks Warning: The width of `label-width' is too small on line 44.
 (tasks)                Please set it at least to 9.72pt.
@@ -8299,6 +8296,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 44--44
 \T5/ptm/b/n/10 C.
  []
 
+[148]
 
 Package tasks Warning: The width of `label-width' is too small on line 44.
 (tasks)                Please set it at least to 9.72pt.
@@ -8488,7 +8486,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 119--119
 \T5/ptm/b/n/10 D.
  []
 
-[150]
+[149]
 
 Package tasks Warning: The width of `label-width' is too small on line 136.
 (tasks)                Please set it at least to 9.72pt.
@@ -8633,7 +8631,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 200--200
 \T5/ptm/b/n/10 D.
  []
 
-[151]
+[150]
 
 Package tasks Warning: The width of `label-width' is too small on line 224.
 (tasks)                Please set it at least to 9.72pt.
@@ -8747,54 +8745,54 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 257--257
 \T5/ptm/b/n/10 D.
  []
 
-[152]
+[151]
 
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 308.
 
-[153]
+[152]
 Underfull \hbox (badness 10000) in paragraph at lines 414--415
 
  []
 
-[154]
-<../figs/VN10-2022-PH-TP013-1.jpg, id=2892, 179.4705pt x 127.677pt>
+[153]
+<../figs/VN10-2022-PH-TP013-1.jpg, id=2948, 179.4705pt x 127.677pt>
 File: ../figs/VN10-2022-PH-TP013-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP013-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP013-1.jpg  used on input line 4
 50.
 (pdftex.def)             Requested size: 179.47005pt x 127.67668pt.
- [155 <../figs/VN10-2022-PH-TP013-1.jpg>]
+ [154 <../figs/VN10-2022-PH-TP013-1.jpg>]
 Underfull \vbox (badness 6995) has occurred while \output is active []
 
- [156]
-<../figs/VN10-2022-PH-TP012-6.jpg, id=2914, 184.89075pt x 115.632pt>
+ [155]
+<../figs/VN10-2022-PH-TP012-6.jpg, id=2971, 184.89075pt x 115.632pt>
 File: ../figs/VN10-2022-PH-TP012-6.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP012-6.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP012-6.jpg  used on input line 5
 62.
 (pdftex.def)             Requested size: 184.89027pt x 115.63171pt.
 
-[157 <../figs/VN10-2022-PH-TP012-6.jpg>]) [158] (./Workbook-10-sem1.ptc)
-(../data/VN10-Y24-PH-SYL-011.tex [159
+[156 <../figs/VN10-2022-PH-TP012-6.jpg>]) [157] (./Workbook-10-sem1.ptc)
+(../data/VN10-Y24-PH-SYL-011.tex [158
 
 ]
 Ch\uhorn \ohorn ng 11.
-<../figs/VN10-2023-PH-TP012-1.png, id=2941, 224.63925pt x 292.09125pt>
+<../figs/VN10-2023-PH-TP012-1.png, id=2998, 224.63925pt x 292.09125pt>
 File: ../figs/VN10-2023-PH-TP012-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP012-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP012-1.png  used on input line 1
 1.
 (pdftex.def)             Requested size: 102.42834pt x 133.18695pt.
-[160
+[159
 
  <../figs/VN10-2023-PH-TP012-1.png>]
-<../figs/VN10-2023-PH-TP012-3.png, id=2951, 287.27325pt x 375.20175pt>
+<../figs/VN10-2023-PH-TP012-3.png, id=3008, 287.27325pt x 375.20175pt>
 File: ../figs/VN10-2023-PH-TP012-3.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP012-3.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP012-3.png  used on input line 1
 60.
 (pdftex.def)             Requested size: 102.42834pt x 133.77864pt.
- [161 <../figs/VN10-2023-PH-TP012-3.png>]
+ [160 <../figs/VN10-2023-PH-TP012-3.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 199.
 (tasks)                Please set it at least to 9.72pt.
@@ -8857,7 +8855,11 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 217--217
 \T5/ptm/b/n/10 D.
  []
 
-[162] [163]) (../data/VN10-Y24-PH-SYL-011-P.tex
+[161]
+Underfull \vbox (badness 1062) has occurred while \output is active []
+
+ [162])
+(../data/VN10-Y24-PH-SYL-011-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 15.
 (tasks)                Please set it at least to 9.72pt.
@@ -8966,7 +8968,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 48--48
 \T5/ptm/b/n/10 D.
  []
 
-[164]
+[163]
 
 Package tasks Warning: The width of `label-width' is too small on line 64.
 (tasks)                Please set it at least to 9.72pt.
@@ -9152,6 +9154,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 122--122
 \T5/ptm/b/n/10 D.
  []
 
+[164]
 
 Package tasks Warning: The width of `label-width' is too small on line 137.
 (tasks)                Please set it at least to 9.72pt.
@@ -9188,7 +9191,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 137--137
 \T5/ptm/b/n/10 D.
  []
 
-[165]
 
 Package tasks Warning: The width of `label-width' is too small on line 154.
 (tasks)                Please set it at least to 9.72pt.
@@ -9297,24 +9299,24 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 194--194
 \T5/ptm/b/n/10 D.
  []
 
-[166]
-<../figs/VN10-2022-PH-TP012-P-1.jpg, id=3062, 159.59625pt x 102.3825pt>
+[165]
+<../figs/VN10-2022-PH-TP012-P-1.jpg, id=3122, 159.59625pt x 102.3825pt>
 File: ../figs/VN10-2022-PH-TP012-P-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP012-P-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP012-P-1.jpg  used on input line
  229.
 (pdftex.def)             Requested size: 93.89265pt x 60.23329pt.
- [167 <../figs/VN10-2022-PH-TP012-P-1.jpg>]
-<../figs/VN10-2022-PH-TP012-P-2.jpg, id=3071, 296.307pt x 157.7895pt>
+ [166 <../figs/VN10-2022-PH-TP012-P-1.jpg>]
+<../figs/VN10-2022-PH-TP012-P-2.jpg, id=3130, 296.307pt x 157.7895pt>
 File: ../figs/VN10-2022-PH-TP012-P-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP012-P-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP012-P-2.jpg  used on input line
  290.
 (pdftex.def)             Requested size: 234.73523pt x 125.00385pt.
 )
-(../data/VN10-Y24-PH-SYL-012.tex [168 <../figs/VN10-2022-PH-TP012-P-2.jpg>]
+(../data/VN10-Y24-PH-SYL-012.tex [167 <../figs/VN10-2022-PH-TP012-P-2.jpg>]
 Ch\uhorn \ohorn ng 12.
-[169
+[168
 
 ]
 
@@ -9348,7 +9350,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 206--206
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP013-1.png, id=3096, 246.9225pt x 164.41425pt>
+<../figs/VN10-2023-PH-TP013-1.png, id=3154, 246.9225pt x 164.41425pt>
 File: ../figs/VN10-2023-PH-TP013-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP013-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP013-1.png  used on input line 2
@@ -9385,22 +9387,22 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 231--231
 \T5/ptm/b/n/10 D.
  []
 
-[170 <../figs/VN10-2023-PH-TP013-1.png>]
-<../figs/VN10-2023-PH-TP013-2.png, id=3114, 452.892pt x 177.66376pt>
+[169 <../figs/VN10-2023-PH-TP013-1.png>]
+<../figs/VN10-2023-PH-TP013-2.png, id=3173, 452.892pt x 177.66376pt>
 File: ../figs/VN10-2023-PH-TP013-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP013-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP013-2.png  used on input line 2
 66.
 (pdftex.def)             Requested size: 192.27582pt x 75.42612pt.
 
-Underfull \vbox (badness 3343) has occurred while \output is active []
+Underfull \vbox (badness 3954) has occurred while \output is active []
 
- [171]
+ [170 <../figs/VN10-2023-PH-TP013-2.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [172])
+ [171])
 (../data/VN10-Y24-PH-SYL-012-P.tex
-<../figs/VN10-2022-PH-TP013-P-1.png, id=3143, 359.54324pt x 202.95825pt>
+<../figs/VN10-2022-PH-TP013-P-1.png, id=3212, 359.54324pt x 202.95825pt>
 File: ../figs/VN10-2022-PH-TP013-P-1.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP013-P-1.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP013-P-1.png  used on input line
@@ -9443,6 +9445,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 16--16
 \T5/ptm/b/n/10 D.
  []
 
+[172 <../figs/VN10-2022-PH-TP013-P-1.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 29.
 (tasks)                Please set it at least to 9.72pt.
@@ -9479,13 +9482,11 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 29--29
 \T5/ptm/b/n/10 D.
  []
 
-[173 <../figs/VN10-2022-PH-TP013-P-1.png>]
 File: ../figs/VN10-2022-PH-TP013-P-1.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP013-P-1.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP013-P-1.png  used on input line
  39.
 (pdftex.def)             Requested size: 187.78532pt x 106.00342pt.
-
 
 Package tasks Warning: The width of `label-width' is too small on line 46.
 (tasks)                Please set it at least to 9.72pt.
@@ -9522,7 +9523,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 46--46
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP013-P-2.png, id=3155, 359.54324pt x 202.95825pt>
+<../figs/VN10-2022-PH-TP013-P-2.png, id=3229, 359.54324pt x 202.95825pt>
 File: ../figs/VN10-2022-PH-TP013-P-2.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP013-P-2.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP013-P-2.png  used on input line
@@ -9600,6 +9601,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 75--75
 \T5/ptm/b/n/10 D.
  []
 
+[173 <../figs/VN10-2022-PH-TP013-P-2.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 93.
 (tasks)                Please set it at least to 9.72pt.
@@ -9636,7 +9638,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 93--93
 \T5/ptm/b/n/10 D.
  []
 
-[174 <../figs/VN10-2022-PH-TP013-P-2.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 108.
 (tasks)                Please set it at least to 9.72pt.
@@ -9745,7 +9746,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 144--144
 \T5/ptm/b/n/10 D.
  []
 
-[175]
+[174]
 
 Package tasks Warning: The width of `label-width' is too small on line 164.
 (tasks)                Please set it at least to 9.72pt.
@@ -9782,21 +9783,21 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 164--164
 \T5/ptm/b/n/10 D.
  []
 
-[176]
-<../figs/VN10-2021-PH-TP014-2.jpg, id=3217, 266.79675pt x 153.57375pt>
+[175]
+<../figs/VN10-2021-PH-TP014-2.jpg, id=3291, 266.79675pt x 153.57375pt>
 File: ../figs/VN10-2021-PH-TP014-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2021-PH-TP014-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2021-PH-TP014-2.jpg  used on input line 2
 79.
 (pdftex.def)             Requested size: 320.15448pt x 184.28757pt.
- [177 <../figs/VN10-2021-PH-TP014-2.jpg>]
-<../figs/VN10-2021-PH-TP014-1.jpg, id=3224, 243.91125pt x 136.71075pt>
+ [176 <../figs/VN10-2021-PH-TP014-2.jpg>]
+<../figs/VN10-2021-PH-TP014-1.jpg, id=3299, 243.91125pt x 136.71075pt>
 File: ../figs/VN10-2021-PH-TP014-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2021-PH-TP014-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2021-PH-TP014-1.jpg  used on input line 2
 86.
 (pdftex.def)             Requested size: 243.91064pt x 136.7104pt.
-) [178 <../figs/VN10-2021-PH-TP014-1.jpg>] (./Workbook-10-sem1.ptc) (../data/VN
+) [177 <../figs/VN10-2021-PH-TP014-1.jpg>] (./Workbook-10-sem1.ptc) (../data/VN
 10-2023-PH-TP0003.tex
 pdfTeX warning (ext4): destination with the same identifier (name{section.12.3}
 ) has been already used, duplicate ignored
@@ -9876,13 +9877,13 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 27--27
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP0003-1.png, id=3230, 408.3255pt x 234.8775pt>
+<../figs/VN10-2023-PH-TP0003-1.png, id=3305, 408.3255pt x 234.8775pt>
 File: ../figs/VN10-2023-PH-TP0003-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0003-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0003-1.png  used on input line 
 37.
 (pdftex.def)             Requested size: 328.6279pt x 189.03836pt.
-[179
+[178
 
  <../figs/VN10-2023-PH-TP0003-1.png>]
 
@@ -9957,13 +9958,13 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 66--66
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP0003-5.png, id=3247, 458.9145pt x 118.041pt>
+<../figs/VN10-2023-PH-TP0003-5.png, id=3322, 458.9145pt x 118.041pt>
 File: ../figs/VN10-2023-PH-TP0003-5.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0003-5.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0003-5.png  used on input line 
 79.
 (pdftex.def)             Requested size: 328.6279pt x 84.53014pt.
-<../figs/VN10-2023-PH-TP0003-6.png, id=3248, 452.28975pt x 115.02975pt>
+<../figs/VN10-2023-PH-TP0003-6.png, id=3323, 452.28975pt x 115.02975pt>
 File: ../figs/VN10-2023-PH-TP0003-6.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0003-6.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0003-6.png  used on input line 
@@ -10005,7 +10006,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 105--105
 \T5/ptm/b/n/10 D.
  []
 
-[180 <../figs/VN10-2023-PH-TP0003-5.png> <../figs/VN10-2023-PH-TP0003-6.png>]
+[179 <../figs/VN10-2023-PH-TP0003-5.png> <../figs/VN10-2023-PH-TP0003-6.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 120.
 (tasks)                Please set it at least to 9.72pt.
@@ -10042,7 +10043,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 120--120
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP0003-7.png, id=3267, 455.90324pt x 112.0185pt>
+<../figs/VN10-2023-PH-TP0003-7.png, id=3342, 455.90324pt x 112.0185pt>
 File: ../figs/VN10-2023-PH-TP0003-7.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0003-7.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0003-7.png  used on input line 
@@ -10120,7 +10121,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 161--161
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP0003-2.png, id=3268, 205.36725pt x 152.36925pt>
+<../figs/VN10-2023-PH-TP0003-2.png, id=3343, 205.36725pt x 152.36925pt>
 File: ../figs/VN10-2023-PH-TP0003-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0003-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0003-2.png  used on input line 
@@ -10131,13 +10132,13 @@ Overfull \hbox (44.57912pt too wide) in paragraph at lines 153--168
 []$ $[]$ 
  []
 
-<../figs/VN10-2023-PH-TP0003-3.png, id=3269, 252.945pt x 161.403pt>
+<../figs/VN10-2023-PH-TP0003-3.png, id=3344, 252.945pt x 161.403pt>
 File: ../figs/VN10-2023-PH-TP0003-3.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0003-3.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0003-3.png  used on input line 
 177.
 (pdftex.def)             Requested size: 187.78532pt x 119.82793pt.
-[181 <../figs/VN10-2023-PH-TP0003-7.png> <../figs/VN10-2023-PH-TP0003-2.png>]
+[180 <../figs/VN10-2023-PH-TP0003-7.png> <../figs/VN10-2023-PH-TP0003-2.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 184.
 (tasks)                Please set it at least to 9.72pt.
@@ -10246,7 +10247,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 212--212
 \T5/ptm/b/n/10 D.
  []
 
-[182 <../figs/VN10-2023-PH-TP0003-3.png>]
+[181 <../figs/VN10-2023-PH-TP0003-3.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 231.
 (tasks)                Please set it at least to 9.72pt.
@@ -10386,7 +10387,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 281--281
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP0003-8.png, id=3319, 154.176pt x 112.62074pt>
+<../figs/VN10-2023-PH-TP0003-8.png, id=3393, 154.176pt x 112.62074pt>
 File: ../figs/VN10-2023-PH-TP0003-8.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0003-8.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0003-8.png  used on input line 
@@ -10402,8 +10403,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 273--296
 
  []
 
-[183 <../figs/VN10-2023-PH-TP0003-8.png>]
-<../figs/VN10-2023-PH-TP0003-4.png, id=3345, 305.34074pt x 137.313pt>
+[182 <../figs/VN10-2023-PH-TP0003-8.png>]
+<../figs/VN10-2023-PH-TP0003-4.png, id=3419, 305.34074pt x 137.313pt>
 File: ../figs/VN10-2023-PH-TP0003-4.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0003-4.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0003-4.png  used on input line 
@@ -10453,20 +10454,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{section.12.4}
                    \relax 
 l.318 \section{Bài tập tự luận}
                                       
-<../figs/VN10-2023-PH-TP0003-11.jpg, id=3346, 702.625pt x 526.96875pt>
+<../figs/VN10-2023-PH-TP0003-11.jpg, id=3420, 702.625pt x 526.96875pt>
 File: ../figs/VN10-2023-PH-TP0003-11.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP0003-11.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0003-11.jpg  used on input line
  323.
 (pdftex.def)             Requested size: 140.84256pt x 105.6331pt.
-<../figs/VN10-2023-PH-TP0003-9.png, id=3347, 402.303pt x 157.7895pt>
+<../figs/VN10-2023-PH-TP0003-9.png, id=3421, 402.303pt x 157.7895pt>
 File: ../figs/VN10-2023-PH-TP0003-9.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0003-9.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0003-9.png  used on input line 
 336.
 (pdftex.def)             Requested size: 281.68513pt x 110.4856pt.
- [184 <../figs/VN10-2023-PH-TP0003-4.png> <../figs/VN10-2023-PH-TP0003-11.jpg>]
-<../figs/VN10-2023-PH-TP0003-10.png, id=3360, 178.86826pt x 133.09724pt>
+ [183 <../figs/VN10-2023-PH-TP0003-4.png> <../figs/VN10-2023-PH-TP0003-11.jpg>]
+<../figs/VN10-2023-PH-TP0003-10.png, id=3435, 178.86826pt x 133.09724pt>
 File: ../figs/VN10-2023-PH-TP0003-10.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0003-10.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0003-10.png  used on input line
@@ -10477,36 +10478,36 @@ Overfull \hbox (44.57912pt too wide) in paragraph at lines 363--377
 []$ $[]$ 
  []
 
-[185 <../figs/VN10-2023-PH-TP0003-9.png> <../figs/VN10-2023-PH-TP0003-10.png>]
-<../figs/VN10-2023-PH-TP0003-12.png, id=3382, 235.47975pt x 121.6545pt>
+[184 <../figs/VN10-2023-PH-TP0003-9.png> <../figs/VN10-2023-PH-TP0003-10.png>]
+<../figs/VN10-2023-PH-TP0003-12.png, id=3457, 235.47975pt x 121.6545pt>
 File: ../figs/VN10-2023-PH-TP0003-12.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0003-12.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0003-12.png  used on input line
  426.
 (pdftex.def)             Requested size: 187.78532pt x 97.01743pt.
-) [186 <../figs/VN10-2023-PH-TP0003-12.png>] (./Workbook-10-sem1.ptc) [187
+) [185 <../figs/VN10-2023-PH-TP0003-12.png>] (./Workbook-10-sem1.ptc) [186
 
 ]
-(./Workbook-10-sem1.ptc) (../data/VN10-Y24-PH-SYL-013.tex [188
+(./Workbook-10-sem1.ptc) (../data/VN10-Y24-PH-SYL-013.tex [187
 
 ]
 Ch\uhorn \ohorn ng 13.
-<../figs/VN10-PH-11-L-008-2-V2-01.jpg, id=3411, 401.70074pt x 308.352pt>
+<../figs/VN10-PH-11-L-008-2-V2-01.jpg, id=3486, 401.70074pt x 308.352pt>
 File: ../figs/VN10-PH-11-L-008-2-V2-01.jpg Graphic file (type jpg)
 <use ../figs/VN10-PH-11-L-008-2-V2-01.jpg>
 Package pdftex.def Info: ../figs/VN10-PH-11-L-008-2-V2-01.jpg  used on input li
 ne 25.
 (pdftex.def)             Requested size: 140.59735pt x 107.9248pt.
-[189
+[188
 
  <../figs/VN10-PH-11-L-008-2-V2-01.jpg>]
-<../figs/VN10-2023-PH-TP014-2.png, id=3423, 827.7324pt x 301.125pt>
+<../figs/VN10-2023-PH-TP014-2.png, id=3498, 827.7324pt x 301.125pt>
 File: ../figs/VN10-2023-PH-TP014-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP014-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP014-2.png  used on input line 4
 3.
 (pdftex.def)             Requested size: 341.0032pt x 124.05476pt.
-<../figs/VN10-2023-PH-TP014-3.png, id=3424, 397.0032pt x 317.5062pt>
+<../figs/VN10-2023-PH-TP014-3.png, id=3499, 397.0032pt x 317.5062pt>
 File: ../figs/VN10-2023-PH-TP014-3.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP014-3.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP014-3.png  used on input line 5
@@ -10544,7 +10545,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 83--83
 \T5/ptm/b/n/10 D.
  []
 
-[190 <../figs/VN10-2023-PH-TP014-2.png> <../figs/VN10-2023-PH-TP014-3.png>]
+[189 <../figs/VN10-2023-PH-TP014-2.png> <../figs/VN10-2023-PH-TP014-3.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 97.
 (tasks)                Please set it at least to 9.72pt.
@@ -10573,74 +10574,74 @@ Package tasks Warning: The width of `label-width' is too small on line 97.
 
 
 Overfull \hbox (0.72003pt too wide) in paragraph at lines 97--97
+\T5/ptm/b/n/10 D.
+ []
+
+[190]
+
+Package tasks Warning: The width of `label-width' is too small on line 159.
+(tasks)                Please set it at least to 9.72pt.
+
+
+Overfull \hbox (0.72003pt too wide) in paragraph at lines 159--159
+\T5/ptm/b/n/10 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 159.
+(tasks)                Please set it at least to 9.17pt.
+
+
+Package tasks Warning: The width of `label-width' is too small on line 159.
+(tasks)                Please set it at least to 9.72pt.
+
+
+Overfull \hbox (0.72003pt too wide) in paragraph at lines 159--159
+\T5/ptm/b/n/10 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 159.
+(tasks)                Please set it at least to 9.72pt.
+
+
+Overfull \hbox (0.72003pt too wide) in paragraph at lines 159--159
+\T5/ptm/b/n/10 D.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 173.
+(tasks)                Please set it at least to 9.72pt.
+
+
+Overfull \hbox (0.72003pt too wide) in paragraph at lines 173--173
+\T5/ptm/b/n/10 A.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 173.
+(tasks)                Please set it at least to 9.17pt.
+
+
+Package tasks Warning: The width of `label-width' is too small on line 173.
+(tasks)                Please set it at least to 9.72pt.
+
+
+Overfull \hbox (0.72003pt too wide) in paragraph at lines 173--173
+\T5/ptm/b/n/10 C.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 173.
+(tasks)                Please set it at least to 9.72pt.
+
+
+Overfull \hbox (0.72003pt too wide) in paragraph at lines 173--173
 \T5/ptm/b/n/10 D.
  []
 
 [191]
 
-Package tasks Warning: The width of `label-width' is too small on line 159.
-(tasks)                Please set it at least to 9.72pt.
-
-
-Overfull \hbox (0.72003pt too wide) in paragraph at lines 159--159
-\T5/ptm/b/n/10 A.
- []
-
-
-Package tasks Warning: The width of `label-width' is too small on line 159.
-(tasks)                Please set it at least to 9.17pt.
-
-
-Package tasks Warning: The width of `label-width' is too small on line 159.
-(tasks)                Please set it at least to 9.72pt.
-
-
-Overfull \hbox (0.72003pt too wide) in paragraph at lines 159--159
-\T5/ptm/b/n/10 C.
- []
-
-
-Package tasks Warning: The width of `label-width' is too small on line 159.
-(tasks)                Please set it at least to 9.72pt.
-
-
-Overfull \hbox (0.72003pt too wide) in paragraph at lines 159--159
-\T5/ptm/b/n/10 D.
- []
-
-
-Package tasks Warning: The width of `label-width' is too small on line 173.
-(tasks)                Please set it at least to 9.72pt.
-
-
-Overfull \hbox (0.72003pt too wide) in paragraph at lines 173--173
-\T5/ptm/b/n/10 A.
- []
-
-
-Package tasks Warning: The width of `label-width' is too small on line 173.
-(tasks)                Please set it at least to 9.17pt.
-
-
-Package tasks Warning: The width of `label-width' is too small on line 173.
-(tasks)                Please set it at least to 9.72pt.
-
-
-Overfull \hbox (0.72003pt too wide) in paragraph at lines 173--173
-\T5/ptm/b/n/10 C.
- []
-
-
-Package tasks Warning: The width of `label-width' is too small on line 173.
-(tasks)                Please set it at least to 9.72pt.
-
-
-Overfull \hbox (0.72003pt too wide) in paragraph at lines 173--173
-\T5/ptm/b/n/10 D.
- []
-
-[192]
-
 Package tasks Warning: The width of `label-width' is too small on line 193.
 (tasks)                Please set it at least to 9.72pt.
 
@@ -10671,7 +10672,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 193--193
 \T5/ptm/b/n/10 D.
  []
 
-) (../data/VN10-Y24-PH-SYL-013-P.tex [193]
+) (../data/VN10-Y24-PH-SYL-013-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 14.
 (tasks)                Please set it at least to 9.72pt.
@@ -10690,6 +10691,7 @@ Overfull \hbox (0.17003pt too wide) in paragraph at lines 14--14
 \T5/ptm/b/n/10 B.
  []
 
+[192]
 
 Package tasks Warning: The width of `label-width' is too small on line 14.
 (tasks)                Please set it at least to 9.72pt.
@@ -10888,7 +10890,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 89--89
 \T5/ptm/b/n/10 D.
  []
 
-[194]
+[193]
 
 Package tasks Warning: The width of `label-width' is too small on line 104.
 (tasks)                Please set it at least to 9.72pt.
@@ -11033,27 +11035,30 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 154--154
 \T5/ptm/b/n/10 D.
  []
 
-[195]
-<../figs/VN10-2023-PH-TP014-P-1.jpg, id=3542, 240.9pt x 161.403pt>
+[194]
+<../figs/VN10-2023-PH-TP014-P-1.jpg, id=3622, 240.9pt x 161.403pt>
 File: ../figs/VN10-2023-PH-TP014-P-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP014-P-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP014-P-1.jpg  used on input line
  210.
 (pdftex.def)             Requested size: 164.31752pt x 110.09491pt.
-<../figs/VN10-2022-PH-TP015-4.jpg, id=3543, 442.65375pt x 260.172pt>
+<../figs/VN10-2022-PH-TP015-4.jpg, id=3623, 442.65375pt x 260.172pt>
 File: ../figs/VN10-2022-PH-TP015-4.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP015-4.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP015-4.jpg  used on input line 2
 40.
 (pdftex.def)             Requested size: 309.8555pt x 182.11914pt.
- [196 <../figs/VN10-2023-PH-TP014-P-1.jpg>]
-<../figs/VN10-2022-PH-TP015-1.jpg, id=3557, 214.401pt x 85.5195pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [195 <../figs/VN10-2023-PH-TP014-P-1.jpg>]
+<../figs/VN10-2022-PH-TP015-1.jpg, id=3635, 214.401pt x 85.5195pt>
 File: ../figs/VN10-2022-PH-TP015-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP015-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP015-1.jpg  used on input line 2
 48.
 (pdftex.def)             Requested size: 150.07967pt x 59.86322pt.
-<../figs/VN10-2023-PH-TP014-P-2.jpg, id=3559, 248.127pt x 160.1985pt>
+<../figs/VN10-2023-PH-TP014-P-2.jpg, id=3637, 248.127pt x 160.1985pt>
 File: ../figs/VN10-2023-PH-TP014-P-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP014-P-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP014-P-2.jpg  used on input line
@@ -11062,14 +11067,14 @@ Package pdftex.def Info: ../figs/VN10-2023-PH-TP014-P-2.jpg  used on input line
 
 Underfull \vbox (badness 4217) has occurred while \output is active []
 
- [197 <../figs/VN10-2022-PH-TP015-4.jpg> <../figs/VN10-2022-PH-TP015-1.jpg>]
-<../figs/VN10-2023-PH-TP014-P-3.jpg, id=3570, 222.8325pt x 205.9695pt>
+ [196 <../figs/VN10-2022-PH-TP015-4.jpg> <../figs/VN10-2022-PH-TP015-1.jpg>]
+<../figs/VN10-2023-PH-TP014-P-3.jpg, id=3648, 222.8325pt x 205.9695pt>
 File: ../figs/VN10-2023-PH-TP014-P-3.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP014-P-3.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP014-P-3.jpg  used on input line
  291.
 (pdftex.def)             Requested size: 164.31752pt x 151.88388pt.
-<../figs/VN10-2023-PH-TP014-P-4.jpg, id=3571, 239.09325pt x 178.86826pt>
+<../figs/VN10-2023-PH-TP014-P-4.jpg, id=3649, 239.09325pt x 178.86826pt>
 File: ../figs/VN10-2023-PH-TP014-P-4.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP014-P-4.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP014-P-4.jpg  used on input line
@@ -11080,38 +11085,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 313--313
 
  []
 
-[198 <../figs/VN10-2023-PH-TP014-P-2.jpg> <../figs/VN10-2023-PH-TP014-P-3.jpg> 
+[197 <../figs/VN10-2023-PH-TP014-P-2.jpg> <../figs/VN10-2023-PH-TP014-P-3.jpg> 
 <../figs/VN10-2023-PH-TP014-P-4.jpg>]
-<../figs/VN10-2023-PH-TP014-P-5.jpg, id=3577, 218.0145pt x 189.70876pt>
+<../figs/VN10-2023-PH-TP014-P-5.jpg, id=3655, 218.0145pt x 189.70876pt>
 File: ../figs/VN10-2023-PH-TP014-P-5.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP014-P-5.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP014-P-5.jpg  used on input line
  330.
 (pdftex.def)             Requested size: 164.31752pt x 142.99042pt.
-) [199 <../figs/VN10-2023-PH-TP014-P-5.jpg>] (./Workbook-10-sem1.ptc) (../data/
-VN10-Y24-PH-SYL-014.tex [200
+) [198 <../figs/VN10-2023-PH-TP014-P-5.jpg>] (./Workbook-10-sem1.ptc) (../data/
+VN10-Y24-PH-SYL-014.tex [199
 
 ]
 Ch\uhorn \ohorn ng 14.
-<../figs/VN10-2023-PH-TP015-1.png, id=3595, 475.7775pt x 177.66376pt>
+<../figs/VN10-2023-PH-TP015-1.png, id=3674, 475.7775pt x 177.66376pt>
 File: ../figs/VN10-2023-PH-TP015-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP015-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP015-1.png  used on input line 9
 .
 (pdftex.def)             Requested size: 153.64644pt x 57.37405pt.
-<../figs/VN10-2023-PH-TP015-2.png, id=3596, 504.08325pt x 184.89075pt>
+<../figs/VN10-2023-PH-TP015-2.png, id=3675, 504.08325pt x 184.89075pt>
 File: ../figs/VN10-2023-PH-TP015-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP015-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP015-2.png  used on input line 1
 5.
 (pdftex.def)             Requested size: 153.64644pt x 56.3535pt.
-<../figs/VN10-2023-PH-TP015-3.png, id=3597, 454.69875pt x 172.2435pt>
+<../figs/VN10-2023-PH-TP015-3.png, id=3676, 454.69875pt x 172.2435pt>
 File: ../figs/VN10-2023-PH-TP015-3.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP015-3.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP015-3.png  used on input line 2
 0.
 (pdftex.def)             Requested size: 153.64644pt x 58.20193pt.
-[201
+[200
 
  <../figs/VN10-2023-PH-TP015-1.png> <../figs/VN10-2023-PH-TP015-2.png> <../figs
 /VN10-2023-PH-TP015-3.png>]
@@ -11146,7 +11151,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 49--49
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP015-4.png, id=3613, 322.806pt x 137.313pt>
+<../figs/VN10-2023-PH-TP015-4.png, id=3692, 322.806pt x 137.313pt>
 File: ../figs/VN10-2023-PH-TP015-4.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP015-4.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP015-4.png  used on input line 7
@@ -11183,8 +11188,8 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 74--74
 \T5/ptm/b/n/10 D.
  []
 
-[202 <../figs/VN10-2023-PH-TP015-4.png>]) (../data/VN10-Y24-PH-SYL-014-P.tex
-<../figs/VN10-2023-PH-TP015-P-1.png, id=3629, 484.81125pt x 181.8795pt>
+[201 <../figs/VN10-2023-PH-TP015-4.png>]) (../data/VN10-Y24-PH-SYL-014-P.tex
+<../figs/VN10-2023-PH-TP015-P-1.png, id=3708, 484.81125pt x 181.8795pt>
 File: ../figs/VN10-2023-PH-TP015-P-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP015-P-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP015-P-1.png  used on input line
@@ -11263,7 +11268,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 30--30
 \T5/ptm/b/n/10 D.
  []
 
-[203 <../figs/VN10-2023-PH-TP015-P-1.png>]
+[202 <../figs/VN10-2023-PH-TP015-P-1.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 45.
 (tasks)                Please set it at least to 9.72pt.
@@ -11444,7 +11449,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 100--100
 \T5/ptm/b/n/10 D.
  []
 
-[204]
+[203]
 
 Package tasks Warning: The width of `label-width' is too small on line 114.
 (tasks)                Please set it at least to 9.72pt.
@@ -11481,27 +11486,27 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 114--114
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP017-1.jpg, id=3677, 131.2905pt x 118.041pt>
+<../figs/VN10-2022-PH-TP017-1.jpg, id=3758, 131.2905pt x 118.041pt>
 File: ../figs/VN10-2022-PH-TP017-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP017-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP017-1.jpg  used on input line 1
 37.
 (pdftex.def)             Requested size: 131.29016pt x 118.0407pt.
-[205 <../figs/VN10-2022-PH-TP017-1.jpg>]) (../data/VN10-Y24-PH-SYL-015.tex
-[206]
+[204 <../figs/VN10-2022-PH-TP017-1.jpg>]) (../data/VN10-Y24-PH-SYL-015.tex
+[205]
 Ch\uhorn \ohorn ng 15.
 
 Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
-<../figs/VN10-2023-PH-TP016-1.png, id=3704, 498.06075pt x 210.7875pt>
+<../figs/VN10-2023-PH-TP016-1.png, id=3785, 498.06075pt x 210.7875pt>
 File: ../figs/VN10-2023-PH-TP016-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP016-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP016-1.png  used on input line 2
 7.
 (pdftex.def)             Requested size: 256.0748pt x 108.37827pt.
-[207
+[206
 
  <../figs/VN10-2023-PH-TP016-1.png>]
 
@@ -11597,7 +11602,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 95--95
 \T5/ptm/b/n/10 D.
  []
 
-[208] [209]) (../data/VN10-Y24-PH-SYL-015-P.tex
+[207] [208]) (../data/VN10-Y24-PH-SYL-015-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 13.
 (tasks)                Please set it at least to 9.72pt.
@@ -11805,7 +11810,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 77--77
 \T5/ptm/b/n/10 C.
  []
 
-[210]
+[209]
 
 Package tasks Warning: The width of `label-width' is too small on line 77.
 (tasks)                Please set it at least to 9.72pt.
@@ -11995,7 +12000,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 150--150
 \T5/ptm/b/n/10 D.
  []
 
-[211]
+[210]
 
 Package tasks Warning: The width of `label-width' is too small on line 167.
 (tasks)                Please set it at least to 9.72pt.
@@ -12116,6 +12121,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 195--195
 \T5/ptm/b/n/10 D.
  []
 
+[211]
 
 Package tasks Warning: The width of `label-width' is too small on line 213.
 (tasks)                Please set it at least to 9.72pt.
@@ -12152,7 +12158,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 213--213
 \T5/ptm/b/n/10 D.
  []
 
-[212]
 
 Package tasks Warning: The width of `label-width' is too small on line 229.
 (tasks)                Please set it at least to 9.72pt.
@@ -12266,7 +12271,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 262--262
 \T5/ptm/b/n/10 D.
  []
 
-[213]
+[212]
 
 Package tasks Warning: The width of `label-width' is too small on line 278.
 (tasks)                Please set it at least to 9.72pt.
@@ -12339,14 +12344,14 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 295--295
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP017-2.jpg, id=3854, 157.18726pt x 94.55325pt>
+<../figs/VN10-2022-PH-TP017-2.jpg, id=3936, 157.18726pt x 94.55325pt>
 File: ../figs/VN10-2022-PH-TP017-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP017-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP017-2.jpg  used on input line 3
 20.
 (pdftex.def)             Requested size: 157.18686pt x 94.55301pt.
-[214 <../figs/VN10-2022-PH-TP017-2.jpg>]
-<../figs/VN10-2022-PH-TP016-1.jpg, id=3871, 136.1085pt x 183.68625pt>
+[213 <../figs/VN10-2022-PH-TP017-2.jpg>]
+<../figs/VN10-2022-PH-TP016-1.jpg, id=3953, 136.1085pt x 183.68625pt>
 File: ../figs/VN10-2022-PH-TP016-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP016-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP016-1.jpg  used on input line 3
@@ -12355,31 +12360,34 @@ Package pdftex.def Info: ../figs/VN10-2022-PH-TP016-1.jpg  used on input line 3
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [215]
-[216 <../figs/VN10-2022-PH-TP016-1.jpg>]
+ [214]
+[215 <../figs/VN10-2022-PH-TP016-1.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 497--497
 
  []
 
-[217]
-<../figs/VN10-2023-PH-TP016-P-1.jpg, id=3897, 446.26724pt x 85.5195pt>
+[216]
+<../figs/VN10-2023-PH-TP016-P-1.jpg, id=3977, 446.26724pt x 85.5195pt>
 File: ../figs/VN10-2023-PH-TP016-P-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP016-P-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP016-P-1.jpg  used on input line
  517.
 (pdftex.def)             Requested size: 328.6279pt x 62.97807pt.
- [218 <../figs/VN10-2023-PH-TP016-P-1.jpg>])
-(../data/VN10-Y24-PH-SYL-016.tex [219]
+ [217 <../figs/VN10-2023-PH-TP016-P-1.jpg>])
+(../data/VN10-Y24-PH-SYL-016.tex [218]
 Ch\uhorn \ohorn ng 16.
-<../figs/VN10-2023-PH-TP017-1.png, id=3912, 221.628pt x 176.45924pt>
+<../figs/VN10-2023-PH-TP017-1.png, id=3993, 221.628pt x 176.45924pt>
 File: ../figs/VN10-2023-PH-TP017-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP017-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP017-1.png  used on input line 1
 0.
 (pdftex.def)             Requested size: 153.64644pt x 122.3332pt.
-[220
+[219
 
- <../figs/VN10-2023-PH-TP017-1.png>] [221])
+ <../figs/VN10-2023-PH-TP017-1.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [220])
 (../data/VN10-Y24-PH-SYL-016-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 13.
@@ -12525,6 +12533,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 50--50
 \T5/ptm/b/n/10 D.
  []
 
+[221]
 
 Package tasks Warning: The width of `label-width' is too small on line 64.
 (tasks)                Please set it at least to 9.72pt.
@@ -12552,7 +12561,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 64--64
 \T5/ptm/b/n/10 C.
  []
 
-[222]
 
 Package tasks Warning: The width of `label-width' is too small on line 64.
 (tasks)                Please set it at least to 9.72pt.
@@ -12670,6 +12678,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 106--106
 \T5/ptm/b/n/10 D.
  []
 
+[222]
 
 Package tasks Warning: The width of `label-width' is too small on line 121.
 (tasks)                Please set it at least to 9.72pt.
@@ -12706,7 +12715,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 121--121
 \T5/ptm/b/n/10 D.
  []
 
-[223]
 
 Package tasks Warning: The width of `label-width' is too small on line 135.
 (tasks)                Please set it at least to 9.72pt.
@@ -12779,7 +12787,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 149--149
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2023-PH-TP017-P-1.png, id=3981, 289.68225pt x 166.221pt>
+<../figs/VN10-2023-PH-TP017-P-1.png, id=4061, 289.68225pt x 166.221pt>
 File: ../figs/VN10-2023-PH-TP017-P-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP017-P-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP017-P-1.png  used on input line
@@ -12821,26 +12829,26 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 166--166
 \T5/ptm/b/n/10 D.
  []
 
-[224 <../figs/VN10-2023-PH-TP017-P-1.png>]
-<../figs/VN10-2022-PH-TP017-3.jpg, id=4007, 222.8325pt x 230.66174pt>
+[223 <../figs/VN10-2023-PH-TP017-P-1.png>]
+<../figs/VN10-2022-PH-TP017-3.jpg, id=4084, 222.8325pt x 230.66174pt>
 File: ../figs/VN10-2022-PH-TP017-3.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP017-3.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP017-3.jpg  used on input line 1
 95.
 (pdftex.def)             Requested size: 155.98167pt x 161.4621pt.
-<../figs/VN10-2022-PH-TP017-4.jpg, id=4008, 238.491pt x 153.57375pt>
+<../figs/VN10-2022-PH-TP017-4.jpg, id=4085, 238.491pt x 153.57375pt>
 File: ../figs/VN10-2022-PH-TP017-4.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP017-4.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP017-4.jpg  used on input line 2
 12.
 (pdftex.def)             Requested size: 143.09569pt x 92.14494pt.
- [225 <../figs/VN10-2022-PH-TP017-3.jpg> <../figs/VN10-2022-PH-TP017-4.jpg>] [2
-26]) [227] (./Workbook-10-sem1.ptc)
-(../data/VN10-Y24-PH-SYL-017.tex [228
+ [224 <../figs/VN10-2022-PH-TP017-3.jpg> <../figs/VN10-2022-PH-TP017-4.jpg>] [2
+25]) [226] (./Workbook-10-sem1.ptc)
+(../data/VN10-Y24-PH-SYL-017.tex [227
 
 ]
 Ch\uhorn \ohorn ng 17.
-<../figs/VN10-PH-13-A-004-1-V2-01.jpg, id=4047, 613.0905pt x 401.70074pt>
+<../figs/VN10-PH-13-A-004-1-V2-01.jpg, id=4129, 613.0905pt x 401.70074pt>
 File: ../figs/VN10-PH-13-A-004-1-V2-01.jpg Graphic file (type jpg)
 <use ../figs/VN10-PH-13-A-004-1-V2-01.jpg>
 Package pdftex.def Info: ../figs/VN10-PH-13-A-004-1-V2-01.jpg  used on input li
@@ -12849,10 +12857,10 @@ ne 69.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [229
+ [228
 
 ]
-<../figs/VN10-2023-PH-TP018-1.png, id=4057, 224.037pt x 278.2395pt>
+<../figs/VN10-2023-PH-TP018-1.png, id=4138, 224.037pt x 278.2395pt>
 File: ../figs/VN10-2023-PH-TP018-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP018-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP018-1.png  used on input line 9
@@ -12894,7 +12902,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 110--110
 \T5/ptm/b/n/10 D.
  []
 
-[230 <../figs/VN10-PH-13-A-004-1-V2-01.JPG> <../figs/VN10-2023-PH-TP018-1.png>]
+[229 <../figs/VN10-PH-13-A-004-1-V2-01.JPG> <../figs/VN10-2023-PH-TP018-1.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 125.
 (tasks)                Please set it at least to 9.72pt.
@@ -12988,11 +12996,8 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 165--165
 \T5/ptm/b/n/10 D.
  []
 
-[231]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [232]
-<../figs/VN10-2023-PH-TP018-2.png, id=4099, 93.951pt x 198.7425pt>
+[230] [231]
+<../figs/VN10-2023-PH-TP018-2.png, id=4181, 93.951pt x 198.7425pt>
 File: ../figs/VN10-2023-PH-TP018-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP018-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP018-2.png  used on input line 2
@@ -13000,16 +13005,16 @@ Package pdftex.def Info: ../figs/VN10-2023-PH-TP018-2.png  used on input line 2
 (pdftex.def)             Requested size: 57.68332pt x 122.02423pt.
 
 Overfull \hbox (26.90002pt too wide) in paragraph at lines 229--229
-[]$[]$ $[]$ 
+$[]$ $[]$ 
  []
 
-<../figs/VN10-PH-11-L-008-4-V2-01.jpg, id=4100, 211.992pt x 154.176pt>
+<../figs/VN10-PH-11-L-008-4-V2-01.jpg, id=4182, 211.992pt x 154.176pt>
 File: ../figs/VN10-PH-11-L-008-4-V2-01.jpg Graphic file (type jpg)
 <use ../figs/VN10-PH-11-L-008-4-V2-01.jpg>
 Package pdftex.def Info: ../figs/VN10-PH-11-L-008-4-V2-01.jpg  used on input li
 ne 287.
 (pdftex.def)             Requested size: 105.99573pt x 77.0878pt.
-<../figs/VN10-PH-11-L-008-4-V2-02.jpg, id=4101, 236.68425pt x 135.50626pt>
+<../figs/VN10-PH-11-L-008-4-V2-02.jpg, id=4183, 236.68425pt x 135.50626pt>
 File: ../figs/VN10-PH-11-L-008-4-V2-02.jpg Graphic file (type jpg)
 <use ../figs/VN10-PH-11-L-008-4-V2-02.jpg>
 Package pdftex.def Info: ../figs/VN10-PH-11-L-008-4-V2-02.jpg  used on input li
@@ -13017,14 +13022,15 @@ ne 287.
 (pdftex.def)             Requested size: 189.34766pt x 108.40514pt.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-[233] [234 <../figs/VN10-PH-11-L-008-4-V2-01.jpg>]
-<../figs/VN10-PH-11-L-008-4-V2-03.jpg, id=4118, 157.7895pt x 160.1985pt>
+[232 <../figs/VN10-2023-PH-TP018-2.png>] [233 <../figs/VN10-PH-11-L-008-4-V2-01
+.jpg> <../figs/VN10-PH-11-L-008-4-V2-02.jpg>]
+<../figs/VN10-PH-11-L-008-4-V2-03.jpg, id=4203, 157.7895pt x 160.1985pt>
 File: ../figs/VN10-PH-11-L-008-4-V2-03.jpg Graphic file (type jpg)
 <use ../figs/VN10-PH-11-L-008-4-V2-03.jpg>
 Package pdftex.def Info: ../figs/VN10-PH-11-L-008-4-V2-03.jpg  used on input li
 ne 356.
 (pdftex.def)             Requested size: 110.45189pt x 112.13818pt.
-<../figs/VN10-PH-11-L-008-4-V2-04.jpg, id=4119, 298.11375pt x 205.9695pt>
+<../figs/VN10-PH-11-L-008-4-V2-04.jpg, id=4204, 298.11375pt x 205.9695pt>
 File: ../figs/VN10-PH-11-L-008-4-V2-04.jpg Graphic file (type jpg)
 <use ../figs/VN10-PH-11-L-008-4-V2-04.jpg>
 Package pdftex.def Info: ../figs/VN10-PH-11-L-008-4-V2-04.jpg  used on input li
@@ -13034,8 +13040,8 @@ ne 356.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-[235 <../figs/VN10-PH-11-L-008-4-V2-03.jpg>])
-(../data/VN10-Y24-PH-SYL-017-P.tex
+[234 <../figs/VN10-PH-11-L-008-4-V2-03.jpg> <../figs/VN10-PH-11-L-008-4-V2-04.j
+pg>]) (../data/VN10-Y24-PH-SYL-017-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 13.
 (tasks)                Please set it at least to 9.72pt.
@@ -13126,7 +13132,6 @@ Overfull \hbox (0.17003pt too wide) in paragraph at lines 41--41
 \T5/ptm/b/n/10 B.
  []
 
-[236]
 
 Package tasks Warning: The width of `label-width' is too small on line 41.
 (tasks)                Please set it at least to 9.72pt.
@@ -13136,6 +13141,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 41--41
 \T5/ptm/b/n/10 C.
  []
 
+[235]
 
 Package tasks Warning: The width of `label-width' is too small on line 41.
 (tasks)                Please set it at least to 9.72pt.
@@ -13361,7 +13367,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 121--121
 \T5/ptm/b/n/10 D.
  []
 
-[237]
+[236]
 
 Package tasks Warning: The width of `label-width' is too small on line 135.
 (tasks)                Please set it at least to 9.72pt.
@@ -13398,13 +13404,13 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 135--135
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP019-3.jpg, id=4174, 299.31825pt x 79.497pt>
+<../figs/VN10-2022-PH-TP019-3.jpg, id=4260, 299.31825pt x 79.497pt>
 File: ../figs/VN10-2022-PH-TP019-3.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP019-3.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP019-3.jpg  used on input line 1
 49.
 (pdftex.def)             Requested size: 299.31752pt x 79.4968pt.
-<../figs/VN10-2022-PH-TP019-1.jpg, id=4175, 127.07475pt x 228.855pt>
+<../figs/VN10-2022-PH-TP019-1.jpg, id=4261, 127.07475pt x 228.855pt>
 File: ../figs/VN10-2022-PH-TP019-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP019-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP019-1.jpg  used on input line 1
@@ -13413,62 +13419,62 @@ Package pdftex.def Info: ../figs/VN10-2022-PH-TP019-1.jpg  used on input line 1
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [238 <../figs/VN10-2022-PH-TP019-3.jpg>] [239 <../figs/VN10-2022-PH-TP019-1.jp
+ [237 <../figs/VN10-2022-PH-TP019-3.jpg>] [238 <../figs/VN10-2022-PH-TP019-1.jp
 g>]
-<../figs/VN10-2022-PH-TP019-2.jpg, id=4204, 284.86424pt x 112.0185pt>
+<../figs/VN10-2022-PH-TP019-2.jpg, id=4290, 284.86424pt x 112.0185pt>
 File: ../figs/VN10-2022-PH-TP019-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP019-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP019-2.jpg  used on input line 2
 43.
 (pdftex.def)             Requested size: 284.86354pt x 112.0182pt.
-<../figs/VN10-2022-PH-TP019-5.jpg, id=4205, 176.45924pt x 96.96225pt>
+<../figs/VN10-2022-PH-TP019-5.jpg, id=4291, 176.45924pt x 96.96225pt>
 File: ../figs/VN10-2022-PH-TP019-5.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP019-5.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP019-5.jpg  used on input line 2
 61.
 (pdftex.def)             Requested size: 176.4588pt x 96.962pt.
-<../figs/VN10-2022-PH-TP019-4.jpg, id=4206, 393.26926pt x 272.217pt>
+<../figs/VN10-2022-PH-TP019-4.jpg, id=4292, 393.26926pt x 272.217pt>
 File: ../figs/VN10-2022-PH-TP019-4.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP019-4.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP019-4.jpg  used on input line 2
 82.
 (pdftex.def)             Requested size: 196.63414pt x 136.10815pt.
 
-[240 <../figs/VN10-2022-PH-TP019-2.jpg> <../figs/VN10-2022-PH-TP019-5.jpg> <../
+[239 <../figs/VN10-2022-PH-TP019-2.jpg> <../figs/VN10-2022-PH-TP019-5.jpg> <../
 figs/VN10-2022-PH-TP019-4.jpg>]
-<../figs/VN10-2022-PH-TP019-6.jpg, id=4213, 78.89474pt x 201.75375pt>
+<../figs/VN10-2022-PH-TP019-6.jpg, id=4299, 78.89474pt x 201.75375pt>
 File: ../figs/VN10-2022-PH-TP019-6.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP019-6.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP019-6.jpg  used on input line 2
 89.
 (pdftex.def)             Requested size: 63.11586pt x 161.40321pt.
-<../figs/VN10-2022-PH-TP019-7.jpg, id=4214, 139.11975pt x 145.7445pt>
+<../figs/VN10-2022-PH-TP019-7.jpg, id=4300, 139.11975pt x 145.7445pt>
 File: ../figs/VN10-2022-PH-TP019-7.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP019-7.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP019-7.jpg  used on input line 3
 07.
 (pdftex.def)             Requested size: 111.29594pt x 116.59575pt.
-<../figs/VN10-2022-PH-TP019-10.jpg, id=4215, 219.82124pt x 101.178pt>
+<../figs/VN10-2022-PH-TP019-10.jpg, id=4301, 219.82124pt x 101.178pt>
 File: ../figs/VN10-2022-PH-TP019-10.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP019-10.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP019-10.jpg  used on input line 
 336.
 (pdftex.def)             Requested size: 175.85722pt x 80.94249pt.
- [241 <../figs/VN10-2022-PH-TP019-6.jpg> <../figs/VN10-2022-PH-TP019-7.jpg> <..
+ [240 <../figs/VN10-2022-PH-TP019-6.jpg> <../figs/VN10-2022-PH-TP019-7.jpg> <..
 /figs/VN10-2022-PH-TP019-10.jpg>]
-<../figs/VN10-2022-PH-TP019-8.jpg, id=4223, 257.763pt x 124.0635pt>
+<../figs/VN10-2022-PH-TP019-8.jpg, id=4308, 257.763pt x 124.0635pt>
 File: ../figs/VN10-2022-PH-TP019-8.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP019-8.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP019-8.jpg  used on input line 3
 43.
 (pdftex.def)             Requested size: 206.21068pt x 99.25092pt.
-<../figs/VN10-2022-PH-TP019-9.jpg, id=4224, 224.037pt x 153.57375pt>
+<../figs/VN10-2022-PH-TP019-9.jpg, id=4309, 224.037pt x 153.57375pt>
 File: ../figs/VN10-2022-PH-TP019-9.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP019-9.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP019-9.jpg  used on input line 3
 66.
 (pdftex.def)             Requested size: 179.22983pt x 122.85915pt.
-<../figs/VN10-2021-PH-TP011-1.jpg, id=4225, 178.41656pt x 161.85469pt>
+<../figs/VN10-2021-PH-TP011-1.jpg, id=4310, 178.41656pt x 161.85469pt>
 File: ../figs/VN10-2021-PH-TP011-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2021-PH-TP011-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2021-PH-TP011-1.jpg  used on input line 3
@@ -13477,45 +13483,45 @@ Package pdftex.def Info: ../figs/VN10-2021-PH-TP011-1.jpg  used on input line 3
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [242 <../figs/VN10-2022-PH-TP019-8.jpg> <../figs/VN10-2022-PH-TP019-9.jpg>]
-<../figs/VN10-2021-PH-TP011-2.jpg, id=4232, 106.59825pt x 156.585pt>
+ [241 <../figs/VN10-2022-PH-TP019-8.jpg> <../figs/VN10-2022-PH-TP019-9.jpg>]
+<../figs/VN10-2021-PH-TP011-2.jpg, id=4318, 106.59825pt x 156.585pt>
 File: ../figs/VN10-2021-PH-TP011-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2021-PH-TP011-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2021-PH-TP011-2.jpg  used on input line 3
 87.
 (pdftex.def)             Requested size: 85.2787pt x 125.26816pt.
 )
-(../data/VN10-Y24-PH-SYL-018.tex [243 <../figs/VN10-2021-PH-TP011-1.jpg> <../fi
+(../data/VN10-Y24-PH-SYL-018.tex [242 <../figs/VN10-2021-PH-TP011-1.jpg> <../fi
 gs/VN10-2021-PH-TP011-2.jpg>]
 Ch\uhorn \ohorn ng 18.
-<../figs/VN10-2023-PH-TP019-1.png, id=4237, 374.8404pt x 269.808pt>
+<../figs/VN10-2023-PH-TP019-1.png, id=4323, 374.8404pt x 269.808pt>
 File: ../figs/VN10-2023-PH-TP019-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP019-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP019-1.png  used on input line 1
 0.
 (pdftex.def)             Requested size: 204.8567pt x 147.45619pt.
-<../figs/VN10-PH-15-L-012-1-V2-01.JPG, id=4238, 480.5955pt x 236.082pt>
+<../figs/VN10-PH-15-L-012-1-V2-01.JPG, id=4324, 480.5955pt x 236.082pt>
 File: ../figs/VN10-PH-15-L-012-1-V2-01.JPG Graphic file (type jpg)
 <use ../figs/VN10-PH-15-L-012-1-V2-01.JPG>
 Package pdftex.def Info: ../figs/VN10-PH-15-L-012-1-V2-01.JPG  used on input li
 ne 34.
 (pdftex.def)             Requested size: 168.21094pt x 82.62993pt.
-[244
+[243
 
  <../figs/VN10-2023-PH-TP019-1.png> <../figs/VN10-PH-15-L-012-1-V2-01.JPG>]
-<../figs/VN10-PH-15-L-012-1-V2-02.JPG, id=4251, 611.886pt x 342.078pt>
+<../figs/VN10-PH-15-L-012-1-V2-02.JPG, id=4336, 611.886pt x 342.078pt>
 File: ../figs/VN10-PH-15-L-012-1-V2-02.JPG Graphic file (type jpg)
 <use ../figs/VN10-PH-15-L-012-1-V2-02.JPG>
 Package pdftex.def Info: ../figs/VN10-PH-15-L-012-1-V2-02.JPG  used on input li
 ne 69.
 (pdftex.def)             Requested size: 152.97112pt x 85.51929pt.
-<../figs/VN10-PH-15-L-012-1-V2-03.JPG, id=4252, 341.47575pt x 385.44pt>
+<../figs/VN10-PH-15-L-012-1-V2-03.JPG, id=4337, 341.47575pt x 385.44pt>
 File: ../figs/VN10-PH-15-L-012-1-V2-03.JPG Graphic file (type jpg)
 <use ../figs/VN10-PH-15-L-012-1-V2-03.JPG>
 Package pdftex.def Info: ../figs/VN10-PH-15-L-012-1-V2-03.JPG  used on input li
 ne 77.
 (pdftex.def)             Requested size: 119.5183pt x 134.90602pt.
-[245 <../figs/VN10-PH-15-L-012-1-V2-02.JPG> <../figs/VN10-PH-15-L-012-1-V2-03.J
+[244 <../figs/VN10-PH-15-L-012-1-V2-02.JPG> <../figs/VN10-PH-15-L-012-1-V2-03.J
 PG>]
 
 Package tasks Warning: The width of `label-width' is too small on line 97.
@@ -13610,14 +13616,15 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 132--132
 \T5/ptm/b/n/10 D.
  []
 
-[246] [247]
-<../figs/VN10-PH-15-A-005-3-V2-03.JPG, id=4291, 262.581pt x 192.11775pt>
+[245] [246]
+<../figs/VN10-PH-15-A-005-3-V2-03.JPG, id=4376, 262.581pt x 192.11775pt>
 File: ../figs/VN10-PH-15-A-005-3-V2-03.JPG Graphic file (type jpg)
 <use ../figs/VN10-PH-15-A-005-3-V2-03.JPG>
 Package pdftex.def Info: ../figs/VN10-PH-15-A-005-3-V2-03.JPG  used on input li
 ne 194.
 (pdftex.def)             Requested size: 157.5498pt x 115.27153pt.
- [248]) (../data/VN10-Y24-PH-SYL-018-P.tex
+ [247 <../figs/VN10-PH-15-A-005-3-V2-03.JPG>])
+(../data/VN10-Y24-PH-SYL-018-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 15.
 (tasks)                Please set it at least to 9.72pt.
@@ -13690,7 +13697,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 32--32
 \T5/ptm/b/n/10 D.
  []
 
-[249]
 
 Package tasks Warning: The width of `label-width' is too small on line 50.
 (tasks)                Please set it at least to 9.72pt.
@@ -13700,6 +13706,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 50--50
 \T5/ptm/b/n/10 A.
  []
 
+[248]
 
 Package tasks Warning: The width of `label-width' is too small on line 50.
 (tasks)                Please set it at least to 9.17pt.
@@ -13871,7 +13878,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 121--121
 \T5/ptm/b/n/10 D.
  []
 
-[250]
+[249]
 
 Package tasks Warning: The width of `label-width' is too small on line 144.
 (tasks)                Please set it at least to 9.72pt.
@@ -13980,83 +13987,79 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 188--188
 \T5/ptm/b/n/10 D.
  []
 
-[251] [252] [253]
-<../figs/VN10-2022-PH-TP021-1.jpg, id=4381, 269.20575pt x 124.66576pt>
+[250] [251] [252]
+<../figs/VN10-2022-PH-TP021-1.jpg, id=4467, 269.20575pt x 124.66576pt>
 File: ../figs/VN10-2022-PH-TP021-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-1.jpg  used on input line 3
 88.
 (pdftex.def)             Requested size: 269.20508pt x 124.66544pt.
- [254 <../figs/VN10-2022-PH-TP021-1.jpg>]
-<../figs/VN10-2022-PH-TP021-2.jpg, id=4391, 175.857pt x 99.9735pt>
+<../figs/VN10-2022-PH-TP021-2.jpg, id=4468, 175.857pt x 99.9735pt>
 File: ../figs/VN10-2022-PH-TP021-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-2.jpg  used on input line 3
 95.
 (pdftex.def)             Requested size: 175.85657pt x 99.97324pt.
+ [253 <../figs/VN10-2022-PH-TP021-1.jpg>]
 File: ../figs/VN10-2022-PH-TP021-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-1.jpg  used on input line 4
 43.
 (pdftex.def)             Requested size: 269.20508pt x 124.66544pt.
 )
-(../data/VN10-Y24-PH-SYL-019.tex [255 <../figs/VN10-2022-PH-TP021-2.jpg>]
+(../data/VN10-Y24-PH-SYL-019.tex [254 <../figs/VN10-2022-PH-TP021-2.jpg>]
 Ch\uhorn \ohorn ng 19.
-<../figs/VN10-2023-PH-TP020-1.png, id=4404, 381.22424pt x 360.1455pt>
+<../figs/VN10-2023-PH-TP020-1.png, id=4490, 381.22424pt x 360.1455pt>
 File: ../figs/VN10-2023-PH-TP020-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP020-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP020-1.png  used on input line 9
 .
 (pdftex.def)             Requested size: 128.0374pt x 120.95859pt.
-[256
+[255
 
  <../figs/VN10-2023-PH-TP020-1.png>]
-<../figs/VN10-2023-PH-TP020-2.png, id=4415, 410.13225pt x 224.037pt>
+<../figs/VN10-2023-PH-TP020-2.png, id=4501, 410.13225pt x 224.037pt>
 File: ../figs/VN10-2023-PH-TP020-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP020-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP020-2.png  used on input line 4
 2.
 (pdftex.def)             Requested size: 204.8567pt x 111.9054pt.
-<../figs/VN10-2023-PH-TP020-3.png, id=4417, 259.56975pt x 335.45325pt>
+<../figs/VN10-2023-PH-TP020-3.png, id=4503, 259.56975pt x 335.45325pt>
 File: ../figs/VN10-2023-PH-TP020-3.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP020-3.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP020-3.png  used on input line 5
 7.
 (pdftex.def)             Requested size: 161.61046pt x 208.85925pt.
- [257 <../figs/VN10-2023-PH-TP020-2.png> <../figs/VN10-2023-PH-TP020-3.png>]
-
-LaTeX Warning: Reference `fig:20.4' on page 258 undefined on input line 80.
-
-<../figs/VN10-2023-PH-TP020-4.png, id=4428, 498.06075pt x 290.88675pt>
+ [256 <../figs/VN10-2023-PH-TP020-2.png> <../figs/VN10-2023-PH-TP020-3.png>]
+<../figs/VN10-2023-PH-TP020-4.png, id=4515, 498.06075pt x 290.88675pt>
 File: ../figs/VN10-2023-PH-TP020-4.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP020-4.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP020-4.png  used on input line 8
 0.
 (pdftex.def)             Requested size: 144.21053pt x 84.22627pt.
-
-LaTeX Warning: Reference `eq:20.1' on page 258 undefined on input line 80.
-
-[258]
-<../figs/VN10-2023-PH-TP020-5.png, id=4438, 1072.005pt x 422.17725pt>
+ [257 <../figs/VN10-2023-PH-TP020-4.png>]
+<../figs/VN10-2023-PH-TP020-5.png, id=4529, 1072.005pt x 422.17725pt>
 File: ../figs/VN10-2023-PH-TP020-5.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP020-5.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP020-5.png  used on input line 1
 04.
 (pdftex.def)             Requested size: 288.42105pt x 113.58353pt.
-<../figs/VN10-2023-PH-TP020-6.png, id=4439, 670.30424pt x 290.2845pt>
+<../figs/VN10-2023-PH-TP020-6.png, id=4530, 670.30424pt x 290.2845pt>
 File: ../figs/VN10-2023-PH-TP020-6.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP020-6.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP020-6.png  used on input line 1
 04.
 (pdftex.def)             Requested size: 288.42105pt x 124.90848pt.
-<../figs/VN10-2023-PH-TP020-7.jpg, id=4440, 602.25pt x 412.54124pt>
+<../figs/VN10-2023-PH-TP020-7.jpg, id=4531, 602.25pt x 412.54124pt>
 File: ../figs/VN10-2023-PH-TP020-7.jpg Graphic file (type jpg)
 <use ../figs/VN10-2023-PH-TP020-7.jpg>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP020-7.jpg  used on input line 1
 17.
 (pdftex.def)             Requested size: 96.13791pt x 65.85057pt.
- [259 <../figs/VN10-2023-PH-TP020-5.png> <../figs/VN10-2023-PH-TP020-7.jpg>]
-<../figs/VN10-2023-PH-TP020-8.png, id=4452, 97.5645pt x 175.857pt>
+
+[258 <../figs/VN10-2023-PH-TP020-5.png> <../figs/VN10-2023-PH-TP020-6.png> <../
+figs/VN10-2023-PH-TP020-7.jpg>]
+<../figs/VN10-2023-PH-TP020-8.png, id=4543, 97.5645pt x 175.857pt>
 File: ../figs/VN10-2023-PH-TP020-8.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP020-8.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP020-8.png  used on input line 1
@@ -14067,7 +14070,7 @@ Overfull \hbox (1.9pt too wide) in paragraph at lines 159--159
 []$[]$ $[]$ 
  []
 
-<../figs/VN10-2023-PH-TP020-9.png, id=4453, 120.45pt x 252.945pt>
+<../figs/VN10-2023-PH-TP020-9.png, id=4544, 120.45pt x 252.945pt>
 File: ../figs/VN10-2023-PH-TP020-9.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP020-9.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP020-9.png  used on input line 1
@@ -14075,17 +14078,17 @@ Package pdftex.def Info: ../figs/VN10-2023-PH-TP020-9.png  used on input line 1
 (pdftex.def)             Requested size: 57.68332pt x 121.13432pt.
 
 Overfull \hbox (26.90002pt too wide) in paragraph at lines 159--159
-[]$[]$ $[]$ 
+$[]$ $[]$ 
  []
 
-<../figs/VN10-2023-PH-TP020-10.png, id=4455, 178.266pt x 173.448pt>
+<../figs/VN10-2023-PH-TP020-10.png, id=4546, 178.266pt x 173.448pt>
 File: ../figs/VN10-2023-PH-TP020-10.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP020-10.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP020-10.png  used on input line 
 176.
 (pdftex.def)             Requested size: 96.13791pt x 93.54141pt.
-) (../data/VN10-Y24-PH-SYL-019-P.tex [260 <../figs/VN10-2023-PH-TP020-8.png> <.
-./figs/VN10-2023-PH-TP020-10.png>]
+[259 <../figs/VN10-2023-PH-TP020-8.png> <../figs/VN10-2023-PH-TP020-9.PNG> <../
+figs/VN10-2023-PH-TP020-10.png>]) (../data/VN10-Y24-PH-SYL-019-P.tex
 
 Package tasks Warning: The width of `label-width' is too small on line 13.
 (tasks)                Please set it at least to 9.72pt.
@@ -14230,6 +14233,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 51--51
 \T5/ptm/b/n/10 D.
  []
 
+[260]
 
 Package tasks Warning: The width of `label-width' is too small on line 65.
 (tasks)                Please set it at least to 9.72pt.
@@ -14266,7 +14270,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 65--65
 \T5/ptm/b/n/10 D.
  []
 
-[261]
 
 Package tasks Warning: The width of `label-width' is too small on line 79.
 (tasks)                Please set it at least to 9.72pt.
@@ -14339,7 +14342,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 93--93
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2022-PH-TP020-P-1.png, id=4499, 76.48575pt x 66.84975pt>
+<../figs/VN10-2022-PH-TP020-P-1.png, id=4589, 76.48575pt x 66.84975pt>
 File: ../figs/VN10-2022-PH-TP020-P-1.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP020-P-1.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP020-P-1.png  used on input line
@@ -14422,6 +14425,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--129
 
  []
 
+[261 <../figs/VN10-2022-PH-TP020-P-1.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 138.
 (tasks)                Please set it at least to 9.72pt.
@@ -14458,7 +14462,6 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 138--138
 \T5/ptm/b/n/10 D.
  []
 
-[262 <../figs/VN10-2022-PH-TP020-P-1.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 153.
 (tasks)                Please set it at least to 9.72pt.
@@ -14603,6 +14606,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 203--203
 \T5/ptm/b/n/10 D.
  []
 
+[262]
 
 Package tasks Warning: The width of `label-width' is too small on line 219.
 (tasks)                Please set it at least to 9.72pt.
@@ -14639,197 +14643,122 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 219--219
 \T5/ptm/b/n/10 D.
  []
 
-[263]
-<../figs/VN10-2022-PH-TP020-1.jpg, id=4559, 96.96225pt x 84.315pt>
+<../figs/VN10-2022-PH-TP020-1.jpg, id=4645, 96.96225pt x 84.315pt>
 File: ../figs/VN10-2022-PH-TP020-1.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP020-1.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP020-1.jpg  used on input line 2
 46.
 (pdftex.def)             Requested size: 96.962pt x 84.31477pt.
-<../figs/VN10-2022-PH-TP020-3.jpg, id=4560, 161.403pt x 235.47975pt>
+<../figs/VN10-2022-PH-TP020-3.jpg, id=4646, 161.403pt x 235.47975pt>
 File: ../figs/VN10-2022-PH-TP020-3.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP020-3.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP020-3.jpg  used on input line 2
 57.
 (pdftex.def)             Requested size: 96.84254pt x 141.28893pt.
-<../figs/VN10-2022-PH-TP020-2.jpg, id=4561, 183.68625pt x 95.1555pt>
+[263 <../figs/VN10-2022-PH-TP020-1.jpg> <../figs/VN10-2022-PH-TP020-3.jpg>]
+<../figs/VN10-2022-PH-TP020-2.jpg, id=4662, 183.68625pt x 95.1555pt>
 File: ../figs/VN10-2022-PH-TP020-2.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP020-2.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP020-2.jpg  used on input line 2
 63.
 (pdftex.def)             Requested size: 183.68578pt x 95.15524pt.
- [264 <../figs/VN10-2022-PH-TP020-1.jpg> <../figs/VN10-2022-PH-TP020-3.jpg> <..
-/figs/VN10-2022-PH-TP020-2.jpg>]
-<../figs/VN10-2022-PH-TP020-P-5.jpg, id=4571, 100.57574pt x 157.7895pt>
+<../figs/VN10-2022-PH-TP020-P-5.jpg, id=4665, 100.57574pt x 157.7895pt>
 File: ../figs/VN10-2022-PH-TP020-P-5.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP020-P-5.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP020-P-5.jpg  used on input line
  281.
 (pdftex.def)             Requested size: 70.4177pt x 110.48077pt.
-<../figs/VN10-2022-PH-TP020-P-6.jpg, id=4572, 82.50826pt x 148.75575pt>
+<../figs/VN10-2022-PH-TP020-P-6.jpg, id=4666, 82.50826pt x 148.75575pt>
 File: ../figs/VN10-2022-PH-TP020-P-6.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP020-P-6.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP020-P-6.jpg  used on input line
  292.
 (pdftex.def)             Requested size: 70.4177pt x 126.95595pt.
- [265 <../figs/VN10-2022-PH-TP020-P-5.jpg> <../figs/VN10-2022-PH-TP020-P-6.jpg>
-]
-<../figs/VN10-2022-PH-TP020-P-2.png, id=4585, 206.57175pt x 55.407pt>
+
+[264 <../figs/VN10-2022-PH-TP020-2.jpg> <../figs/VN10-2022-PH-TP020-P-5.jpg> <.
+./figs/VN10-2022-PH-TP020-P-6.jpg>]
+<../figs/VN10-2022-PH-TP020-P-2.png, id=4675, 206.57175pt x 55.407pt>
 File: ../figs/VN10-2022-PH-TP020-P-2.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP020-P-2.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP020-P-2.png  used on input line
  352.
 (pdftex.def)             Requested size: 187.78532pt x 50.3697pt.
-<../figs/VN10-2022-PH-TP020-P-3.png, id=4586, 246.9225pt x 76.48575pt>
+<../figs/VN10-2022-PH-TP020-P-3.png, id=4676, 246.9225pt x 76.48575pt>
 File: ../figs/VN10-2022-PH-TP020-P-3.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP020-P-3.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP020-P-3.png  used on input line
  365.
 (pdftex.def)             Requested size: 187.78532pt x 58.1671pt.
-<../figs/VN10-2022-PH-TP020-P-4.png, id=4587, 229.45724pt x 61.4295pt>
+ [265 <../figs/VN10-2022-PH-TP020-P-2.png>]
+<../figs/VN10-2022-PH-TP020-P-4.png, id=4693, 229.45724pt x 61.4295pt>
 File: ../figs/VN10-2022-PH-TP020-P-4.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP020-P-4.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP020-P-4.png  used on input line
  380.
 (pdftex.def)             Requested size: 178.98546pt x 47.91762pt.
- [266 <../figs/VN10-2022-PH-TP020-P-2.png> <../figs/VN10-2022-PH-TP020-P-3.png>
-]
-<../figs/VN10-2022-PH-TP020-P-7.jpg, id=4604, 313.77225pt x 193.9245pt>
+<../figs/VN10-2022-PH-TP020-P-7.jpg, id=4694, 313.77225pt x 193.9245pt>
 File: ../figs/VN10-2022-PH-TP020-P-7.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP020-P-7.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP020-P-7.jpg  used on input line
  400.
 (pdftex.def)             Requested size: 156.61739pt x 96.7963pt.
- [267 <../figs/VN10-2022-PH-TP020-P-4.png> <../figs/VN10-2022-PH-TP020-P-7.jpg>
-]) [268] (./Workbook-10-sem1.ptc)
-(../data/VN10-Y24-PH-SYL-020.tex [269
+
+[266 <../figs/VN10-2022-PH-TP020-P-3.png> <../figs/VN10-2022-PH-TP020-P-4.png> 
+<../figs/VN10-2022-PH-TP020-P-7.jpg>]) [267] (./Workbook-10-sem1.ptc)
+(../data/VN10-Y24-PH-SYL-020.tex [268
 
 ]
 Ch\uhorn \ohorn ng 20.
-[270
+[269
 
 ]
-<../figs/G10-17-1.png, id=4639, 255.45438pt x 232.36812pt>
+<../figs/G10-17-1.png, id=4734, 255.45438pt x 232.36812pt>
 File: ../figs/G10-17-1.png Graphic file (type png)
 <use ../figs/G10-17-1.png>
 Package pdftex.def Info: ../figs/G10-17-1.png  used on input line 90.
 (pdftex.def)             Requested size: 127.72687pt x 116.18376pt.
-
-
-LaTeX Warning: Reference `*' on page 271 undefined on input line 90.
-
-
-LaTeX Warning: Reference `*' on page 271 undefined on input line 90.
-
-
-LaTeX Warning: Reference `*' on page 271 undefined on input line 90.
-
-
-LaTeX Warning: Reference `***' on page 271 undefined on input line 90.
-
-
-LaTeX Warning: Reference `**' on page 271 undefined on input line 90.
-
-[271]
-<../figs/G10-17-3.png, id=4646, 315.1775pt x 190.7125pt>
+<../figs/G10-17-3.png, id=4740, 315.1775pt x 190.7125pt>
 File: ../figs/G10-17-3.png Graphic file (type png)
 <use ../figs/G10-17-3.png>
 Package pdftex.def Info: ../figs/G10-17-3.png  used on input line 128.
 (pdftex.def)             Requested size: 157.58836pt x 95.356pt.
-
-
-LaTeX Warning: Reference `10' on page 272 undefined on input line 128.
-
-
-LaTeX Warning: Reference `10' on page 272 undefined on input line 128.
-
-[272]
-<../figs//G10-17-2.png, id=4653, 399.4925pt x 163.10938pt>
+ [270 <../figs/G10-17-1.png>] [271 <../figs/G10-17-3.png>]
+<../figs//G10-17-2.png, id=4766, 399.4925pt x 163.10938pt>
 File: ../figs//G10-17-2.png Graphic file (type png)
 <use ../figs//G10-17-2.png>
 Package pdftex.def Info: ../figs//G10-17-2.png  used on input line 201.
 (pdftex.def)             Requested size: 279.64284pt x 114.17577pt.
-
-
-LaTeX Warning: Reference `1' on page 273 undefined on input line 201.
-
-
-LaTeX Warning: Reference `1' on page 273 undefined on input line 201.
-
-
-LaTeX Warning: Reference `3' on page 273 undefined on input line 201.
-
-
-LaTeX Warning: Reference `3' on page 273 undefined on input line 201.
-
-
-LaTeX Warning: Reference `2' on page 273 undefined on input line 201.
-
-
-LaTeX Warning: Reference `4' on page 273 undefined on input line 201.
-
-
-LaTeX Warning: Reference `5' on page 273 undefined on input line 201.
-
-
-LaTeX Warning: Reference `6' on page 273 undefined on input line 201.
-
-[273]
-<../figs/VN10-2023-PH-TP021-1.png, id=4664, 511.6716pt x 288.5982pt>
+<../figs/VN10-2023-PH-TP021-1.png, id=4775, 511.6716pt x 288.5982pt>
 File: ../figs/VN10-2023-PH-TP021-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP021-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP021-1.png  used on input line 3
 26.
 (pdftex.def)             Requested size: 192.27582pt x 108.44864pt.
-<../figs/VN10-2023-PH-TP021-2.png, id=4665, 694.2738pt x 480.8364pt>
+<../figs/VN10-2023-PH-TP021-2.png, id=4776, 694.2738pt x 480.8364pt>
 File: ../figs/VN10-2023-PH-TP021-2.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP021-2.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP021-2.png  used on input line 3
 26.
 (pdftex.def)             Requested size: 273.42088pt x 189.36702pt.
-
-
-LaTeX Warning: Reference `eq:3' on page 274 undefined on input line 326.
-
-
-LaTeX Warning: Reference `eq:4' on page 274 undefined on input line 326.
-
-
-LaTeX Warning: Reference `eq:6' on page 274 undefined on input line 326.
-
-
-LaTeX Warning: Reference `eq:3' on page 274 undefined on input line 326.
-
-<../figs/VN10-2023-PH-TP021-3.png, id=4668, 694.2738pt x 480.8364pt>
+<../figs/VN10-2023-PH-TP021-3.png, id=4783, 694.2738pt x 480.8364pt>
 File: ../figs/VN10-2023-PH-TP021-3.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP021-3.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP021-3.png  used on input line 3
 26.
 (pdftex.def)             Requested size: 273.42088pt x 189.36702pt.
 
-LaTeX Warning: Reference `eq:9' on page 274 undefined on input line 326.
-
-
-LaTeX Warning: Reference `eq:10' on page 274 undefined on input line 326.
-
-
-LaTeX Warning: Reference `eq:12' on page 274 undefined on input line 326.
-
-
-LaTeX Warning: Reference `eq:10' on page 274 undefined on input line 326.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [274 <../figs/VN10-2023-PH-TP021-1.png>] [275] [276]
+ [272 <../figs//G10-17-2.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [273 <../figs/VN10-2023-PH-TP021-1.png> <../figs/VN10-2023-PH-TP021-2.png>] [2
+74 <../figs/VN10-2023-PH-TP021-3.png>]
 File: ../figs//G10-17-2.png Graphic file (type png)
 <use ../figs//G10-17-2.png>
 Package pdftex.def Info: ../figs//G10-17-2.png  used on input line 361.
 (pdftex.def)             Requested size: 279.64284pt x 114.17577pt.
-
-
-LaTeX Warning: Reference `eq:14' on page 277 undefined on input line 361.
-
+ [275]
 File: ../figs/VN10-2023-PH-TP021-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP021-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP021-1.png  used on input line 4
@@ -14840,54 +14769,48 @@ File: ../figs/VN10-2023-PH-TP021-2.png Graphic file (type png)
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP021-2.png  used on input line 4
 23.
 (pdftex.def)             Requested size: 273.42088pt x 189.36702pt.
-
-LaTeX Warning: Reference `eq:15' on page 277 undefined on input line 423.
-
 File: ../figs/VN10-2023-PH-TP021-3.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP021-3.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP021-3.png  used on input line 4
 23.
 (pdftex.def)             Requested size: 273.42088pt x 189.36702pt.
 
-LaTeX Warning: Reference `eq:16' on page 277 undefined on input line 423.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [277]
-[278]) (../data/VN10-Y24-PH-SYL-020-P.tex
-<../figs/VN10-2022-PH-TP021-3.jpg, id=4701, 232.4685pt x 134.30174pt>
+ [276]
+[277]) (../data/VN10-Y24-PH-SYL-020-P.tex
+<../figs/VN10-2022-PH-TP021-3.jpg, id=4856, 232.4685pt x 134.30174pt>
 File: ../figs/VN10-2022-PH-TP021-3.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-3.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-3.jpg  used on input line 3
 5.
 (pdftex.def)             Requested size: 232.46793pt x 134.3014pt.
 
-Underfull \vbox (badness 1668) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [279]
-<../figs/VN10-2022-PH-TP021-22.jpg, id=4707, 78.2925pt x 104.18925pt>
+ [278]
+<../figs/VN10-2022-PH-TP021-22.jpg, id=4863, 78.2925pt x 104.18925pt>
 File: ../figs/VN10-2022-PH-TP021-22.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-22.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-22.jpg  used on input line 
 42.
 (pdftex.def)             Requested size: 78.2923pt x 104.18898pt.
-<../figs/VN10-2022-PH-TP021-23.jpg, id=4708, 148.75575pt x 221.02576pt>
+<../figs/VN10-2022-PH-TP021-23.jpg, id=4864, 148.75575pt x 221.02576pt>
 File: ../figs/VN10-2022-PH-TP021-23.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-23.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-23.jpg  used on input line 
 57.
 (pdftex.def)             Requested size: 148.75537pt x 221.0252pt.
 
-[280 <../figs/VN10-2022-PH-TP021-3.jpg> <../figs/VN10-2022-PH-TP021-22.jpg> <..
+[279 <../figs/VN10-2022-PH-TP021-3.jpg> <../figs/VN10-2022-PH-TP021-22.jpg> <..
 /figs/VN10-2022-PH-TP021-23.jpg>]
-<../figs/VN10-2022-PH-TP021-7.jpg, id=4714, 304.13625pt x 160.80075pt>
+<../figs/VN10-2022-PH-TP021-7.jpg, id=4870, 304.13625pt x 160.80075pt>
 File: ../figs/VN10-2022-PH-TP021-7.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-7.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-7.jpg  used on input line 9
 4.
 (pdftex.def)             Requested size: 182.48315pt x 96.48117pt.
-<../figs/VN10-2022-PH-TP021-12.jpg, id=4715, 186.6975pt x 168.63pt>
+<../figs/VN10-2022-PH-TP021-12.jpg, id=4871, 186.6975pt x 168.63pt>
 File: ../figs/VN10-2022-PH-TP021-12.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-12.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-12.jpg  used on input line 
@@ -14896,35 +14819,35 @@ Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-12.jpg  used on input line
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [281 <../figs/VN10-2022-PH-TP021-7.jpg>]
-<../figs/VN10-2022-PH-TP021-17.jpg, id=4722, 160.80075pt x 61.4295pt>
+ [280 <../figs/VN10-2022-PH-TP021-7.jpg>]
+<../figs/VN10-2022-PH-TP021-17.jpg, id=4878, 160.80075pt x 61.4295pt>
 File: ../figs/VN10-2022-PH-TP021-17.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-17.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-17.jpg  used on input line 
 135.
 (pdftex.def)             Requested size: 160.80034pt x 61.42934pt.
-<../figs/VN10-2022-PH-TP021-18.jpg, id=4723, 217.41225pt x 99.9735pt>
+<../figs/VN10-2022-PH-TP021-18.jpg, id=4879, 217.41225pt x 99.9735pt>
 File: ../figs/VN10-2022-PH-TP021-18.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-18.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-18.jpg  used on input line 
 163.
 (pdftex.def)             Requested size: 217.4117pt x 99.97324pt.
- [282 <../figs/VN10-2022-PH-TP021-12.jpg> <../figs/VN10-2022-PH-TP021-17.jpg> <
+ [281 <../figs/VN10-2022-PH-TP021-12.jpg> <../figs/VN10-2022-PH-TP021-17.jpg> <
 ../figs/VN10-2022-PH-TP021-18.jpg>]
-<../figs/VN10-2022-PH-TP021-9.jpg, id=4729, 117.43875pt x 68.05424pt>
+<../figs/VN10-2022-PH-TP021-9.jpg, id=4885, 117.43875pt x 68.05424pt>
 File: ../figs/VN10-2022-PH-TP021-9.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-9.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-9.jpg  used on input line 1
 72.
 (pdftex.def)             Requested size: 117.43845pt x 68.05406pt.
-<../figs/VN10-2022-PH-TP021-10.jpg, id=4730, 185.493pt x 124.66576pt>
+<../figs/VN10-2022-PH-TP021-10.jpg, id=4886, 185.493pt x 124.66576pt>
 File: ../figs/VN10-2022-PH-TP021-10.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-10.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-10.jpg  used on input line 
 212.
 (pdftex.def)             Requested size: 185.49254pt x 124.66544pt.
- [283 <../figs/VN10-2022-PH-TP021-9.jpg> <../figs/VN10-2022-PH-TP021-10.jpg>]
-<../figs/VN10-2022-PH-TP021-14.jpg, id=4738, 329.43076pt x 208.98074pt>
+ [282 <../figs/VN10-2022-PH-TP021-9.jpg> <../figs/VN10-2022-PH-TP021-10.jpg>]
+<../figs/VN10-2022-PH-TP021-14.jpg, id=4892, 329.43076pt x 208.98074pt>
 File: ../figs/VN10-2022-PH-TP021-14.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-14.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-14.jpg  used on input line 
@@ -14933,15 +14856,15 @@ Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-14.jpg  used on input line
 
 Underfull \vbox (badness 3000) has occurred while \output is active []
 
- [284 <../figs/VN10-2022-PH-TP021-14.jpg>]
-<../figs/VN10-2022-PH-TP021-13.jpg, id=4750, 345.08925pt x 221.628pt>
+ [283 <../figs/VN10-2022-PH-TP021-14.jpg>]
+<../figs/VN10-2022-PH-TP021-13.jpg, id=4905, 345.08925pt x 221.628pt>
 File: ../figs/VN10-2022-PH-TP021-13.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-13.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-13.jpg  used on input line 
 344.
 (pdftex.def)             Requested size: 276.07178pt x 177.30263pt.
- [285 <../figs/VN10-2022-PH-TP021-13.jpg>]
-<../figs/VN10-2022-PH-TP021-8.jpg, id=4759, 74.07675pt x 123.46124pt>
+ [284 <../figs/VN10-2022-PH-TP021-13.jpg>]
+<../figs/VN10-2022-PH-TP021-8.jpg, id=4914, 74.07675pt x 123.46124pt>
 File: ../figs/VN10-2022-PH-TP021-8.jpg Graphic file (type jpg)
 <use ../figs/VN10-2022-PH-TP021-8.jpg>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-8.jpg  used on input line 3
@@ -14960,14 +14883,14 @@ Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-23.jpg  used on input line
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [286 <../figs/VN10-2022-PH-TP021-8.jpg>]
-<../figs/VN10-2021-PH-TP012-3.png, id=4766, 191.5155pt x 93.34875pt>
+ [285 <../figs/VN10-2022-PH-TP021-8.jpg>]
+<../figs/VN10-2021-PH-TP012-3.png, id=4921, 191.5155pt x 93.34875pt>
 File: ../figs/VN10-2021-PH-TP012-3.png Graphic file (type png)
 <use ../figs/VN10-2021-PH-TP012-3.png>
 Package pdftex.def Info: ../figs/VN10-2021-PH-TP012-3.png  used on input line 4
 01.
 (pdftex.def)             Requested size: 153.21259pt x 74.6791pt.
-<../figs/VN10-2021-PH-TP012-4.png, id=4767, 222.8325pt x 119.2455pt>
+<../figs/VN10-2021-PH-TP012-4.png, id=4922, 222.8325pt x 119.2455pt>
 File: ../figs/VN10-2021-PH-TP012-4.png Graphic file (type png)
 <use ../figs/VN10-2021-PH-TP012-4.png>
 Package pdftex.def Info: ../figs/VN10-2021-PH-TP012-4.png  used on input line 4
@@ -14976,9 +14899,9 @@ Package pdftex.def Info: ../figs/VN10-2021-PH-TP012-4.png  used on input line 4
 
 Underfull \vbox (badness 1215) has occurred while \output is active []
 
- [287 <../figs/VN10-2021-PH-TP012-3.png (PNG copy)> <../figs/VN10-2021-PH-TP012
+ [286 <../figs/VN10-2021-PH-TP012-3.png (PNG copy)> <../figs/VN10-2021-PH-TP012
 -4.png (PNG copy)>]
-<../figs/VN10-2022-PH-TP021-P-1.png, id=4773, 145.14224pt x 286.06876pt>
+<../figs/VN10-2022-PH-TP021-P-1.png, id=4928, 145.14224pt x 286.06876pt>
 File: ../figs/VN10-2022-PH-TP021-P-1.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP021-P-1.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-P-1.png  used on input line
@@ -14994,26 +14917,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 432--457
 
  []
 
-<../figs/VN10-2022-PH-TP021-P-2.png, id=4774, 184.89075pt x 245.11575pt>
+<../figs/VN10-2022-PH-TP021-P-2.png, id=4929, 184.89075pt x 245.11575pt>
 File: ../figs/VN10-2022-PH-TP021-P-2.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP021-P-2.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-P-2.png  used on input line
  457.
 (pdftex.def)             Requested size: 140.84256pt x 186.73497pt.
-<../figs/VN10-2022-PH-TP021-P-3.png, id=4775, 398.6895pt x 145.14224pt>
+<../figs/VN10-2022-PH-TP021-P-3.png, id=4930, 398.6895pt x 145.14224pt>
 File: ../figs/VN10-2022-PH-TP021-P-3.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP021-P-3.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-P-3.png  used on input line
  462.
 (pdftex.def)             Requested size: 140.84256pt x 51.27226pt.
-[288 <../figs/VN10-2022-PH-TP021-P-1.png> <../figs/VN10-2022-PH-TP021-P-2.png>]
-<../figs/VN10-2022-PH-TP021-P-4.png, id=4784, 263.18324pt x 139.722pt>
+[287 <../figs/VN10-2022-PH-TP021-P-1.png> <../figs/VN10-2022-PH-TP021-P-2.png>]
+<../figs/VN10-2022-PH-TP021-P-4.png, id=4939, 263.18324pt x 139.722pt>
 File: ../figs/VN10-2022-PH-TP021-P-4.png Graphic file (type png)
 <use ../figs/VN10-2022-PH-TP021-P-4.png>
 Package pdftex.def Info: ../figs/VN10-2022-PH-TP021-P-4.png  used on input line
  477.
 (pdftex.def)             Requested size: 234.73523pt x 124.62294pt.
-) [289 <../figs/VN10-2022-PH-TP021-P-3.png> <../figs/VN10-2022-PH-TP021-P-4.png
+) [288 <../figs/VN10-2022-PH-TP021-P-3.png> <../figs/VN10-2022-PH-TP021-P-4.png
 >] (./Workbook-10-sem1.ptc) (../data/VN10-2023-PH-TP0004.tex
 pdfTeX warning (ext4): destination with the same identifier (name{section.20.1}
 ) has been already used, duplicate ignored
@@ -15165,7 +15088,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 69--69
 \T5/ptm/b/n/10 D.
  []
 
-[290
+[289
 
 ]
 
@@ -15240,7 +15163,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 103--103
 \T5/ptm/b/n/10 D.
  []
 
-<../figs/VN10-2021-PH-TP0002-1.png, id=4812, 224.037pt x 36.135pt>
+<../figs/VN10-2021-PH-TP0002-1.png, id=4968, 224.037pt x 36.135pt>
 File: ../figs/VN10-2021-PH-TP0002-1.png Graphic file (type png)
 <use ../figs/VN10-2021-PH-TP0002-1.png>
 Package pdftex.def Info: ../figs/VN10-2021-PH-TP0002-1.png  used on input line 
@@ -15318,7 +15241,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 145--145
 \T5/ptm/b/n/10 D.
  []
 
-[291 <../figs/VN10-2021-PH-TP0002-1.png>]
+[290 <../figs/VN10-2021-PH-TP0002-1.png>]
 
 Package tasks Warning: The width of `label-width' is too small on line 163.
 (tasks)                Please set it at least to 9.72pt.
@@ -15535,7 +15458,7 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 253--253
 \T5/ptm/b/n/10 D.
  []
 
-[292]
+[291]
 
 Package tasks Warning: The width of `label-width' is too small on line 271.
 (tasks)                Please set it at least to 9.72pt.
@@ -15752,38 +15675,41 @@ Overfull \hbox (0.72003pt too wide) in paragraph at lines 357--357
 \T5/ptm/b/n/10 D.
  []
 
-[293]
+[292]
 pdfTeX warning (ext4): destination with the same identifier (name{section.20.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.371 \section{Bài tập tự luận}
-                                       [294]
-<../figs/VN10-2023-PH-TP0004-1.png, id=4926, 131.5314pt x 164.7756pt>
+                                       [293]
+<../figs/VN10-2023-PH-TP0004-1.png, id=5082, 131.5314pt x 164.7756pt>
 File: ../figs/VN10-2023-PH-TP0004-1.png Graphic file (type png)
 <use ../figs/VN10-2023-PH-TP0004-1.png>
 Package pdftex.def Info: ../figs/VN10-2023-PH-TP0004-1.png  used on input line 
 461.
 (pdftex.def)             Requested size: 134.2425pt x 168.18954pt.
- [295 <../figs/VN10-2023-PH-TP0004-1.png>])
+ [294 <../figs/VN10-2023-PH-TP0004-1.png>])
 \tf@ptc=\write8
 \openout8 = `Workbook-10-sem1.ptc'.
 
- [296] (./Workbook-10-sem1.aux)
+ [295] (./Workbook-10-sem1.aux)
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `Workbook-10-sem1.out' has not changed.
 (rerunfilecheck)             Checksum: 9DA232B78817E8DBAB57BA20827465A0;23489.
  ) 
 Here is how much of TeX's memory you used:
- 62054 strings out of 476064
- 1434877 string characters out of 5794900
- 1916076 words of memory out of 5000000
- 78021 multiletter control sequences out of 15000+600000
- 601967 words of font info for 151 fonts, out of 8000000 for 9000
+ 62159 strings out of 476064
+ 1435768 string characters out of 5794900
+ 1920077 words of memory out of 5000000
+ 78012 multiletter control sequences out of 15000+600000
+ 598755 words of font info for 151 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 104i,23n,144p,1234b,2160s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,21n,134p,1234b,2111s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2022/texm
 f-dist/fonts/enc/dvips/vntex/t5.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips
 /fontawesome/fontawesometwo.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/
@@ -15798,10 +15724,10 @@ pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex/urwvn/utmb8v.pfb><c:/texlive/
 /fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2022/texmf-dist/fonts/type1/vntex
 /urwvn/utmr8v.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
 ><c:/texlive/2022/texmf-dist/fonts/type1/vntex/urwvn/utmri8v.pfb>
-Output written on Workbook-10-sem1.pdf (296 pages, 9646798 bytes).
+Output written on Workbook-10-sem1.pdf (295 pages, 11043118 bytes).
 PDF statistics:
- 5635 PDF objects out of 6186 (max. 8388607)
- 4820 compressed objects within 49 object streams
- 3006 named destinations out of 3580 (max. 500000)
+ 5814 PDF objects out of 6186 (max. 8388607)
+ 4991 compressed objects within 50 object streams
+ 3121 named destinations out of 3580 (max. 500000)
  2311 words of extra memory for PDF output out of 10000 (max. 10000000)
 
